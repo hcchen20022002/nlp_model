@@ -1,0 +1,33 @@
+_____________________________________________________________________
+use vim tool to replace change line to space >>> :1,$s/\n/ /g
+use sed to cut line  >>> sed 's/\. /\.\n/g' -i ${filename}
+use egrep to find line with keywords >>> egrep '${key1}.*${key2}' ${filename}
+
+_____________________________________________________________________
+
+:1,$s/\(.*\)/\1\[Title\/Abstract\] OR/g
+
+_____________________________________________________________________
+
+
+    egrep "PD.*haemorrhage" PDhaemorrhage.txt
+egrep "PD.*midodrine" PDmidodrine.txt  
+egrep "PD.*propranolol" PDPropranolol.txt 
+egrep "PD.*tolcapone" PDtolcapone.txt
+egrep "PD.*anticholinergics" PDanticholinergics.txt  
+egrep "PD.*metoclopramide" PDMetoclopramide.txt  
+egrep "PD.*pergolide" PDPergolide.txt  
+egrep "PD.*reserpine" PDreserpine.txt    
+egrep "PD.*trihexyphenidyl" PDTrihexyphenidyl.txt
+
+
+     egrep "PD.*haemorrhage" PDhaemorrhage.txt > ../PDhaemorrhage_result.txt
+egrep "PD.*midodrine" PDmidodrine.txt   > ../PDmidodrine_result.txt
+egrep "PD.*propranolol" PDPropranolol.txt  > ../PDPropranolol_result.txt
+egrep "PD.*tolcapone" PDtolcapone.txt > ../PDtolcapone_result.txt
+egrep "PD.*anticholinergics" PDanticholinergics.txt   > ../PDanticholinergics_result.txt
+egrep "PD.*metoclopramide" PDMetoclopramide.txt   > ../PDMetoclopramide_result.txt
+egrep "PD.*pergolide" PDPergolide.txt   > ../PDPergolide_result.txt
+egrep "PD.*reserpine" PDreserpine.txt     > ../PDreserpine_result.txt
+egrep "PD.*trihexyphenidyl" PDTrihexyphenidyl.txt > ../PDTrihexyphenidyl_result.txt
+
