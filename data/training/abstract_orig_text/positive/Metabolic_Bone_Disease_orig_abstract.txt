@@ -1,0 +1,146 @@
+
+1. Oral Maxillofac Surg Clin North Am. 2015 Nov;27(4):497-508. doi:
+10.1016/j.coms.2015.06.002. Epub 2015 Aug 13.
+
+Medication-Related Osteonecrosis of the Jaw: Basic and Translational Science
+Updates.
+
+Allen MR(1).
+
+Author information: 
+(1)Department of Anatomy and Cell Biology, Indiana University School of Medicine,
+635 Barnhill Drive, MS-5035, Indianapolis, IN 46202, USA. Electronic address:
+matallen@iupui.edu.
+
+In the late 1990s and the early 2000s, bisphosphonates had become the clinical
+pillar of excellence for treating metabolic bone disease, and thus their
+connection with osteonecrosis of the jaw (ONJ) caused significant concern. Over
+the past decade, progress has been made in understanding what is now referred to 
+as medication-related ONJ (MRONJ), because of its connections to agents other
+than bisphosphonates, although in many respects the progress has been slow. This 
+review highlights the key basic science and translational (animal) studies in the
+area of MRONJ and suggests areas of focus as the field moves into the next
+decade.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.coms.2015.06.002 
+PMID: 26277349  [PubMed - indexed for MEDLINE]
+
+
+2. Semin Arthritis Rheum. 2012 Apr;41(5):619-41. doi:
+10.1016/j.semarthrit.2011.07.005. Epub 2011 Sep 29.
+
+Paget's disease of bone: evidence for complex pathogenetic interactions.
+
+Chung PY(1), Van Hul W.
+
+Author information: 
+(1)Department of Medical Genetics, University of Antwerp, Antwerp, Belgium.
+
+OBJECTIVES: Paget's disease of bone (PDB), with a prevalence of 2 to 5% in
+Caucasians >55 years, is the second most frequent metabolic bone disease, after
+osteoporosis. PDB characteristics are bone lesions with an imbalanced bone
+remodeling, resulting in disorganized and nonfully fledged new bone. PDB etiology
+is not completely understood. In this review, current views on the etiology,
+clinical aspects, and PDB treatment are summarized and discussed.
+METHODS: The PubMed database was searched using the keywords PDB, sequestosome1
+(SQSTM1), valosin-containing protein (VCP), receptor activator of nuclear
+factor-κB (RANK), osteoprotegerin (OPG), RANK ligand (RANKL), mutation, genetic
+variants, virus, osteosarcoma, bisphosphonates, and denosumab.
+RESULTS: Environmental evidence (e.g. viruses) and also genetic risk factors have
+been found for PDB. Until now, SQSTM1 was the only PDB-causing gene identified.
+However, PDB patients without SQSTM1 mutations seem to have susceptibility
+genetic polymorphisms in regions containing the CaSR, ESR1, TNFRSF11B (OPG),
+TNFRSF11A (RANK), CSF1 (M-CSF), OPTN, TM7SF4 (DC-STAMP), VCP, NUP205, RIN3, PML, 
+and GOLGA6A genes, resulting in an increased risk of developing PDB. The nature
+of these genes indicates that the regulation of osteoclastogenesis is a key
+process in PDB pathogenesis. Furthermore, with the involvement of SQSTM1 and VCP 
+in autophagy and in forming protein aggregates, this might also indicate that a
+disturbance of these processes might be a risk factor.
+CONCLUSIONS: Unraveling the PDB genetic background is instrumental to
+understanding the PDB pathogenesis and the role of slow viruses. Furthermore, it 
+might make early detection and subsequently treatment of risk individuals
+possible.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.semarthrit.2011.07.005 
+PMID: 21959292  [PubMed - indexed for MEDLINE]
+
+
+3. Drug Des Devel Ther. 2011;5:225-39. doi: 10.2147/DDDT.S11306. Epub 2011 Apr 26.
+
+Emerging strategies and therapies for treatment of Paget's disease of bone.
+
+Michou L(1), Brown JP.
+
+Author information: 
+(1)Department of Medicine, CHUQ (CHUL), Research Centre and Division of
+Rheumatology, Laval University, Quebec City, QC, Canada.
+laetitia.michou@crchul.ulaval.ca
+
+Paget's disease of bone (PDB) is a progressive monostotic or polyostotic
+metabolic bone disease characterized by focal abnormal bone remodeling, with
+increased bone resorption and excessive, disorganized, new bone formation. PDB
+rarely occurs before middle age, and it is the second most frequent metabolic
+bone disorder after osteoporosis, affecting up to 3% of adults over 55 years of
+age. One of the most striking and intriguing clinical features is the focal
+nature of the disorder, in that once the disease is established within a bone,
+there is only local spread within that bone and no systemic dissemination.
+Despite many years of intense research, the etiology of PDB has still to be
+conclusively determined. Based on a detailed review of genetic and viral factors 
+incriminated in PDB, we propose a unifying hypothesis from which we can suggest
+emerging strategies and therapies. PDB results in weakened bone strength and
+abnormal bone architecture, leading to pain, deformity or, depending on the bone 
+involved, fracture in the affected bone. The diagnostic assessment includes serum
+total alkaline phosphatase, total body bone scintigraphy, skull and enlarged view
+pelvis x-rays, and if needed, additional x-rays. The ideal therapeutic option
+would eliminate bone pain, normalize serum total alkaline phosphatase with
+prolonged remission, heal radiographic osteolytic lesions, restore normal
+lamellar bone, and prevent recurrence and complications. With the development of 
+increasingly potent bisphosphonates, culminating in the introduction of a single 
+intravenous infusion of zoledronic acid 5 mg, these goals of treatment are close 
+to being achieved, together with long-term remission in almost all patients.
+Based on the recent pathophysiological findings, emerging strategies and
+therapies are reviewed: ie, pulse treatment with zoledronic acid; denosumab, a
+fully human monoclonal antibody directed against RANK ligand; tocilizumab, an
+interleukin-6 receptor inhibitor; odanacatib, a cathepsin K inhibitor; and
+proteasome and Dickkopf-1 inhibitors.
+
+DOI: 10.2147/DDDT.S11306 
+PMCID: PMC3096538
+PMID: 21607019  [PubMed - indexed for MEDLINE]
+
+
+4. Arthritis Res Ther. 2007;9 Suppl 1:S7.
+
+Clinical development of anti-RANKL therapy.
+
+Schwarz EM(1), Ritchlin CT.
+
+Author information: 
+(1)The Center for Musculoskeletal Research, University of Rochester Medical
+Center, Rochester, New York 14642, USA. edward_schwarz@urmc.rochester.edu
+
+The receptor activator of nuclear factor-kappaB ligand (RANKL), its cognate
+receptor RANK, and its natural decoy receptor osteoprotegerin have been
+identified as the final effector molecules of osteoclastic bone resorption. This 
+has provided an ideal target for therapeutic interventions in metabolic bone
+disease. As described in previous reviews in this supplement, RANKL signaling is 
+required for osteoclast differentiation, activation, and survival. Furthermore,
+in vivo inhibition of RANKL leads to immediate osteoclast apoptosis, and there
+are no in vivo models of bone resorption that are refractory to RANKL inhibition.
+Thus, the only step remaining in the development of a clinical intervention is
+the generation of a safe, effective, and specific drug that can inhibit RANKL in 
+humans. Here we review the clinical development of denosumab (formerly known as
+AMG 162), which is a fully human mAb directed against RANKL. This discussion
+includes the breadth of 21 human studies that have led to the current phase 3
+clinical trials seeking approval for use of this agent to treat postmenopausal
+women with low bone mineral density (osteoporosis) and patients with metastatic
+lytic bone lesions (multiple myeloma, and prostate and breast cancer).
+
+DOI: 10.1186/ar2171 
+PMCID: PMC1924522
+PMID: 17634146  [PubMed - indexed for MEDLINE]
+

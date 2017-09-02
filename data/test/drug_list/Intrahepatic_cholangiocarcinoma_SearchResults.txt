@@ -1,0 +1,74 @@
+Study List:
+
+Study 1:
+  Title:                    Role of Bile Duct Resection in Major Hepatectomy Due to Intrahepatic Cholangiocarcinoma
+  Recruitment:              Completed
+  Study Results:            No Results Available
+  Conditions:               Intrahepatic Cholangiocarcinoma
+  Interventions:            
+  URL:                      https://ClinicalTrials.gov/show/NCT01862276
+
+Study 2:
+  Title:                    Stereotactic Body Radiotherapy for Hepatocellular Carcinoma, and Intrahepatic Cholangiocarcinoma
+  Recruitment:              Completed
+  Study Results:            No Results Available
+  Conditions:               Carcinoma, Hepatocellular|Intrahepatic Cholangiocarcinoma
+  Interventions:            Radiation: Stereotactic radiation
+  URL:                      https://ClinicalTrials.gov/show/NCT01668134
+
+Study 3:
+  Title:                    Analysis of Oncogenes in Intrahepatic Cholangiocarcinoma or Mixed Hepatocellular-Cholangiocarcinoma in Tumor Tissue Samples
+  Recruitment:              Completed
+  Study Results:            No Results Available
+  Conditions:               Intrahepatic Cholangiocarcinoma|Mixed Hepatocellular Cholangiocarcinoma|Cholangiocarcinoma
+  Interventions:            
+  URL:                      https://ClinicalTrials.gov/show/NCT02762721
+
+Study 4:
+  Title:                    Cabozantinib (XL-184) Monotherapy for Advanced Cholangiocarcinoma
+  Recruitment:              Completed
+  Study Results:            Has Results
+  Conditions:               Bile Duct Cancer|Intrahepatic Cholangiocarcinoma|Cholangiocarcinoma of the Extrahepatic Bile Duct
+  Interventions:            Drug: Cabozantinib
+  URL:                      https://ClinicalTrials.gov/show/NCT01954745
+
+Study 5:
+  Title:                    Vandetanib Gemcitabine Or Placebo Plus Gemcitabine Or Vandetanib Monotherapy In Advanced Biliary Tract Cancer
+  Recruitment:              Completed
+  Study Results:            Has Results
+  Conditions:               Biliary Tract Cancer|Gallbladder Cancer|Cancer Of The Extrahepatic Bile Duct|Ampullary Carcinoma
+  Interventions:            Drug: ZD6474, Vandetanib|Drug: ZD6474, Vandetanib|Drug: Gemcitabine|Drug: Placebo matching ZD6474
+  URL:                      https://ClinicalTrials.gov/show/NCT00753675
+
+Study 6:
+  Title:                    Study of Orally Administered AG-221 in Subjects With Advanced Solid Tumors, Including Glioma, and With Angioimmunoblastic T-cell Lymphoma, With an IDH2 Mutation Subjects With Advanced Solid Tumors, Including Glioma, and With Angioimmunoblastic T-cell Lymphoma, With an IDH2 Mutation
+  Recruitment:              Completed
+  Study Results:            No Results Available
+  Conditions:               Solid Tumor|Glioma|Angioimmunoblastic T-cell Lymphoma|Intrahepatic Cholangiocarcinoma|Chondrosarcoma
+  Interventions:            Drug: AG-221
+  URL:                      https://ClinicalTrials.gov/show/NCT02273739
+
+Study 7:
+  Title:                    Study Of Intrahepatic Arterial Injection of 90-Y Glass Microspheres for Cholangiocarcinoma
+  Recruitment:              Completed
+  Study Results:            Has Results
+  Conditions:               Cholangiocarcinoma
+  Interventions:            Device: TheraSphere® Yttrium-90 (Y-90) Microspheres
+  URL:                      https://ClinicalTrials.gov/show/NCT01253148
+
+Study 8:
+  Title:                    Downsizing of Unresectable Cholangiocarcinoma by Combined Intravenous and Intra-arterial Chemotherapy
+  Recruitment:              Completed
+  Study Results:            No Results Available
+  Conditions:               Cholangiocellular Carcinoma
+  Interventions:            Drug: Selective intra-arterial floxuridine and systemic gemcitabine and cisplatin
+  URL:                      https://ClinicalTrials.gov/show/NCT01692704
+
+Study 9:
+  Title:                    Selumetinib in Treating Patients With Biliary Cancer That Cannot Be Removed By Surgery
+  Recruitment:              Completed
+  Study Results:            Has Results
+  Conditions:               Liver and Intrahepatic Biliary Tract Cancer|Recurrent Extrahepatic Bile Duct Cancer|Unresectable Extrahepatic Bile Duct Cancer
+  Interventions:            Drug: selumetinib|Other: laboratory biomarker analysis
+  URL:                      https://ClinicalTrials.gov/show/NCT00553332
+
