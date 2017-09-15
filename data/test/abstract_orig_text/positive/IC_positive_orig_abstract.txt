@@ -1,0 +1,2443 @@
+
+1. J Gastrointest Oncol. 2017 Aug;8(4):728-736. doi: 10.21037/jgo.2017.01.24.
+
+Gemcitabine and capecitabine for advanced biliary cancer.
+
+Gabriel E(1), Gandhi S(2), Attwood K(3), Kuvshinoff B(1), Hochwald S(1), Iyer
+R(2).
+
+Author information: 
+(1)Department of Surgical Oncology, Roswell Park Cancer Institute, Buffalo, NY,
+USA.
+(2)Department of Medical Oncology, Roswell Park Cancer Institute, Buffalo, NY,
+USA.
+(3)Department of Biostatistics, Roswell Park Cancer Institute, Buffalo, NY, USA.
+
+BACKGROUND: Gemcitabine with capecitabine (gem-cap) is an established regimen for
+advanced biliary cancer (ABC) supported by our previously reported phase II
+trial. Here, we provide our updated experience.
+METHODS: Single institution, retrospective study from 2005 to 2015 of ABC treated
+with gem-cap.
+RESULTS: A total of 372 patients with ABC were identified, of whom 227 (61.0%)
+were treated with chemotherapy. 153 patients (67.4%) received gem-cap, of which
+129 (56.8%) received it in the first line. Thirty two point six percent (42/129) 
+were locally advanced, 67.4% (87/129) had metastatic disease, and 18.6% (24/129) 
+received it as adjuvant therapy. Disease sites included 48.8% [63] intrahepatic
+cholangiocarcinoma (IHCC), 24.0% [31] extrahepatic cholangiocarcinoma (EHCC) and 
+27.1% [35] gallbladder carcinoma (GBC). Median follow-up was 49.7 months (mo).
+The median PFS and OS were 8.0 mo [95% confidence intervals (CI): 6.0-9.3] and
+13.0 mo (95% CI: 10.7-17.4), respectively. Overall, 53.5% (69/129) experienced a 
+grade 3/4 toxicity. The most common (35.7%) was a hematologic toxicity
+(neutropenia or thrombocytopenia) followed by infection (25.6%).
+CONCLUSIONS: Gem-cap provides similar survival outcomes to gemcitabine/cisplatin 
+based on historical comparison to the ABC-2 trial (median PFS =8.0 mo and OS
+=11.7 mo). Gem-cap may offer the advantage of fewer adverse events compared to
+the levels reported in ABC-2 (grade 3/4 events 70.7%).
+
+DOI: 10.21037/jgo.2017.01.24 
+PMCID: PMC5582046
+PMID: 28890824 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+
+
+2. Cancer Discov. 2017 Sep;7(9):943-962. doi: 10.1158/2159-8290.CD-17-0245. Epub
+2017 Aug 17.
+
+New Horizons for Precision Medicine in Biliary Tract Cancers.
+
+Valle JW(1)(2), Lamarca A(3), Goyal L(4), Barriuso J(3)(5), Zhu AX(6).
+
+Author information: 
+(1)Department of Medical Oncology, The Christie NHS Foundation Trust, Wilmslow
+Road, Manchester, UK. juan.valle@christie.nhs.uk azhu@mgh.harvard.edu.
+(2)Institute of Cancer Sciences, University of Manchester, Wilmslow Road,
+Manchester, UK.
+(3)Department of Medical Oncology, The Christie NHS Foundation Trust, Wilmslow
+Road, Manchester, UK.
+(4)Massachusetts General Hospital Cancer Center, Harvard Medical School, Boston, 
+Massachusetts.
+(5)Faculty of Medical, Biological and Human Sciences, University of Manchester,
+Rumford Street, Manchester, UK.
+(6)Massachusetts General Hospital Cancer Center, Harvard Medical School, Boston, 
+Massachusetts. juan.valle@christie.nhs.uk azhu@mgh.harvard.edu.
+
+Biliary tract cancers (BTC), including cholangiocarcinoma and gallbladder cancer,
+are poor-prognosis and low-incidence cancers, although the incidence of
+intrahepatic cholangiocarcinoma is rising. A minority of patients present with
+resectable disease but relapse rates are high; benefit from adjuvant capecitabine
+chemotherapy has been demonstrated. Cisplatin/gemcitabine combination
+chemotherapy has emerged as the reference first-line treatment regimen; there is 
+no standard second-line therapy. Selected patients may be suitable for
+liver-directed therapy (e.g., radioembolization or external beam radiation),
+pending confirmation of benefit in randomized studies. Initial trials targeting
+the epithelial growth factor receptor and angiogenesis pathways have failed to
+deliver new treatments. Emerging data from next-generation sequencing analyses
+have identified actionable mutations (e.g., FGFR fusion rearrangements and IDH1
+and IDH2 mutations), with several targeted drugs entering clinical development
+with encouraging results. The role of systemic therapies, including targeted
+therapies and immunotherapy for BTC, is rapidly evolving and is the subject of
+this review.Significance: The authors address genetic drivers and molecular
+biology from a translational perspective, in an intent to offer a clear view of
+the recent past, present, and future of BTC. The review describes a
+state-of-the-art update of the current status and future directions of research
+and therapy in advanced BTC. Cancer Discov; 7(9); 943-62. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/2159-8290.CD-17-0245 
+PMCID: PMC5586506 [Available on 2018-03-01]
+PMID: 28818953 
+
+
+3. J Hepatol. 2017 Jul 19. pii: S0168-8278(17)32149-9. doi:
+10.1016/j.jhep.2017.07.006. [Epub ahead of print]
+
+Pan-mTOR inhibitor MLN0128 is effective against intrahepatic cholangiocarcinoma
+in mice.
+
+Zhang S(1), Song X(2), Cao D(3), Xu Z(4), Fan B(5), Che L(6), Hu J(7), Chen B(8),
+Dong M(9), Pilo MG(10), Cigliano A(10), Evert K(11), Ribback S(10), Dombrowski
+F(10), Pascale RM(12), Cossu A(13), Vidili G(12), Porcu A(12), Simile MM(12), Pes
+GM(12), Giannelli G(14), Gordan J(15), Wei L(16), Evert M(11), Cong W(17),
+Calvisi DF(18), Chen X(19).
+
+Author information: 
+(1)Department of Pathology, Eastern Hepatobiliary Surgery Hospital, Second
+Military Medical University, Shanghai, China; Tumor Immunology and Gene Therapy
+Center, Eastern Hepatobiliary Surgery Hospital, Second Military Medical
+University, Shanghai, China; Department of Bioengineering and Therapeutic
+Sciences and Liver Center, University of California, San Francisco, CA, USA.
+(2)Beijing Advanced Innovation Center for Food Nutrition and Human Health,
+College of Food Science and Nutritional Engineering, China Agricultural
+University, Beijing, China; Department of Bioengineering and Therapeutic Sciences
+and Liver Center, University of California, San Francisco, CA, USA.
+(3)Department of Medical Oncology, Cancer Center, State Key Laboratory of
+Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China;
+Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA.
+(4)Department of Gastroenterology, Guizhou Provincial People's Hospital, Guizhou,
+China; Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA.
+(5)Department of Gastrointestinal Surgery, Key Laboratory of Carcinogenesis and
+Translational Research, Peking University Cancer Hospital & Institute, Beijing,
+China; Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA.
+(6)Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA.
+(7)Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA; School of Pharmacy, Hubei
+University of Chinese Medicine, Wuhan, Hubei, China.
+(8)Department of Pediatrics and Institute for Computational Health Sciences,
+University of California, San Francisco, CA, USA.
+(9)Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA; Department of Gastroenterology,
+307 Hospital of PLA, Beijing, China.
+(10)Institute of Pathology, University of Greifswald, Greifswald, Germany.
+(11)Institute of Pathology, University of Regensburg, Regensburg, Germany.
+(12)Department of Clinical and Experimental Medicine, University of Sassari,
+Sassari, Italy.
+(13)Unit of Pathology, Azienda Ospedaliero Universitaria Sassari, Sassari, Italy.
+(14)National Institute of Gastroenterology "S. de Bellis", Research Hospital,
+Castellana Grotte, Italy.
+(15)Department of Medicine, University of California, San Francisco, CA, USA.
+(16)Tumor Immunology and Gene Therapy Center, Eastern Hepatobiliary Surgery
+Hospital, Second Military Medical University, Shanghai, China.
+(17)Department of Pathology, Eastern Hepatobiliary Surgery Hospital, Second
+Military Medical University, Shanghai, China. Electronic address:
+wmcong@smmu.edu.cn.
+(18)Institute of Pathology, University of Greifswald, Greifswald, Germany.
+Electronic address: diego.calvisi@uni-greifswald.de.
+(19)Department of Bioengineering and Therapeutic Sciences and Liver Center,
+University of California, San Francisco, CA, USA; School of Pharmacy, Hubei
+University of Chinese Medicine, Wuhan, Hubei, China. Electronic address:
+xin.chen@ucsf.edu.
+
+BACKGROUND & AIMS: Intrahepatic cholangiocarcinoma (ICC) is a lethal malignancy
+without effective treatment options. MLN0128, a second generation pan-mTOR
+inhibitor, shows efficacy for multiple tumor types. We evaluated the therapeutic 
+potential of MLN0128 vs. gemcitabine/oxaliplatin in a novel ICC mouse model.
+METHODS: We established a novel ICC mouse model via hydrodynamic transfection of 
+activated forms of AKT (myr-AKT) and Yap (YapS127A) protooncogenes (that will be 
+referred to as AKT/YapS127A). Genetic approaches were applied to study the
+requirement of mTORC1 and mTORC2 in mediating AKT/YapS127A driven tumorigenesis. 
+Gemcitabine/oxaliplatin and MLN0128 were administered in AKT/YapS127A
+tumor-bearing mice to study their anti-tumor efficacy in vivo. Multiple human ICC
+cell lines were used for in vitro experiments. Hematoxylin and eosin staining,
+immunohistochemistry and immunoblotting were applied for the characterization and
+mechanistic study.
+RESULTS: Co-expression of myr-AKT and YapS127A promoted ICC development in mice. 
+Both mTORC1 and mTORC2 complexes were required for AKT/YapS127A ICC development. 
+Gemcitabine/oxaliplatin had limited efficacy in treating late stage AKT/YapS127A 
+ICC. In contrast, partial tumor regression was achieved when MLN0128 was applied 
+in the late stage of AKT/YapS127A cholangiocarcinogenesis. Furthermore, when
+MLN0128 was administered in the early stage of AKT/YapS127A carcinogenesis, it
+led to disease stabilization. Mechanistically, MLN0128 efficiently inhibited
+AKT/mTOR signaling both in vivo and in vitro, inducing strong ICC cell apoptosis 
+and only marginally affecting proliferation.
+CONCLUSIONS: This study suggests that mTOR kinase inhibitors may be beneficial
+for the treatment of ICC, even in tumors that are resistant to standard of care
+chemotherapeutics, such as gemcitabine/oxaliplatin-based regimens, especially in 
+the subset of tumors exhibiting activated AKT/mTOR cascade. Lay summary: We
+established a novel mouse model of intrahepatic cholangiocarcinoma (ICC). Using
+this new preclinical model, we evaluated the therapeutic potential of mTOR
+inhibitor MLN0128 vs. gemcitabine/oxaliplatin (the standard chemotherapy for ICC 
+treatment). Our study shows the anti-neoplastic potential of MLN0128, suggesting 
+that it may be superior to gemcitabine/oxaliplatin-based chemotherapy for the
+treatment of ICC, especially in the tumors exhibiting activated AKT/mTOR cascade.
+
+Copyright © 2017 European Association for the Study of the Liver. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhep.2017.07.006 
+PMID: 28733220 
+
+
+4. HPB (Oxford). 2017 Jul 17. pii: S1365-182X(17)30831-6. doi:
+10.1016/j.hpb.2017.06.008. [Epub ahead of print]
+
+Impact of adjuvant chemotherapy on survival in patients with intrahepatic
+cholangiocarcinoma: a multi-institutional analysis.
+
+Reames BN(1), Bagante F(2), Ejaz A(1), Spolverato G(2), Ruzzenente A(2), Weiss
+M(1), Alexandrescu S(3), Marques HP(4), Aldrighetti L(5), Maithel SK(6), Pulitano
+C(7), Bauer TW(8), Shen F(9), Poultsides GA(10), Soubrane O(11), Martel G(12),
+Koerkamp BG(13), Guglielmi A(2), Itaru E(14), Pawlik TM(15).
+
+Author information: 
+(1)Department of Surgery, Johns Hopkins Hospital, Baltimore, MD, USA.
+(2)Department of Surgery, University of Verona, Verona, Italy.
+(3)Department of Surgery, Fundeni Clinical Institute, Bucharest, Romania.
+(4)Department of Surgery, Curry Cabral Hospital, Lisbon, Portugal.
+(5)Department of Surgery, Ospedale San Raffaele, Milan, Italy.
+(6)Department of Surgery, Emory University, Atlanta, GA, USA.
+(7)Department of Surgery, Royal Prince Alfred Hospital, University of Sydney,
+Sydney, Australia.
+(8)Department of Surgery, University of Virginia, Charlottesville, VA, USA.
+(9)Department of Surgery, Eastern Hepatobiliary Surgery Hospital, Shanghai,
+China.
+(10)Department of Surgery, Stanford University, Stanford, CA, USA.
+(11)Department of Hepatobiliopancreatic Surgery and Liver Transplantation, AP-HP,
+Beaujon Hospital, Clichy, France.
+(12)Division of General Surgery, Department of Surgery, University of Ottawa,
+Ottawa, ON, Canada.
+(13)Department of Surgery, Erasmus University Medical Centre, Rotterdam, The
+Netherlands.
+(14)Gastroenterological Surgery Division, Yokohama City University School of
+Medicine, Yokohama, Japan.
+(15)Department of Surgery, The Ohio State University Wexner Medical Center,
+Columbus, OH, USA. Electronic address: Tim.Pawlik@osumc.edu.
+
+BACKGROUND: The benefit of adjuvant chemotherapy for resected intrahepatic
+cholangiocarcinoma (ICC) is unclear. The aim of the current study was to
+investigate the impact of adjuvant chemotherapy on survival among patients
+undergoing resection of ICC using a multi-institutional database.
+METHODS: 1154 ICC patients undergoing curative-intent hepatectomy between 1990
+and 2015 were identified from 14 institutions. Cox proportional hazard modeling
+was used to determine the impact of adjuvant chemotherapy on overall survival
+(OS).
+RESULTS: Following resection, 347 (30%) patients received adjuvant chemotherapy, 
+most commonly a gemcitabine-based regimen (n = 184, 52%). Patients with T2/T3/T4 
+disease were more likely to receive adjuvant therapy compared with patients with 
+T1a/T1b disease (OR 2.5, 95%CI 1.89-3.23; P < 0.001). Among patients who did and 
+did not receive adjuvant therapy, patients with T2/T3/T4 tumors had a 5-year OS
+of 37% (95%CI 28.9-44.4) versus 30% (95%CI 23.8-35.6), respectively (p = 0.006). 
+Similarly patients with N1 disease who received adjuvant chemotherapy tended to
+have improved 5-year OS (18.3%, 95%CI 9.0-30.1 vs. no adjuvant therapy 12%, 95%CI
+3.9-24.4; P = 0.050).
+CONCLUSIONS: While adjuvant chemotherapy did not influence the prognosis of all
+ICC patients following surgical resection, it was associated with a potential
+survival benefit in subgroups of patients at increased risk for recurrence, such 
+as those with advanced tumors.
+
+Copyright © 2017 International Hepato-Pancreato-Biliary Association Inc.
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.hpb.2017.06.008 
+PMID: 28728891 
+
+
+5. Oncol Lett. 2017 Jul;14(1):41-46. doi: 10.3892/ol.2017.6137. Epub 2017 May 8.
+
+Overexpression of the X-linked ribosomal protein S4 predicts poor prognosis in
+patients with intrahepatic cholangiocarcinoma.
+
+Kuang J(1), Li QY(1), Fan F(2), Shen NJ(2), Zhan YJ(2), Tang ZH(3), Yu WL(2).
+
+Author information: 
+(1)Department of Surgery, Ruijin Hospital, Shanghai Jiaotong University School of
+Medicine, Shanghai 200092, P.R. China.
+(2)Department II of Biliary Tract Surgery, Eastern Hepatobiliary Hospital,
+Shanghai 200438, P.R. China.
+(3)Department of General Surgery, Xinhua Hospital, Shanghai Jiaotong University
+School of Medicine, Shanghai 200092, P.R. China.
+
+X-linked ribosomal protein S4 (RPS4X) has previously been reported to be
+associated with cisplatin resistance and clinical outcome in bladder and ovarian 
+cancer. However, the value of RPS4X as a diagnostic and prognostic marker in
+intrahepatic cholangiocarcinoma (ICC) has not yet been investigated. The present 
+study evaluated the expression pattern, and diagnostic and prognostic value of
+RPS4X in patients with ICC. Retrospective analysis was performed for a total of
+201 patients with intrahepatic cholangiocarcinoma, and 8 patients with
+inflammation of the bile duct. Immunohistochemistry was performed using tissue
+microarrays to characterize the expression profile of RPS4X. Receiver operating
+characteristic (ROC) curves, the Kaplan-Meier estimator and Cox regression
+analysis were applied to evaluate the potential diagnostic and prognostic value
+of RPS4X in ICC. RPS4X was significantly upregulated in ICC tissues compared with
+the inflamed bile duct tissues. When differentiating ICC from normal controls,
+ROC analysis of RPS4X gave an area under the curve value of 0.9030 (sensitivity, 
+82.59%; specificity, 100%). RPS4X expression was significantly positively
+correlated with serum alkaline phosphatase levels. Survival analysis demonstrated
+that RPS4X expression levels were an independent prognostic factor for overall
+survival. Therefore, RPS4X expression levels may serve as a novel diagnostic and 
+prognostic marker in ICC.
+
+DOI: 10.3892/ol.2017.6137 
+PMCID: PMC5494819
+PMID: 28693133 
+
+
+6. J Cancer. 2017 May 12;8(8):1395-1399. doi: 10.7150/jca.17898. eCollection 2017.
+
+The Clinical Impact of c-MET Over-Expression in Advanced Biliary Tract Cancer
+(BTC).
+
+Heo MH(1), Kim HK(1), Lee H(1), Kim KM(2), Lee J(1), Park SH(1), Park JO(1), Lim 
+HY(1), Kang WK(1), Park YS(1), Kim ST(1).
+
+Author information: 
+(1)Division of Hematology-Oncology, Department of Medicine, Samsung Medical
+Center, Sungkyunkwan University School of Medicine, Seoul, Korea.
+(2)Department of Pathology & Translational Genomics, Samsung Medical Center,
+Sungkyunkwan University School of Medicine, Seoul, Korea.
+
+Background: c-MET is a proto-oncogene that encodes the tyrosine kinase receptor
+for hepatocyte growth factor (HGF). Activation of HGF-c-MET signaling involves
+cell invasiveness and evokes metastasis through direct involvement of tumor
+angiogenesis. However, the value of c-MET overexpression is still unknown in
+metastatic biliary tract cancer (BTC). Methods: We analyzed the incidence and
+clinicopathologic characteristics of c-MET overexpression in advanced BTC.
+Moreover, we investigated the value of c-MET overexpression in predicting
+response to gemicitabine plus cisplatin (GC), a first line standard regimen, and 
+as a prognostic marker in metastatic BTC. Results: The BTC subtype distribution
+(N=44) was as follows: intrahepatic cholangiocarcinoma (IHCC, n=7), extrahepatic 
+cholangiocarcinoma (EHCC, n=25) and gallbladder cancer (GBC, n=12). Liver (52.3%)
+was the predominant metastatic site, followed by lymph nodes (36.4%) and bone
+(15.9%). Among the 44 patients analyzed for c-MET expression, 15 (34.1%)
+exhibited c-MET overexpression in tumor tissues. There was no significant
+difference in the prevalence of c-MET overexpression among primary sites in EHCC 
+(7/25, 28.0%), IHCC (3/7, 42.9%), and GBC (5/12, 41.7%). There was also no
+significant correlation between specific clinicopathologic variables and c-MET
+expression. Comparing the tumor-response to GC according to c-MET expression
+(overexpression vs. non-overexpression), there was no significant difference in
+either RR or DCR (p=0.394 and p >0.999, respectively). The median PFS for all 44 
+patients was 9.00 months (95% CI, 7.5-10.5 months) and there was no significant
+difference for PFS between patients with c-MET overexpression and those without
+(p=0.917). The median OS was 14.4 months (95% CI, 11.9-16.9 months). There was no
+significant difference in OS between patients with c-MET overexpression compared 
+to those without (13.7 vs. 14.4 months, respectively; p=0.708). Conclusions:
+c-MET overexpression was detected in 34.1% of advanced BTC patients irrespective 
+of tumor location. c-MET overexpression did not predict response to GC or
+survival. Further studies are needed to fully elucidate the value of c-MET
+overexpression as a novel biomarker in these patients.
+
+DOI: 10.7150/jca.17898 
+PMCID: PMC5479244
+PMID: 28638453 
+
+Conflict of interest statement: Competing Interests: The authors have declared
+that no competing interest exists.
+
+
+7. BMC Cancer. 2017 Jun 2;17(1):395. doi: 10.1186/s12885-017-3389-z.
+
+CUL4A overexpression as an independent adverse prognosticator in intrahepatic
+cholangiocarcinoma.
+
+Huang G-(1)(2), Liu TT(2), Weng SW(3), You HL(1)(4), Wei YC(5), Chen CH(6)(7)(8),
+Eng HL(2), Huang WT(9)(10)(11)(12).
+
+Author information: 
+(1)Department of Laboratory Medicine, Kaohsiung Chang Gung Memorial Hospital and 
+Chang Gung University College of Medicine, Kaohsiung, Taiwan.
+(2)Department of Pathology, Kaohsiung Chang Gung Memorial Hospital and Chang Gung
+University College of Medicine, Kaohsiung, Taiwan.
+(3)Department of Internal Medicine, Kaohsiung Chang Gung Memorial Hospital and
+Chang Gung University College of Medicine, Kaohsiung, Taiwan.
+(4)Department of Medical Laboratory Sciences and Biotechnology, Fooyin
+University, Kaohsiung, Taiwan.
+(5)Department of Pathology Kaohsiung Municipal Ta-Tung Hospital, Kaohsiung
+Medical University Hospital, Kaohsiung, Taiwan.
+(6)Institute for Translational Research in Biomedicine, Kaohsiung Chang Gung
+Memorial Hospital, Kaohsiung, Taiwan.
+(7)Department of Applied Chemistry, National Chi Nan University, Nantou, Taiwan.
+(8)Center for Infectious Disease and Cancer Research, Kaohsiung Medical
+University, Kaohsiung, Taiwan.
+(9)Department of Laboratory Medicine, Kaohsiung Chang Gung Memorial Hospital and 
+Chang Gung University College of Medicine, Kaohsiung, Taiwan.
+huangwanting5@gmail.com.
+(10)Department of Pathology, Kaohsiung Chang Gung Memorial Hospital and Chang
+Gung University College of Medicine, Kaohsiung, Taiwan. huangwanting5@gmail.com.
+(11)Department of Medical Laboratory Sciences and Biotechnology, Fooyin
+University, Kaohsiung, Taiwan. huangwanting5@gmail.com.
+(12)Department of Laboratory Medicine, Kaohsiung Medical Center, Chang Gung
+Memorial Hospital, 123, Ta-pei Road, Niao-Sung District, Kaohsiung City, Taiwan. 
+huangwanting5@gmail.com.
+
+BACKGROUND: CUL4A has been known for its oncogenic properties in various human
+cancers. However, its role in intrahepatic cholangiocarcinoma (iCCA) has not been
+explored.
+METHODS: We retrospectively investigated 105 iCCA cases from a single medical
+institution. Tissue microarrays were used for immunohistochemical analysis of
+CUL4A expression. CUL4A expression vectors were introduced in cell lines. Cell
+migration and invasion assays were used to compare the mobility potential of iCCA
+cells under basal conditions and after manipulation. Then we evaluated the
+effects of CUL4A on the cell growth by proliferation assay, and further checked
+the susceptibility to cisplatin in iCCA cells with or without CUL4A
+overexpression.
+RESULTS: CUL4A overexpression was detected in 34 cases (32.4%). Patients with
+CUL4A-overexpressing tumors exhibited shortened disease-free survival (mean, 27.7
+versus 90.4 months; P = 0.011). In the multivariate analysis model, CUL4A
+overexpression was shown to be an independent unfavorable predictor for
+disease-free survival (P = 0.045). Moreover, stably transfected
+CUL4A-overexpressing iCCA cell lines displayed an increased mobility potential
+and enhanced cell growth without impact on susceptibility to cisplatin.
+CONCLUSIONS: Our data demonstrate that overexpression of CUL4A plays an oncogenic
+role in iCCA and adversely affects disease-free survival. Thus, it may prove to
+be a powerful prognostic factor and a potential therapeutic target.
+
+DOI: 10.1186/s12885-017-3389-z 
+PMCID: PMC5457619
+PMID: 28576144 
+
+
+8. Case Rep Endocrinol. 2017;2017:7012520. doi: 10.1155/2017/7012520. Epub 2017 May 
+10.
+
+Humoral Hypercalcemia of Malignancy with a Parathyroid Hormone-Related
+Peptide-Secreting Intrahepatic Cholangiocarcinoma Accompanied by a Gastric
+Cancer.
+
+Takeda K(1), Kimura R(1), Nishigaki N(2), Sato S(3), Okamoto A(1), Watanabe K(1),
+Yasui S(1).
+
+Author information: 
+(1)Department of Endocrinology and Metabolism, Nagoya City West Medical Center,
+1-1-1 Hirate-cho, Kita-ku, Nagoya 462-8508, Japan.
+(2)Department of Gastroenterology, Nagoya City West Medical Center, 1-1-1
+Hirate-cho, Kita-ku, Nagoya 462-8508, Japan.
+(3)Department of Experimental Pathology and Tumor Biology, Nagoya City University
+Graduate School of Medical Sciences, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya
+467-8601, Japan.
+
+Humoral hypercalcemia of malignancy (HHM) is caused by the oversecretion of
+parathyroid hormone-related peptide (PTHrP) from malignant tumors. Although any
+tumor may cause HHM, that induced by intrahepatic cholangiocarcinoma (ICC) or
+gastric cancer (GC) is rare. We report here a 74-year-old male who displayed HHM 
+with both ICC and GC and showed an elevated serum PTHrP level. Treatment of the
+hypercalcemia with saline, furosemide, elcatonin, and zoledronic acid corrected
+his serum calcium level and improved symptoms. Because treatment of ICC should
+precede that of GC, we chose chemotherapy with cisplatin (CDDP) and gemcitabine
+(GEM). Chemotherapy reduced the size of the ICC and decreased the serum PTHrP
+level. One year after diagnosis, the patient was alive in the face of a poor
+prognosis for an ICC that produced PTHrP. Immunohistochemical staining for PTHrP 
+was positive for the ICC and negative for the GC, leading us to believe that the 
+cause of the HHM was a PTHrP-secreting ICC. In conclusion, immunohistochemical
+staining for PTHrP may be useful in discovering the cause of HHM in the case of
+two cancers accompanied by an elevated serum PHTrP level. Chemotherapy with CDDP 
+and GEM may be the most appropriate treatment for a PTHrP-secreting ICC.
+
+DOI: 10.1155/2017/7012520 
+PMCID: PMC5442343
+PMID: 28573053 
+
+
+9. Hepatobiliary Surg Nutr. 2017 Apr;6(2):91-100. doi: 10.21037/hbsn.2016.12.12.
+
+Therapeutic options for intrahepatic cholangiocarcinoma.
+
+Bupathi M(1), Ahn DH(2), Bekaii-Saab T(2).
+
+Author information: 
+(1)Medical Oncology, Ohio State University Medical Center, Columbus, OH 43210,
+USA.
+(2)Hematology/Medical Oncology, Mayo Clinic, Phoenix, AZ 85054, USA.
+
+Biliary tract cancer (BTC) is a heterogeneous group of cancers, which is composed
+of intrahepatic cholangiocarcinoma (ICCA), extrahepatic cholangiocarcinoma
+(ECCA), gallbladder cancers and ampullary carcinomas. While all anatomic
+subgroups are treated uniformly, our understanding about the pathogenesis has
+allowed us to reason that each group represents a clinically and genetically
+diverse disease. The majority of patients present with locally advanced or
+metastatic disease, where the standard treatment is combination systemic
+cytotoxic chemotherapy with gemcitabine and cisplatin. While most receive a
+clinical benefit from chemotherapy, patients eventually progress where no
+standardized therapies are available in the refractory setting. With the use of
+next generation sequencing, we have come to understand that ICCA is a diverse
+genomic disease with many actionable alterations that may serve as potential
+therapeutic targets. Further studies investigating the role of novel targeted
+agents (as a single agent or with combination chemotherapy) will hopefully
+provide additional treatment options for this highly lethal disease.
+
+DOI: 10.21037/hbsn.2016.12.12 
+PMCID: PMC5411274
+PMID: 28503556 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+
+
+10. J Gastrointest Oncol. 2017 Apr;8(2):324-336. doi: 10.21037/jgo.2016.09.16.
+
+Targeted therapy in biliary tract cancers-current limitations and potentials in
+the future.
+
+Sahu S(1), Sun W(1).
+
+Author information: 
+(1)Division of Oncology, Department of Medicine Hematology, University of
+Pittsburgh Cancer Institute, University of Pittsburgh, Pittsburgh, PA 15232, USA.
+
+Biliary tract cancers (BTC)/Cholangiocarcinoma (CCA) is an aggressive biliary
+tract epithelial malignancy from varying locations within the biliary tree with
+cholangiocyte depreciation., including intrahepatic cholangiocarcinoma (iCCA)
+(iCCA), extrahepatic cholangiocarcinoma (eCCA) and gallbladder carcinoma (GBC).
+The disease is largely heterogeneous in etiology, epidemiology, and molecular
+profile. There are limited treatment options and low survival rates for those
+patients with advanced or metastatic disease. Systemic treatment is confined to
+cytotoxic chemotherapy with the combination of gemcitabine and cisplatin. Lack of
+a stereotype genetic signature makes difficult in identification of potential
+actionable target directly, which may also explain lack of obvious clinic benefit
+with target oriented agents from current studies. It is crucial to understand of 
+BTC carcinogenesis, tumor-stroma interactions, and key molecular pathways, and
+herald to establish targeted, individualized therapies for the heterogeneous
+disease, and eventually to improve the survival and overall outcome of patients.
+
+DOI: 10.21037/jgo.2016.09.16 
+PMCID: PMC5401865
+PMID: 28480071 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+
+
+11. Strahlenther Onkol. 2017 Aug;193(8):620-629. doi: 10.1007/s00066-017-1128-7. Epub
+2017 Apr 19.
+
+Improved oncologic outcome with chemoradiotherapy followed by surgery in
+unresectable intrahepatic cholangiocarcinoma.
+
+Cho Y(1), Kim TH(1), Seong J(2).
+
+Author information: 
+(1)Department of Radiation Oncology, Yonsei Cancer Center, Yonsei University
+College of Medicine, 50 Yonsei-ro, Seodaemun-gu, 120-752, Seoul, Korea (Republic 
+of).
+(2)Department of Radiation Oncology, Yonsei Cancer Center, Yonsei University
+College of Medicine, 50 Yonsei-ro, Seodaemun-gu, 120-752, Seoul, Korea (Republic 
+of). jsseong@yuhs.ac.
+
+PURPOSE: To investigate the ability of chemoradiotherapy (CRT) to down-stage
+unresectable intrahepatic cholangiocarcinoma (IHCC) to resectable lesions, as
+well as the factors associated with achieving such down-staging.
+METHODS: The study cohort comprised 120 patients diagnosed with stage I-IVA IHCC 
+between 2001 and 2012. Of these patients, 56 underwent surgery and 64 received
+CRT as their initial treatment. The rate of curative resections for patients who 
+received CRT was assessed, and the locoregional failure-free survival (LRFFS) and
+overall survival (OS) rates of these patients were compared to those of patients 
+who underwent CRT alone.
+RESULTS: Median follow-up was 36 months. A partial response after CRT was
+observed in 25% of patients, whereas a biologic response (a >70% decrease of
+CA19-9) was observed in 35%. Eight patients (12.5%) received curative resection
+after CRT and showed significantly improved LRFFS and OS compared to those
+treated with CRT alone (3-year LRFFS: 50 vs. 15.7%, respectively, p = 0.03;
+3‑year OS: 50 vs. 11.2%, respectively, p = 0.012); these rates were comparable to
+those of patients who received initial surgery. Factors associated with curative 
+surgery after CRT were gemcitabine administration, higher radiotherapy dose
+(biological effective dose ≥55 Gy with α/β = 10), and a >70% reduction of CA19-9.
+CONCLUSION: Upfront CRT could produce favorable outcomes by converting
+unresectable lesions to resectable tumors in selected patients. Higher
+radiotherapy doses and gemcitabine-based chemotherapy yielded a significant
+reduction of CA19-9 after CRT; patients with these characteristics had a greater 
+chance of curative resection and improved OS.
+
+DOI: 10.1007/s00066-017-1128-7 
+PMID: 28424838  [Indexed for MEDLINE]
+
+
+12. PLoS One. 2017 Feb 6;12(2):e0170078. doi: 10.1371/journal.pone.0170078.
+eCollection 2017.
+
+Combination of anti-L1 cell adhesion molecule antibody and gemcitabine or
+cisplatin improves the therapeutic response of intrahepatic cholangiocarcinoma.
+
+Cho S(1)(2), Lee TS(3), Song IH(3), Kim AR(4), Lee YJ(4), Kim H(5), Hwang H(6),
+Jeong MS(6), Kang SG(6), Hong HJ(2)(6).
+
+Author information: 
+(1)Department of Functional Genomics, University of Science & Technology,
+Daejeon, Republic of Korea.
+(2)Institute of Bioscience and Biotechnology, Kangwon National University,
+Chuncheon, Republic of Korea.
+(3)Division of RI Convergence Research, Korea Institute of Radiological and
+Medical Sciences, Seoul, Republic of Korea.
+(4)Division of Basic Radiation Bioscience, Korea Institute of Radiological &
+Medical Sciences, Seoul, Republic of Korea.
+(5)Department of Biology, Kangwon National University, Chuncheon, Republic of
+Korea.
+(6)Department of Systems Immunology, Kangwon National University, Chuncheon,
+Republic of Korea.
+
+Cholangiocarcinoma has a poor prognosis and is refractory to conventional
+chemotherapy and radiation therapy. Improving survival of patients with advanced 
+cholangiocarcinoma urgently requires the development of new effective targeted
+therapies in combination with chemotherapy. We previously developed a human
+monoclonal antibody (mAb) Ab417 that binds to both the human and mouse L1 cell
+adhesion molecule (L1CAM) with high affinities. In the present study, we observed
+that Ab417 exhibited tumor targeting ability in biodistribution studies and
+dose-dependent tumor growth inhibition in an intrahepatic cholangiocarcinoma
+(Choi-CK) xenograft mouse model. Regarding the mechanism of action, Ab417 was
+internalized into the tumor cells and thereby down-regulated membrane L1CAM, and 
+inhibited tumor growth by reducing tumor cell proliferation in vivo. Gemcitabine 
+inhibited the tumor growth in a dose-dependent manner in the Choi-CK xenograft
+model. However, cisplatin inhibited the tumor growth moderately and not in a
+dose-dependent way, suggesting that the tumors may have developed resistance to
+apoptosis induced by cisplatin. Combined treatment with Ab417 and gemcitabine or 
+cisplatin exerted enhanced tumor growth inhibition compared to treatment with
+antibody or drug alone. The results suggest that Ab417 in combination with
+chemotherapy may have potential as a new therapeutic regimen for
+cholangiocarcinoma. Our study is the first to show an enhanced therapeutic effect
+of a therapeutic antibody targeting L1CAM in combination with chemotherapy in
+cholangiocarcinoma models.
+
+DOI: 10.1371/journal.pone.0170078 
+PMCID: PMC5293259
+PMID: 28166242  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+13. Gan To Kagaku Ryoho. 2016 Nov;43(12):1764-1766.
+
+[Surgical Resection after Gemcitabine plus Cisplatin Chemotherapy for
+Intrahepatic Cholangiocarcinoma with Multiple Lymph Node Metastases - Report of a
+Case].
+
+[Article in Japanese]
+
+Otani T(1), Sakata J, Kameyama H, Otani A, Hirose Y, Tamura H, Morimoto Y, Miura 
+K, Yoshino K, Kido T, Kobayashi T, Endo K, Wakai T.
+
+Author information: 
+(1)Dept. of Surgery, Akita Kosei Medical Center.
+
+An 82-year-old man with upper abdominal pain was referred to our hospital because
+of an elevated serum CEA level and dilatation of the intrahepatic bile ducts on
+ultrasonography.Computed tomography revealed a hypovascular mass measuring 5.0 cm
+in size in the lateral section, dilatation of the peripheral intrahepatic bile
+ducts, and swollen lymph nodes around the lesser curvature of the stomach, the
+common hepatic artery, and the paraaorta.He was diagnosed with unresectable
+intrahepatic cholangiocarcinoma, and he received chemotherapy with biweekly
+gemcitabine plus cisplatin.After 33 courses of the chemotherapy, computed
+tomography revealed that the tumor size decreased over 63%, and all swollen lymph
+nodes had almost resolved.He underwent a left hemihepatectomy 1 year 6 months
+after the start of the chemotherapy.He remains alive and well with no evidence of
+recurrence, 11 months after resection.
+
+
+PMID: 28133124  [Indexed for MEDLINE]
+
+
+14. Chin Clin Oncol. 2016 Oct;5(5):65. doi: 10.21037/cco.2016.10.08.
+
+Systemic therapy for biliary cancers.
+
+Jordan E(1), Abou-Alfa GK(2), Lowery MA(3).
+
+Author information: 
+(1)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(2)Memorial Sloan Kettering Cancer Center, New York, NY, USA; Weill Medical
+College at Cornell University, New York, NY, USA.
+(3)Memorial Sloan Kettering Cancer Center, New York, NY, USA; Weill Medical
+College at Cornell University, New York, NY, USA. lowerym@mskcc.org.
+
+Biliary tract cancers represent an uncommon, heterogenous malignant group of
+tumors that include gallbladder cancers (GBC) and cholangiocarcinomas that are
+frequently detected in the locally advanced or metastatic setting. The randomized
+phase III ABC-02 trial established the combination regimen of cisplatin plus
+gemcitabine as standard of care therapy. Nevertheless, despite prior and
+subsequent attempts utilizing a variety of treatment strategies clinical outcomes
+for these cancers remains disappointing, necessitating the innate call for
+improvements in treatment approaches. In this article, we provide an overview of 
+prior first line studies of single, doublet and triplet systemic chemotherapy
+regimens as well as attempts to incorporate agents that target the EGFR and VEGF 
+pathways in combination with a cytotoxic backbone and the current role of
+chemotherapy in the second line setting. Additionally, molecular profiling has
+the capability to identify genetic alterations to help guide rational treatment
+approaches; we highlight the molecular diverse profile within biliary cancer and 
+the prior, current and emergent role of targeted therapy in biliary cancers as
+well as the ongoing investigational assessment of immunotherapy. Overall,
+combination therapy is superior to single agent therapy in the first line
+setting. For second line therapy, enrollment on to clinical trials is paramount
+as no standard of care currently exists and no specific regimen has shown a
+significant better outcome. Limitations of chemotherapy have been exposed and
+future trials must have a logical design with incorporation of biomarkers that
+can aid prognosis or predict benefit to therapy. Advances in genomic sequencing
+can allow identification of potential actionable targets that can be exploited
+therapeutically which is already underway with the targeting of FGFR2 fusions and
+IDH1/2 mutations in intrahepatic cholangiocarcinoma (IHCC). With these approaches
+there is potential to gain improvements in outcomes for patients affected by
+these adverse group of cancers.
+
+DOI: 10.21037/cco.2016.10.08 
+PMID: 27829278  [Indexed for MEDLINE]
+
+
+15. J Cancer Res Clin Oncol. 2017 Mar;143(3):481-489. doi: 10.1007/s00432-016-2291-4.
+Epub 2016 Nov 8.
+
+Resin-based Yttrium-90 microspheres for unresectable and failed first-line
+chemotherapy intrahepatic cholangiocarcinoma: preliminary results.
+
+Jia Z(1), Paz-Fumagalli R(2), Frey G(2), Sella DM(2), McKinney JM(2), Wang
+W(3)(4).
+
+Author information: 
+(1)Department of Interventional Radiology, the Second People's Hospital of
+Changzhou, Nanjing Medical University, Changzhou, 213003, China.
+(2)Department of Radiology, Mayo Clinic, 4500 San Pablo Road, Jacksonville, FL,
+32224, USA.
+(3)Department of Radiology, Mayo Clinic, 4500 San Pablo Road, Jacksonville, FL,
+32224, USA. wang.weiping@mayo.edu.
+(4)Department of Radiology, The First Affiliated Hospital of Wenzhou Medical
+University, Wenzhou, 325015, Zhejiang, China. wang.weiping@mayo.edu.
+
+PURPOSE: To evaluate the value of resin-based yttrium-90 ((90)Y)
+radioembolization for unresectable and failed first-line chemotherapy (cisplatin 
+plus gemcitabine) intrahepatic cholangiocarcinoma (ICC).
+METHODS: From February 2006 to September 2015, a retrospective study was
+conducted of all patients who underwent resin-based (90)Y therapy for
+unresectable and failed first-line chemotherapy ICC. Tumor response was assessed 
+using modified RECIST criteria; side effects were assessed using Common
+Terminology Criteria for Adverse Events version 4.03; survivals were calculated
+from the date of diagnosis of ICC, beginning of first-line chemotherapy and first
+(90)Y procedure, respectively; effects of factors on survival were analyzed by
+Cox regression model.
+RESULTS: Twenty-four patients (eight male and 16 female) were included in this
+study. Mean 5.6 ± 1.6 cycles of first-line chemotherapy were performed prior to
+(90)Y treatment. The mean delivered activity of (90)Y was 1.6 ± 0.4 GBq with a
+total of 27 treatments. Disease control rate was 81.8% at 3 months after (90)Y
+therapy, with partial response (n = 8, 36.4%), stable disease (n = 10, 45.5%) and
+progressive disease (n = 6, 18.2%). CA199 changes pre- and 1 month post-treatment
+were complete (n = 2), partial (n = 2), none (n = 5) and progression (n = 2),
+respectively. Side effects included fatigue (n = 21, 87.5%), anorexia (n = 19,
+79.2%), nausea (n = 15, 62.5%), abdominal pain (n = 10, 58.3%), vomiting (n = 4, 
+16.7%) and fever (n = 3, 12.5%). Radiation-induced gastrointestinal ulcer was
+identified in one patient. The mean follow-up was 11.3 ± 6.6 months, and the
+median survivals from the time of diagnosis of ICC, beginning of first-line
+chemotherapy and first (90)Y procedure were 24.0, 16.0 and 9.0 months,
+respectively, and the 6-, 12-, 18-, 24- and 30-month survival after (90)Y therapy
+were 69.9, 32.6, 27.2, 20.4 and 20.4%, respectively. ECOG performance status
+(P = 0.002) and lymph node metastases (P = 0.019) had statistically significant
+influence on overall survival.
+CONCLUSIONS: Resin-based (90)Y radioembolization can provide palliative control
+of unresectable and failed first-line chemotherapy ICC in a salvage setting with 
+acceptable side effects.
+
+DOI: 10.1007/s00432-016-2291-4 
+PMID: 27826686  [Indexed for MEDLINE]
+
+
+16. Curr Treat Options Oncol. 2016 Nov;17(11):58.
+
+Genomic Profiling of Biliary Tract Cancers and Implications for Clinical
+Practice.
+
+Jain A(1), Kwong LN(2), Javle M(3).
+
+Author information: 
+(1)Department of Gastrointestinal Medical Oncology, The University of Texas M.D. 
+Anderson Cancer Center, 1515 Holcombe Blvd, Unit 426, Houston, TX, 77030, USA.
+(2)Department of Translational Molecular Pathology, The University of Texas MD
+Anderson Cancer Center, Houston, TX, USA.
+(3)Department of Gastrointestinal Medical Oncology, The University of Texas M.D. 
+Anderson Cancer Center, 1515 Holcombe Blvd, Unit 426, Houston, TX, 77030, USA.
+mjavle@mdanderson.org.
+
+OPINION STATEMENT: Biliary tract cancers are relatively uncommon, have an
+aggressive disease course and a dismal clinical outcome. Until recently, there
+have been very few clinical advances in the management of these patients and
+gemcitabine-based chemotherapy has been the only widely accepted systemic
+therapy. The advent of next generation sequencing technologies can potentially
+change the treatment paradigm of this disease. Targeted therapy directed against 
+actionable mutations and identification of molecular subsets with distinct
+prognostic significance is now feasible in clinical practice. Mutation profiling 
+has highlighted the genomic differences between the intra, extrahepatic
+cholangiocarcinoma, and gallbladder cancer. The mutational spectrum of
+intrahepatic cholangiocarcinoma differs according to geographic location and
+ethnicity. There is a higher incidence of chromatin modulating gene mutations in 
+Western patients as compared with Asian patients with liver fluke-associated
+cholangiocarcinoma. KRAS and p53 mutations are associated with an aggressive
+disease prognosis while FGFR mutations may signify a relatively indolent disease 
+course of intrahepatic cholangiocarcinoma. FGFR and IDH mutations have promising 
+agents in clinical trials at this time. An estimated 15 % of gallbladder cancers 
+have Her2/neu amplification and can be targeted by trastuzumab. On the other
+hand, an estimated 10-15 % of cholangiocarcinomas have DNA repair mutations and
+may be candidates for immune therapies with checkpoint inhibitors. The promise of
+targeted therapies for biliary tract cancers can be fulfilled with well-designed,
+prospective, and multi-center clinical trials.
+
+DOI: 10.1007/s11864-016-0432-2 
+PMID: 27658789  [Indexed for MEDLINE]
+
+
+17. Gan To Kagaku Ryoho. 2016 Jun;43(6):773-5.
+
+[Resection of Advanced Intrahepatic Cholangiocarcinoma after an Effective
+Response to S-1 and Gemcitabine Combination Therapy].
+
+[Article in Japanese]
+
+Kuga Y(1), Moriya T, Fukuda S, Nishida T.
+
+Author information: 
+(1)Dept. of Internal Medicine, Japan Labour Health and Welfare Organization
+Chugoku Rosai Hospital.
+
+We report curative resection of an advanced intrahepatic cholangiocarcinoma that 
+responded well to combined S-1 and gemcitabine chemotherapy(GS therapy). A
+67-year-old woman was admitted to our hospital in July 2011 for upper right
+abdominal pain. She was diagnosed with intrahepatic cholangiocarcinoma with
+abdominal para-aortic lymph node metastasis on the basis of the computed
+tomography (CT) findings. She was treated with GS therapy. One course of S-1(80
+mg/m(3)) consisted of the administration of the drug for 14 days, followed by 14 
+days of rest; GEM(1,000 mg/m(3)) was administered on days 1 and 15 after
+initiating S-1. After 2 courses of treatment, the sizes of the primary tumor and 
+the lymph node metastasis were observed to be reduced on CT. In September,
+partial hepatectomy and regional lymph node dissection were performed. The
+patient subsequently received 22 postoperative courses of GS therapy. The
+patient's postoperative course was uneventful, and she remains free of recurrence
+49 months since diagnosis. Therefore, GS therapy is a possible option for the
+management of advanced intrahepatic cholangiocarcinoma.
+
+
+PMID: 27306819  [Indexed for MEDLINE]
+
+
+18. BMC Infect Dis. 2016 Jun 14;16:295. doi: 10.1186/s12879-016-1643-7.
+
+HBV-associated intrahepatic cholangiocarcinoma with high serum alpha-fetoprotein:
+a case report with review of literature.
+
+Wang C(1), Jing H(2), Sha D(3), Wang W(1), Chen J(1), Cui Y(1), Han J(4).
+
+Author information: 
+(1)Department of Medical Oncology, Shandong Provincial Hospital Affiliated to
+Shandong University, 324 Jing Wu Road, Jinan, Shandong Province, 250021, People's
+Republic of China.
+(2)Department of Pathology, Shandong Provincial Hospital Affiliated to Shandong
+University, 324 Jing Wu Road, Jinan, Shandong Province, 250021, People's Republic
+of China.
+(3)Department of Medical Oncology, Shandong Provincial Hospital Affiliated to
+Shandong University, 324 Jing Wu Road, Jinan, Shandong Province, 250021, People's
+Republic of China. sharrysha@126.com.
+(4)Department of Radiotherapy, Shandong Provincial Hospital Affiliated to
+Shandong University, 324 Jing Wu Road, Jinan, Shandong Province, 250021, People's
+Republic of China.
+
+BACKGROUND: Intrahepatic cholangiocarcinoma (ICC) is a rare malignant tumor. The 
+etiology of ICC remains poorly understood. Recently, hepatitis B virus (HBV)
+infection has been implicated as a potential risk factor for ICC, particularly in
+HBV-endemic areas. Elevation of serum alpha-fetoprotein (AFP) is seen in
+approximately 20 % of ICC patients. However, serum AFP levels higher than
+10,000 ng/mL have only been reported in a few ICC patients. We report an unusual 
+case of HBV-associated ICC occurring in a male with a markedly elevated serum
+AFP.
+CASE PRESENTATION: A 60-year-old East Asian male presented with complaints of
+epigastric distention and right shoulder pain. Laboratory tests showed HBV
+infection, HBV deoxyribonucleic acid (DNA) slightly elevated (21 IU/mL) and serum
+AFP markedly elevated (12,310 ng/mL). Computed tomography (CT) scan found a large
+and irregular mass in the left lobe of the liver. The patient underwent the left 
+hepatic lobe resection. Histopathological examination showed chronic hepatitis B 
+in the background liver and the immunohistochemical (IHC) findings strongly
+supported the diagnosis of ICC with aberrant expression of AFP. Serum AFP and HBV
+DNA declined to normal level postoperatively. The patient received four cycles of
+gemcitabine plus oxaliplatin and took entecavir to prevent HBV reactivation. The 
+patient kept disease free for 18 months in the latest follow-up.
+CONCLUSION: ICC patients with HBV infection should be distinguished from other
+ICC cases, based on distinct clinicopathological features and favorable outcome. 
+Screening for HBV infection should be carried out before initiation of
+chemotherapy. Antiviral therapy is indicated for prevention of HBV reactivation.
+
+DOI: 10.1186/s12879-016-1643-7 
+PMCID: PMC4908691
+PMID: 27301956  [Indexed for MEDLINE]
+
+
+19. Clin Cancer Res. 2016 Aug 15;22(16):4225-35. doi: 10.1158/1078-0432.CCR-15-1800. 
+Epub 2016 Apr 13.
+
+ALDH1A3, the Major Aldehyde Dehydrogenase Isoform in Human Cholangiocarcinoma
+Cells, Affects Prognosis and Gemcitabine Resistance in Cholangiocarcinoma
+Patients.
+
+Chen MH(1), Weng JJ(2), Cheng CT(3), Wu RC(4), Huang SC(4), Wu CE(5), Chung
+YH(6), Liu CY(1), Chang MH(1), Chen MH(7), Chiang KC(8), Yeh TS(3), Su Y(9), Yeh 
+CN(10).
+
+Author information: 
+(1)School of Medicine, National Yang-Ming University, Taipei, Taiwan. Department 
+of Oncology, Taipei Veterans General Hospital, Taipei, Taiwan.
+(2)Department of Oncology, Taipei Veterans General Hospital, Taipei, Taiwan.
+Institute of Biopharmaceutical Sciences, National Yang-Ming University, Taipei,
+Taiwan.
+(3)Department of Surgery, Chang Gung Memorial Hospital, Chang Gung University,
+Taoyuan, Taiwan.
+(4)Department of Pathology, Chang Gung Memorial Hospital, Chang Gung University, 
+Taoyuan, Taiwan.
+(5)Department of Hematology-Oncology, Chang Gung Memorial Hospital, Chang Gung
+University, Taoyuan, Taiwan.
+(6)Center for Advanced Molecular Imaging and Translation, Chang Gung Memorial
+Hospital, Taoyuan, Taiwan.
+(7)School of Medicine, National Yang-Ming University, Taipei, Taiwan.
+(8)Department of Surgery, Chang Gung Memorial Hospital, Keelung; Chang Gung
+University, Taoyuan, Taiwan.
+(9)Institute of Biopharmaceutical Sciences, National Yang-Ming University,
+Taipei, Taiwan. yehchunnan@gmail.com yeusu@ym.edu.tw.
+(10)Department of Surgery, Chang Gung Memorial Hospital, Chang Gung University,
+Taoyuan, Taiwan. yehchunnan@gmail.com yeusu@ym.edu.tw.
+
+PURPOSE: Intrahepatic cholangiocarcinoma is a fatal primary liver cancer
+resulting from diagnosis at an advanced stage. Understanding the mechanisms of
+drug resistance and metastasis of cholangiocarcinoma may improve the disease
+prognosis. Enhanced aldehyde dehydrogenase (ALDH) activity is suggested to be
+associated with increased drug resistance and the metastasis. This study aims to 
+investigate the roles of the ALDH isoforms in cholangiocarcinoma.
+EXPERIMENTAL DESIGN: Aldefluor assays, RT-PCR, and Western blot analysis were
+used to identify the major ALDH isoforms contributing to Aldefluor activity in
+human cholangiocarcinoma cell lines. We manipulated isoform expression in HuCCT1 
+cells to elucidate the role of ALDH1A3 in the malignant progression of these
+cells. Finally, we used immunohistochemical staining to evaluate the clinical
+significance of ALDH1A3 in 77 hepatectomized cholangiocarcinoma patients and an
+additional 31 patients with advanced cholangiocarcinoma who received
+gemcitabine-based therapy.
+RESULTS: ALDH(high) cholangiocarcinoma cells not only migrated faster but were
+more resistant to gemcitabine. Among the 19 ALDH isoforms studied, ALDH1A3 was
+found to be the main contributor to Aldefluor activity. In addition, we also
+found that knockdown of ALDH1A3 expression in HuCCT1 cells markedly reduced not
+only their sensitivity to gemcitabine, which might be attributed to a decreased
+expression of ribonucleotide reductase M1, but also their migration. Most
+importantly, this enzyme was also identified as an independent poor prognostic
+factor for patients with intrahepatic cholangiocarcinoma, as well as a prognostic
+biomarker of gemcitabine-treated patients.
+CONCLUSIONS: ALDH1A3 plays an important role in enhancing malignant behavior of
+cholangiocarcinoma and serves as a new therapeutic target. Clin Cancer Res;
+22(16); 4225-35. ©2016 AACR.
+
+©2016 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-15-1800 
+PMID: 27076629 
+
+
+20. Oncol Rep. 2016 May;35(5):2535-42. doi: 10.3892/or.2016.4636. Epub 2016 Feb 25.
+
+Histone deacetylase inhibitor screening identifies HC toxin as the most effective
+in intrahepatic cholangiocarcinoma cells.
+
+Zhou W(1), Chen X(2), He K(1), Xiao J(1), Duan X(1), Huang R(1), Xia Z(1), He
+J(3), Zhang J(4), Xiang G(1).
+
+Author information: 
+(1)Department of General Surgery, The Second People's Hospital of Guangdong
+Province, The Third Clinical Medical College of Southern Medical University,
+Guangzhou, Guangdong 510317, P.R. China.
+(2)Department of Gastrointestinal Surgery, The Guigang City People's Hospital,
+Guigang, Guangxi 537100, P.R. China.
+(3)Graduate School, Guangdong Medical College, Zhanjiang, Guangdong 524023, P.R. 
+China.
+(4)Department of Laboratory Medicine, The Second People's Hospital of Guangdong
+Province, Guangzhou, Guangdong 510317, P.R. China.
+
+Histone deacetylases (HDACs) are highly expressed in intrahepatic
+cholangiocarcinoma (ICC) and are associated with poor prognosis of these
+patients. The aim of the present study was to explore the inhibitory effects of
+HDAC inhibitors on ICC cells and identify effective and sensitive drugs for ICC. 
+Effects of 34 HDAC inhibitors were screened through two rounds of cell viability 
+assays, and HC toxin, a cyclic tetrapeptide first isolated from the secondary
+metabolite of Helminthosporium carbonum, exhibited an antitumor activity superior
+to that of the other HDAC inhibitors and gemcitabine. The mechanisms involved in 
+the inhibitory effects of HC toxin on CCLP-1 cells were investigated by cell
+counting, colony formation assay, cell morphological observation, real-time PCR, 
+western blotting and flow cytometry. It was demonstrated that HC toxin inhibited 
+the cell proliferation and clone formation ability of the CCLP-1 cells. HC toxin 
+increased the acetyl-histone H4 level and this was associated with the inhibitory
+effect of HC toxin on the CCLP-1 cells. We also found that HC toxin reduced the
+level of HDAC1 protein in a post-transcriptional manner. Morphological
+observation showed multiple morphological changes and indicated the possibility
+of cell differentiation owing to HC toxin. With increasing concentration of HC
+toxin, the cell cycle was gradually arrested at the G0/G1 stage and the
+percentage of apoptotic cells increased which was not mainly through the
+caspase-3-dependent ways. These results indicated that HC toxin was the most
+effective among the various HDAC inhibitors with multiple functions in the
+suppression of ICC in vitro. Thus, HC may be a potential chemotherapeutic for
+ICC.
+
+DOI: 10.3892/or.2016.4636 
+PMCID: PMC4811396
+PMID: 26935789  [Indexed for MEDLINE]
+
+
+21. Gan To Kagaku Ryoho. 2015 Nov;42(12):1720-2.
+
+[A Case of Resected Gastric Cancer Occurring Simultaneously with Intrahepatic
+Cholangiocarcinoma after S-1 plus Cisplatin Chemotherapy].
+
+[Article in Japanese]
+
+Nishimura M(1), Kawada J, Matsuura N, Kitagawa A, Nomura M, Okumura Y, Nakatsuka 
+R, Miyazaki S, Danno K, Motoori M, Kubota M, Matsuda C, Fujitani K, Iwase K.
+
+Author information: 
+(1)Dept. of Gastroenterological Surgery, Osaka General Medical Center.
+
+It is sometimes difficult to differentiate between metastatic and primary liver
+tumors, when the liver tumor occurs simultaneously with a gastric cancer. We
+encountered a case of resected gastric cancer, which occurred concomitantly with 
+intrahepatic cholangiocarcinoma after S-1 plus cisplatin chemotherapy, in a
+patient who was previously diagnosed with metastatic liver tumor before
+treatment. An 80-year-old man was admitted to our hospital because of
+epigastralgia. Endoscopic study of the upper gastrointestinal tract showed a type
+3 tumor at the upper body of the stomach. A plain CT scan showed an irregular,
+low-density area, which was enhanced by contrast medium in the lateral segment of
+the liver. We performed an ultrasound- guided needle biopsy, because it was
+impossible to make a definitive diagnosis by dynamic CT, contrast-enhanced
+ultrasonography, and MRI. Immunohistochemical analysis for cytokeratin 7/20
+resulted in 7 (+)/20 (-) for both the gastric cancer and the liver tumor.
+Therefore, we diagnosed the patient with gastric cancer, which occurred
+concomitantly with the metastatic liver tumor, and administered chemotherapy with
+S-1 plus cisplatin. After 3 courses of the regimen, a reduction in the size of
+mass was observed in the stomach and the liver. We subsequently performed left
+hepatectomy and total gastrectomy with lymph node dissection. Microscopic
+examination revealed the gastric cancer, which occurred simultaneously with the
+intrahepatic cholangiocarcinoma. The postoperative course was uneventful, and the
+patient remains well without recurrences.
+
+
+PMID: 26805150  [Indexed for MEDLINE]
+
+
+22. PLoS One. 2015 Dec 3;10(12):e0143072. doi: 10.1371/journal.pone.0143072.
+eCollection 2015.
+
+Pharmacokinetic Study of Adjuvant Gemcitabine Therapy for Biliary Tract Cancer
+following Major Hepatectomy (KHBO1101).
+
+Fujiwara Y(1)(2), Kobayashi S(3), Nagano H(3), Kanai M(4), Hatano E(5), Toyoda
+M(1), Ajiki T(6), Takashima Y(7), Yoshimura K(8), Hamada A(7), Minami H(1), Ioka 
+T(9).
+
+Author information: 
+(1)Division of Medical Oncology and Hematology, Kobe University Graduate School
+of Medicine, Kobe, Japan.
+(2)Department of Experimental Therapeutics, Exploratory Oncology Research &
+Clinical Trial Center, National Cancer Center Hospital, Tokyo, Japan.
+(3)Department of Gastroenterological Surgery, Osaka University Graduate School of
+Medicine, Suita, Japan.
+(4)Outpatient Oncology Unit, Kyoto University Hospital, Kyoto, Japan.
+(5)Department of Surgery, Graduate School of Medicine, Kyoto University Hospital,
+Kyoto, Japan.
+(6)Department of Surgery, Division of Hepato-Biliary-Pancreatic Surgery, Kobe
+University Graduate School of Medicine, Kobe, Japan.
+(7)Department of Clinical Pharmacology, Fundamental Innovative Oncology Core,
+National Cancer Center Research Institute, Tokyo, Japan.
+(8)Innovative Clinical Research Center, Kanazawa University, Kanazawa, Japan.
+(9)Hepatobiliary and Pancreatic Oncology, Osaka Medical Center for Cancer and
+Cardiovascular Diseases, Osaka, Japan.
+
+BACKGROUND: Biliary tract cancer (BTC) patients who have undergone surgical
+resection with major hepatectomy cannot tolerate the standard gemcitabine regimen
+(1,000 mg/m2 on days 1, 8, and 15 every 4 weeks) due to severe toxicities such as
+myelosuppression. Our dose-finding study of adjuvant gemcitabine therapy for
+biliary tract cancer following major hepatectomy determined that the recommended 
+dose is 1,000 mg/m2 on days 1 and 15 every 4 weeks. Here, we evaluate the
+pharmacokinetics and pharmacodynamics of gemcitabine in these subjects.
+METHODS: We evaluated BTC patients scheduled to undergo surgical resection with
+major hepatectomy followed by gemcitabine therapy. A pharmacokinetic evaluation
+of gemcitabine and its main metabolite, 2',2'-difluorodeoxyuridine (dFdU), was
+conducted at the initial administration of gemcitabine, which was given by
+intravenous infusion over 30 min at a dose of 800-1,000 mg/m2. Physical
+examination and adverse events were monitored for 12 weeks.
+RESULTS: Thirteen patients were enrolled from August 2011 to January 2013, with
+12 ultimately completing the pharmacokinetic study. Eight patients had hilar
+cholangiocarcinoma, three had intrahepatic cholangiocarcinoma, and one had
+superficial spreading type cholangiocarcinoma. The median interval from surgery
+to first administration of gemcitabine was 65.5 days (range, 43-83 days). We
+observed the following toxicities: neutropenia (n = 11, 91.7%), leukopenia (n =
+10, 83.3%), thrombocytopenia (n = 6, 50.0%), and infection (n = 5, 41.7%). Grade 
+3 or 4 neutropenia was observed in 25% (n = 3) of patients. There were
+differences in clearance of gemcitabine and dFdU between our subjects and the
+subjects who had not undergone hepatectomy.
+CONCLUSION: Major hepatectomy did not affect the pharmacokinetics of gemcitabine 
+or dFdU.
+TRIAL REGISTRATION: UMIN-CTR in (JPRN) UMIN000005109.
+
+DOI: 10.1371/journal.pone.0143072 
+PMCID: PMC4669083
+PMID: 26633034  [Indexed for MEDLINE]
+
+
+23. Clin Transl Oncol. 2015 Dec;17(12):982-7. doi: 10.1007/s12094-015-1436-2. Epub
+2015 Nov 25.
+
+Biliary tract cancers: SEOM clinical guidelines.
+
+Benavides M(1), Antón A(2), Gallego J(3), Gómez MA(4), Jiménez-Gordo A(5), La
+Casta A(6), Laquente B(7), Macarulla T(8), Rodríguez-Mowbray JR(9), Maurel J(10).
+
+Author information: 
+(1)Hospital Universitario Regional y Virgen de la Victoria, Málaga, Spain.
+manuel.benavides.sspa@juntadeandalucia.es.
+(2)Hospital Universitario Miguel Servet, Zaragoza, Spain.
+(3)Hospital General Universitario, Elche, Spain.
+(4)Hospital Universitario Reina Sofía, Córdoba, Spain.
+(5)Hospital Universitario Infanta Sofía, San Sebastián de los Reyes, Madrid,
+Spain.
+(6)Hospital Universitario Donostia, San Sebastián, Spain.
+(7)Institut Català d'Oncologia L'Hospitalet, Barcelona, Spain.
+(8)Hospital Universitario Vall d'Hebron e Instituto de Oncología Vall d'Hebron,
+Barcelona, Spain.
+(9)Hospital Infanta Cristina, Badajoz, Spain.
+(10)Hospital Clínic, Barcelona, Spain. jmaurel@clinic.ub.es.
+
+Biliary tract cancer (BTC) is an uncommon and highly fatal malignancy. It is
+composed of three main different entities; Gall bladder carcinoma (GBC),
+intrahepatic cholangiocarcinoma (iCC) and extrahepatic cholangiocarcinoma (eCC)
+sharing different genetic, risk factors and clinical presentation.
+Multidetector-row computed tomography (MDCT) and magnetic resonance
+cholangio-pancreatography (MRCP) are the more important diagnostic techniques.
+Surgery is the only potentially curative therapy but disease recurrence is
+frequent. Treatment with chemotherapy, radiotherapy or both has not demonstrated 
+survival benefit in the adjuvant setting. Cisplatin plus gemcitabine constitutes 
+the gold standard in metastatic disease. New ongoing studies mainly in the
+adjuvant and neoadjuvant setting along with molecular research will hopefully
+help to improve survival and quality of life of this disease.
+
+DOI: 10.1007/s12094-015-1436-2 
+PMCID: PMC4689747
+PMID: 26607930  [Indexed for MEDLINE]
+
+
+24. PLoS One. 2015 Nov 16;10(11):e0142124. doi: 10.1371/journal.pone.0142124.
+eCollection 2015.
+
+Sensitivity of Human Intrahepatic Cholangiocarcinoma Subtypes to
+Chemotherapeutics and Molecular Targeted Agents: A Study on Primary Cell
+Cultures.
+
+Fraveto A(1), Cardinale V(1), Bragazzi MC(1), Giuliante F(2), De Rose AM(2),
+Grazi GL(3), Napoletano C(4), Semeraro R(1), Lustri AM(1), Costantini D(1), Nevi 
+L(1), Di Matteo S(1), Renzi A(5), Carpino G(6), Gaudio E(5), Alvaro D(1).
+
+Author information: 
+(1)Department of Medico-Surgical Sciences and Biotechnologies, Sapienza
+University of Rome, Rome, Italy.
+(2)Surgery, Hepatobiliary Unit, Catholic University of the Sacred Heart School of
+Medicine, Rome, Italy.
+(3)Hepato-Biliary Surgery, Regina Elena National Cancer Institute, Rome, Italy.
+(4)Experimental Medicine, Sapienza University of Rome, Rome, Italy.
+(5)SAIMLAL, Sapienza, University of Rome, Rome, Italy.
+(6)Health Science, University of Rome "Foro Italico", Rome, Italy.
+
+We investigated the sensitivity of intrahepatic cholangiocarcinoma (IHCCA)
+subtypes to chemotherapeutics and molecular targeted agents. Primary cultures of 
+mucin- and mixed-IHCCA were prepared from surgical specimens (N. 18 IHCCA
+patients) and evaluated for cell proliferation (MTS assay) and apoptosis (Caspase
+3) after incubation (72 hours) with increasing concentrations of different drugs.
+In vivo, subcutaneous human tumor xenografts were evaluated. Primary cultures of 
+mucin- and mixed-IHCCA were characterized by a different pattern of expression of
+cancer stem cell markers, and by a different drug sensitivity. Gemcitabine and
+the Gemcitabine-Cisplatin combination were more active in inhibiting cell
+proliferation in mixed-IHCCA while Cisplatin or Abraxane were more effective
+against mucin-IHCCA, where Abraxane also enhances apoptosis. 5-Fluoracil showed a
+slight inhibitory effect on cell proliferation that was more significant in
+mixed- than mucin-IHCCA primary cultures and, induced apoptosis only in
+mucin-IHCCA. Among Hg inhibitors, LY2940680 and Vismodegib showed slight effects 
+on proliferation of both IHCCA subtypes. The tyrosine kinase inhibitors, Imatinib
+Mesylate and Sorafenib showed significant inhibitory effects on proliferation of 
+both mucin- and mixed-IHCCA. The MEK 1/2 inhibitor, Selumetinib, inhibited
+proliferation of only mucin-IHCCA while the aminopeptidase-N inhibitor, Bestatin 
+was more active against mixed-IHCCA. The c-erbB2 blocking antibody was more
+active against mixed-IHCCA while, the Wnt inhibitor, LGK974, similarly inhibited 
+proliferation of mucin- and mixed-IHCCA. Either mucin- or mixed-IHCCA showed high
+sensitivity to nanomolar concentrations of the dual PI3-kinase/mTOR inhibitor,
+NVP-BEZ235. In vivo, in subcutaneous xenografts, either NVP-BEZ235 or Abraxane,
+blocked tumor growth. In conclusion, mucin- and mixed-IHCCA are characterized by 
+a different drug sensitivity. Cisplatin, Abraxane and the MEK 1/2 inhibitor,
+Selumetinib were more active against mucin-IHCCA while, Gemcitabine,
+Gemcitabine-Cisplatin combination, the c-erbB2 blocking antibody and bestatin
+worked better against mixed-IHCCA. Remarkably, we identified a dual
+PI3-kinase/mTOR inhibitor that both in vitro and in vivo, exerts dramatic
+antiproliferative effects against both mucin- and mixed-IHCCA.
+
+DOI: 10.1371/journal.pone.0142124 
+PMCID: PMC4646673
+PMID: 26571380  [Indexed for MEDLINE]
+
+
+25. Cancer. 2016 Feb 15;122(4):574-81. doi: 10.1002/cncr.29778. Epub 2015 Nov 5.
+
+Panitumumab in combination with gemcitabine and oxaliplatin does not prolong
+survival in wild-type KRAS advanced biliary tract cancer: A randomized phase 2
+trial (Vecti-BIL study).
+
+Leone F(1), Marino D(1), Cereda S(2), Filippi R(1), Belli C(2), Spadi R(3), Nasti
+G(4), Montano M(4), Amatu A(5), Aprile G(6), Cagnazzo C(1), Fasola G(6), Siena
+S(5), Ciuffreda L(3), Reni M(2), Aglietta M(1).
+
+Author information: 
+(1)Department of Oncology, University of Turin Medical School/Piedmont Foundation
+for Oncology, Candiolo Cancer Institute - FPO, IRCCS, Candiolo, Italy.
+(2)Department of Medical Oncology, San Raffaele Scientific Institute, IRCCS,
+Milan, Italy.
+(3)Department of Oncology, Medical Oncology 1 Division, Città Della Salute e
+Della Scienza Hospital and University, Turin, Italy.
+(4)Department of Colorectal Oncology, National Cancer Institute G. Pascale
+Foundation, Naples, Italy.
+(5)Niguarda Cancer Center, Niguarda Ca' Granda Hospita, Milan, Italy.
+(6)Department of Oncology, University and General Hospital, Udine, Italy.
+
+BACKGROUND: Biliary tract cancer (BTC) is a rare and lethal disease with few
+therapeutic options. Preclinical data suggest that the epidermal growth factor
+receptor (EGFR) pathway could be involved in its progression.
+METHODS: This open-label, randomized phase 2 trial recruited chemotherapy-naive
+patients with advanced BTC displaying a wild-type (WT) KRAS status. Patients were
+randomized to gemcitabine (1000 mg/m(2) ) and oxaliplatin (100 mg/m(2) ) with
+(arm A) or without (arm B) panitumumab (6 mg/kg) for up to 12 cycles. The primary
+endpoint was progression-free survival (PFS) analyzed in an intention-to-treat
+fashion.
+RESULTS: Eighty-nine patients (45 in arm A and 44 in arm B) were enrolled between
+June 2010 and September 2013. After a median follow-up of 10.1 months, the median
+PFS was 5.3 months (95% confidence interval, 3.3-7.2 months) in arm A and 4.4
+months (95% confidence interval, 2.6-6.2 months) in arm B (P = .27). No survival 
+differences were observed: the median overall survival was 9.9 months in arm A
+and 10.2 months in arm B (P = .42). In a subgroup analysis, no differences in PFS
+according to the site of the primary tumor were observed; patients with
+intrahepatic cholangiocarcinoma treated with panitumumab may have had a survival 
+benefit in comparison with the control group (15.1 vs 11.8 months, P = .13). As
+for safety, skin toxicity was the main adverse event in arm A (80% of the
+patients). A higher incidence of diarrhea (55.5% vs 31.8%), mucositis (22.2% vs
+13.6%), and constipation (24.4% vs 15.9%) was seen in arm A.
+CONCLUSIONS: These results confirm the marginal role of anti-EGFR therapy even
+for WT KRAS-selected BTC.
+
+© 2015 American Cancer Society.
+
+DOI: 10.1002/cncr.29778 
+PMID: 26540314  [Indexed for MEDLINE]
+
+
+26. Gan To Kagaku Ryoho. 2015 Oct;42(10):1185-9.
+
+[Gemcitabine in Combination with Cisplatin in Patients with Unresectable Advanced
+or Recurrent Biliary Tract Cancer--A Multicenter Prospective Observational Study 
+in Fukuoka].
+
+[Article in Japanese]
+
+Yamashita Y(1), Sirabe K, Kawabe K, Fujimori N, Hisano T, Okabe Y, Akiyama T,
+Ueki T, Horiuchi H, Yamaguchi H, Ito T, Suga H, Funakosi A.
+
+Author information: 
+(1)Dept. of Surgery and Science, Graduate School of Medical Sciences, Kyushu
+University.
+
+The standard chemotherapy for the treatment of unresectable advanced and
+recurrent biliary tract cancers is considered gemcitabine plus cisplatin (GC) on 
+the basis of favorable results reported in the ABC-02 study from the UK and the
+BT22 study from Japan. However, the GC cohort of the BT22 study consisted of only
+42 patients, and we considered it necessary to confirm the effectiveness and
+safety of GC chemotherapy in a multicenter prospective observational study in
+Fukuoka. Thirty-seven patients were enrolled in this study, including two
+patients with recurrent disease. The median patient age was 67.5 years (range,
+43-84 years). Twelve patients had intrahepatic cholangiocarcinoma, 13 patients
+had extrahepatic cholangiocarcinoma, and 12 patients had gallbladder cancer. The 
+median survival time (MST) was 14.9 months, the 1-year survival rate was 54.5%,
+and the median progression free survival (PFS) was 7.7 months. No
+chemotherapy-related deaths occurred, and Grade 3/4 adverse events were mainly
+hematological events including leucopenia in 13 (35.1%) patients and neutropenia 
+in 12 (32.4%). The MST, 1-year survival rate, median PFS, and rate of Grade 3/4
+adverse events in our study were similar to those of the BT22 study. In
+conclusion, this multicenter prospective observational study confirms the
+effectiveness and safety of GC chemotherapy for the treatment of unresectable
+advanced and recurrent biliary tract cancers.
+
+
+PMID: 26489546  [Indexed for MEDLINE]
+
+
+27. HPB (Oxford). 2015 Dec;17(12):1119-23. doi: 10.1111/hpb.12504. Epub 2015 Sep 16.
+
+Intrahepatic cholangiocarcinoma and gallbladder cancer: distinguishing molecular 
+profiles to guide potential therapy.
+
+Potkonjak M(1), Miura JT(1), Turaga KK(1), Johnston FM(1), Tsai S(1), Christians 
+KK(1), Gamblin TC(1).
+
+Author information: 
+(1)Division of Surgical Oncology, Medical College of Wisconsin, Milwaukee, WI,
+USA.
+
+BACKGROUND: Chemotherapy regimens for intrahepatic cholangiocarcinoma (ICC) and
+gallbladder adenocarcinoma (GC) remain interchangeable; however, response rates
+are frequently suboptimal. Biomarkers from ICC and GC patients were interrogated 
+to identify actionable differences with potential therapeutic implications.
+METHODS: From 2009 to 2012, pathological specimens from 217 ICC and 28 GC
+patients referred to Caris Life Sciences were evaluated. Specific testing by
+immunohistochemical analysis for 17 different biomarkers was performed.
+RESULTS: In the collective cohort (n = 245), actionable targets included: 95% low
+thymidylate synthase (TS), 82% low ribonucleotide reductase subunit M (RMM) 1 and
+74% low excision repair cross complementation group (ERCC) 1, indicating
+potential susceptibility to fluoropyrimidines/capecitabine, gemcitabine and
+platinum agents, respectively. Additional targets included TOPO1 (53.3% high,
+Irinotecan), MGMT (50.3% low, temozolomide), TOP2A (33% high, anthracyclines) and
+PGP (30.1% low, taxanes). Subgroup analysis by tumour origin demonstrated a
+differential biomarker expression pattern with a higher frequency of ICC tumours 
+showing low levels of TS (99% versus 72%, P < 0.01), and RRM1 (85% versus 64%, P 
+= 0.02) when compared with GC. Conversely a greater frequency of GC demonstrated 
+high levels of TOPO1 (76% versus 50%, P = 0.02) versus ICC, indicating a
+potential increased benefit from irinotecan.
+DISCUSSION: Differences in the molecular profiles between ICC and GC provide
+evidence that the two are distinct diseases, requiring different treatment
+strategies to optimize a response.
+
+© 2015 International Hepato-Pancreato-Biliary Association.
+
+DOI: 10.1111/hpb.12504 
+PMCID: PMC4644364
+PMID: 26374242  [Indexed for MEDLINE]
+
+
+28. HPB (Oxford). 2015 Aug;17(8):669-80. doi: 10.1111/hpb.12441.
+
+Intrahepatic cholangiocarcinoma: expert consensus statement.
+
+Weber SM(1), Ribero D(2), O'Reilly EM(3), Kokudo N(4), Miyazaki M(5), Pawlik
+TM(6).
+
+Author information: 
+(1)Department of Surgery, University of Wisconsin, Madison, WI, USA.
+(2)Department of General Surgery and Surgical Oncology, Mauriziano 'Umberto I'
+Hospital, Turin, Italy.
+(3)Department of Medical Oncology, Memorial Sloan-Kettering Cancer Center, New
+York, NY, USA.
+(4)Hepato-Biliary-Pancreatic Surgery Division, Artificial Organ and Liver
+Transplantation Division, Department of Surgery, Graduate School of Medicine,
+University of Tokyo, Tokyo, Japan.
+(5)Department of Surgery, Chiba University Graduate School of Medicine, Chiba,
+Japan.
+(6)Department of Surgery, Johns Hopkins Hospital, Baltimore, MD, USA.
+
+Comment in
+    HPB (Oxford). 2015 Aug;17(8):661-3.
+
+An American Hepato-Pancreato-Biliary Association (AHPBA)-sponsored consensus
+meeting of expert panellists met on 15 January 2014 to review current evidence on
+the management of intrahepatic cholangiocarcinoma (ICC) in order to establish
+practice guidelines and to agree on consensus statements. The treatment of ICC
+requires a coordinated, multidisciplinary approach to optimize survival. Biopsy
+is not necessary if the surgeon suspects ICC and is planning curative resection, 
+although biopsy should be obtained before systemic or locoregional therapies are 
+initiated. Assessment of resectability is best accomplished using cross-sectional
+imaging [computed tomography (CT) or magnetic resonance imaging (MRI)], but the
+role of positron emission tomography (PET) is unclear. Resectability in ICC is
+defined by the ability to completely remove the disease while leaving an adequate
+liver remnant. Extrahepatic disease, multiple bilobar or multicentric tumours,
+and lymph node metastases beyond the primary echelon are contraindications to
+resection. Regional lymphadenectomy should be considered a standard part of
+surgical therapy. In patients with high-risk features, the routine use of
+diagnostic laparoscopy is recommended. The preoperative diagnosis of combined
+hepatocellular carcinoma and cholangiocarcinoma (cHCC-CC) by imaging studies is
+extremely difficult. Surgical resection remains the mainstay of treatment, but
+survival is worse than in HCC alone. There are no adequately powered, randomized 
+Phase III trials that can provide definitive recommendations for adjuvant therapy
+for ICC. Patients with high-risk features (lymphovascular invasion,
+multicentricity or satellitosis, large tumours) should be encouraged to enrol in 
+clinical trials and to consider adjuvant therapy. Cisplatin plus gemcitabine
+represents the standard-of-care, front-line systemic therapy for metastatic ICC. 
+Genomic analyses of biliary cancers support the development of targeted
+therapeutic interventions.
+
+© 2015 International Hepato-Pancreato-Biliary Association.
+
+DOI: 10.1111/hpb.12441 
+PMCID: PMC4527852
+PMID: 26172134  [Indexed for MEDLINE]
+
+
+29. World J Hepatol. 2015 Apr 28;7(6):910-5. doi: 10.4254/wjh.v7.i6.910.
+
+Disease control with sunitinib in advanced intrahepatic cholangiocarcinoma
+resistant to gemcitabine-oxaliplatin chemotherapy.
+
+Dreyer C(1), Sablin MP(1), Bouattour M(1), Neuzillet C(1), Ronot M(1), Dokmak
+S(1), Belghiti J(1), Guedj N(1), Paradis V(1), Raymond E(1), Faivre S(1).
+
+Author information: 
+(1)Chantal Dreyer, Marie-Paule Sablin, Mohamed Bouattour, Cindy Neuzillet, Eric
+Raymond, Sandrine Faivre, Department of Medical Oncology, Beaujon University
+Hospital (AP-HP - PRES Paris 7 Diderot), 92110 Clichy, France.
+
+Advanced cholangiocarcinoma is associated with poor prognostic survival and has
+limited therapeutic options available at present. The importance of angiogenesis 
+and expression of pro-angiogenic factors in intrahepatic forms of
+cholangiocarcinoma suggest that therapies targeting angiogenesis might be useful 
+for the treatment of this disease. Here we report three cases of patients with
+advanced intrahepatic cholangiocarcinoma progressive after standard chemotherapy 
+and treated with sunitinib 50 mg/d in 6-wk cycles of 4 wk on treatment followed
+by 2 wk off treatment (Schedule 4/2). In all three patients, sunitinib treatment 
+was associated with a sustained disease control superior to 4 mo, patients
+achieving either a partial response or stable disease. A reduction in tumor size 
+and density was observed in all cases, suggesting tumor necrosis as a result of
+sunitinib treatment in these patients. In addition, sunitinib was generally well 
+tolerated and the occurrence of side effects was managed with standard medical
+interventions, as required. Our results suggest that sunitinib therapy may be
+associated with favorable outcomes and tolerability in patients with advanced
+cholangiocarcinoma. Those observations contributed to launch a prospective phase 
+II multicenter trial investigating sunitinib in advanced intrahepatic
+cholangiocarcinoma (SUN-CK study; NCT01718327).
+
+DOI: 10.4254/wjh.v7.i6.910 
+PMCID: PMC4411533
+PMID: 25937868 
+
+
+30. J Carcinog. 2015 Feb 23;14:1. doi: 10.4103/1477-3163.151940. eCollection 2015.
+
+Cancer review: Cholangiocarcinoma.
+
+Ghouri YA(1), Mian I(1), Blechacz B(2).
+
+Author information: 
+(1)Department of Internal Medicine, The University of Texas Health Science
+Center, Houston, Texas, USA.
+(2)Department of Gastroenterology, Hepatology and Nutrition, The University of
+Texas MD Anderson Cancer Center, Houston, Texas, USA.
+
+Cholangiocarcinoma (CCA) is the most common biliary tract malignancy. CCA is
+classified as intrahepatic, perihilar or distal extrahepatic; the individual
+subtypes differ in their biologic behavior, clinical presentation, and
+management. Throughout the last decades, CCA incidence rates had significantly
+increased. In addition to known established risk factors, novel possible risk
+factors (i.e. obesity, hepatitis C virus) have been identified that are of high
+importance in developed countries where CCA prevalence rates have been low. CCA
+tends to develop on the background of inflammation and cholestasis. In recent
+years, our understanding of the molecular mechanisms of cholangiocarcinogenesis
+has increased, thereby, providing the basis for molecularly targeted therapies.
+In its diagnostic evaluation, imaging techniques have improved, and the role of
+complementary techniques has been defined. There is a need for improved CCA
+biomarkers as currently used ones are suboptimal. Multiple staging systems have
+been developed, but none of these is optimal. The prognosis of CCA is considered 
+dismal. However, treatment options have improved throughout the last two decades 
+for carefully selected subgroups of CCA patients. Perihilar CCA can now be
+treated with orthotopic liver transplantation with neoadjuvant chemoradiation
+achieving 5-year survival rates of 68%. Classically considered
+chemotherapy-resistant, the ABC-02 trial has shown the therapeutic benefit of
+combination therapy with gemcitabine and cisplatin. The benefits of adjuvant
+treatments for resectable CCA, local ablative therapies and molecularly targeted 
+therapies still need to be defined. In this article, we will provide the reader
+with an overview over CCA, and discuss the latest developments and controversies.
+
+DOI: 10.4103/1477-3163.151940 
+PMCID: PMC4360553
+PMID: 25788866 
+
+
+31. Gan To Kagaku Ryoho. 2014 Nov;41(12):2089-91.
+
+[A case of intrahepatic cholangiocarcinoma with peritoneal dissemination treated 
+successfully with surgical resection and adjuvant chemotherapy].
+
+[Article in Japanese]
+
+Shiozaki S(1), Satoh D, Matsukawa H, Yamaguchi K, Takahashi K, Mimura N, Taguchi 
+K, Araki H, Toshima T, Kato T, Miyake S, Miyoshi H, Yoshida K, Choda Y, Tokumoto 
+N, Kanazawa T, Harano M, Ojima Y, Idani H, Okajima M, Ninomiya M.
+
+Author information: 
+(1)Dept. of Surgery, Hiroshima City Hiroshima Citizens Hospital.
+
+A 72-year-old woman was diagnosed with liver dysfunction during a medical
+examination. An abdominal computed tomography (CT) scan showed multiple nodules
+in the left lobe, anterior segment, andposterior segment of the liver, leading to
+a diagnosis of intrahepatic cholangiocarcinoma (ICC). Extended left lobectomy and
+partial hepatectomy in the anterior and posterior segment with lymph node
+dissection was performed. At the time of the operation, small nodules on the
+peritoneum near the stomach were resected; these nodules were diagnosed as
+peritoneal disseminations of ICC. The histopathological diagnosis was moderately 
+differentiated tubular adenocarcinoma (T4N0M1, Stage IVB). Adjuvant chemotherapy 
+with S-1 was administered for 18 months. Thirty months after the operation,
+multiple lung metastases were detected by using CT, and chemotherapy with
+gemcitabine was initiated. Thirty-six months after chemotherapy with gemcitabine,
+the patient is alive and at home despite her lung metastases, which grew slightly
+in size. Herein, we report a long-term survival case of ICC with peritoneal
+dissemination that was successfully treated with surgical resection and adjuvant 
+chemotherapy.
+
+
+PMID: 25731432  [Indexed for MEDLINE]
+
+
+32. Gan To Kagaku Ryoho. 2014 Nov;41(12):2086-8.
+
+[A case of curatively resected intrahepatic cholangiocarcinoma with hepatic
+artery and portal vein reconstruction].
+
+[Article in Japanese]
+
+Matsuura Y(1), Wada H, Tomimaru Y, Tomokuni A, Hama N, Kawamoto K, Kobayashi S,
+Marubashi S, Eguchi H, Umeshita K, Doki Y, Mori M, Nagano H.
+
+Author information: 
+(1)Dept. of Gastroenterological Surgery, Graduate School of Medicine, Osaka
+University.
+
+We report a case of curatively resected intrahepatic cholangiocarcinoma (ICC)
+with hepatic artery (HA) and portal vein (PV) reconstruction. A 25-year-old man
+was diagnosed with ICC. Computed tomography (CT) showed that the tumor had
+invaded the left and common hepatic duct, the right and left HA, and the main
+branch of the PV. Because the posterior HA was tumor free, we performed a left
+trisegmentectomy, PV and HA resection and reconstruction, and a
+hepatocholangiojejunostomy. Pathological examination revealed a tumor
+classification of T3, N1, M0, Stage IVB. The patient was discharged on
+postoperative day 59 and gemcitabine (1,000 mg/m²) was administered as adjuvant
+chemotherapy. However, abdominal CT revealed peritoneal metastasis 8 months after
+the surgery. A gemcitabine, cisplatin, and TS-1 (GCS) regimen was selected as
+treatment, and the patient is alive 13 months after surgery.
+
+
+PMID: 25731431  [Indexed for MEDLINE]
+
+
+33. Gan To Kagaku Ryoho. 2014 Nov;41(12):1524-6.
+
+[Hepatic inferior vena cava resection and vascular prosthesis reconstruction for 
+locally advanced intrahepatic cholangiocarcinoma - a case report].
+
+[Article in Japanese]
+
+Fujino M(1), Takayashiki T, Shimizu H, Ohtsuka M, Kato A, Yoshitomi H, Furukawa
+K, Takano S, Kuboki S, Okamura D, Suzuki D, Sakai N, Kagawa S, Miyazaki M.
+
+Author information: 
+(1)Dept. of General Surgery, Graduate School of Medicine, Chiba University.
+
+A 61-year-old woman was referred to our hospital because of jaundice and general 
+itching. Computed tomography (CT) scan demonstrated that the tumor was located in
+the caudate lobe of the liver with hilar invasion and involved the hepatic
+inferior vena cava (IVC) and the right renal artery and vein. The patient was
+diagnosed with locally advanced intrahepatic cholangiocarcinoma, for which she
+underwent right hemihepatectomy with right caudate lobectomy, portal vein
+resection, hepatic IVC resection, extrahepatic bile duct resection, and right
+nephrectomy. IVC was reconstructed using vascular prosthesis by expanded
+polytetrafluoroethylene (ePTFE)-ringed graft. The patient's postoperative course 
+was uneventful. The patient was treated with gemcitabine for postoperative
+chemotherapy, and 3 years after the operation, she died due to recurrence
+resulting from peritoneal dissemination. Although the thrombosis-related vascular
+prosthesis obstruction had occurred 2 years after the operation, no clinical
+symptom were noted, such as lower leg edema or renal dysfunction, during the
+postoperative course. Hepatic IVC prosthesis reconstruction for locally advanced 
+cancer with extensive IVC invasion can be a useful surgical procedure for
+improving the resection rate and maintaining quality of life (QOL) in such cases.
+
+
+PMID: 25731240  [Indexed for MEDLINE]
+
+
+34. Gan To Kagaku Ryoho. 2014 Nov;41(12):1509-11.
+
+[A case of curative resection after downsizing chemotherapy in initially
+unresectable locally advanced intrahepatic cholangiocarcinoma].
+
+[Article in Japanese]
+
+Aoki Y(1), Suzuki T, Kato A, Shimizu H, Ohtsuka M, Yoshitomi H, Furukawa K,
+Takayashiki T, Kuboki S, Takano S, Okamura D, Suzuki D, Sakai N, Kagawa S,
+Miyazaki M.
+
+Author information: 
+(1)Dept. of General Surgery, Chiba University Graduate School of Medicine.
+
+This case report describes an 83-year-old man with intrahepatic
+cholangiocarcinoma who was referred by a local hospital. Abdominal computed
+tomography (CT) showed a large tumor in hepatic segments 4, 5, and 8 involving
+the right hepatic vein and inferior vena cava, which is normally indicative of an
+unresectable locally advanced tumor. After systemic chemotherapy with gemcitabine
+and cisplatin, the observed decrease in the level of tumor marker suggested that 
+the cancer was responding to treatment, while radiological findings showed the
+main tumor shrunk without the presence of distant metastases. Thus, hepatic left 
+trisectionectomy with bile duct resection was performed after portal vein
+embolization. Pathological examination revealed negative margins (R0). Eighteen
+months after surgery, the patient is free of disease and shows no signs of
+recurrence. An initially unresectable, locally advanced biliary tract cancer may 
+be down sized by chemotherapy, which makes radical resection possible, at least
+in a proportion of patients. This approach provides longer survival and may have 
+a potential for disease eradication as a new multidisciplinary approach for
+patients with unresectable locally advanced biliary tract cancer.
+
+
+PMID: 25731235  [Indexed for MEDLINE]
+
+
+35. World J Gastroenterol. 2015 Feb 21;21(7):2096-101. doi: 10.3748/wjg.v21.i7.2096.
+
+FOLFIRI plus bevacizumab as a second-line therapy for metastatic intrahepatic
+cholangiocarcinoma.
+
+Guion-Dusserre JF(1), Lorgis V(1), Vincent J(1), Bengrine L(1), Ghiringhelli
+F(1).
+
+Author information: 
+(1)Jean-Florian Guion-Dusserre, Veronique Lorgis, Julie Vincent, Leila Bengrine, 
+Francois Ghiringhelli, Department of Medical Oncology, Centre Georges-François
+Leclerc, 21000 Dijon, France.
+
+AIM: To evaluate the efficacy and tolerance of FOLFIRI plus bevacizumab treatment
+outcome as second-line treatment for metastatic intrahepatic cholangiocarcinoma.
+METHODS: Thirteen consecutive patients with metastatic intrahepatic
+cholangiocarcinoma who were refractory to first-line therapy consisting of
+gemcitabine plus oxaliplatin-based first-line chemotherapy given intravenously
+via intra-arterial infusion were treated with FOLFIRI [irinotecan (180 mg/m² i.v.
+over 90 min) concurrently with folinic acid (400 mg/m² i.v. over 120 min)
+followed by fluorouracil (400 mg/m² i.v. bolus) then fluorouracil 2400 mg/m²
+intravenous infusion over 46 h] and bevacizumab (5 mg/kg) every 2 wk. Tumor
+response was evaluated by computed tomography scan every 4 cycles.
+RESULTS: The best tumor responses using response evaluation criteria in solid
+tumor criteria were: complete response for 1 patient, partial response for 4
+patients, and stable disease for 6 patients after 6 mo of follow-up. The response
+rate was 38.4% (95%CI: 12.5-89) and the disease control rate was 84.5% (95%CI:
+42-100). Seven deaths occurred at the time of analysis, progression free survival
+was 8 mo (95%CI: 7-16), and median overall survival was 20 mo (95%CI: 8-48). No
+grade 4 toxic events were observed. Four grade 3 hematological toxicities and one
+grade 3 digestive toxicity occurred. An adaptive reduction in chemotherapy dosage
+was required in 2 patients due to hematological toxicity, and a delay in
+chemotherapy cycles was required for 3 patients.
+CONCLUSION: FOLFIRI plus bevacizumab combination treatment showed promising
+efficacy and safety as second-line treatment for metastatic intrahepatic
+cholangiocarcinoma after failure of the first-line treatment of gemcitabine plus 
+oxaliplatin chemotherapy.
+
+DOI: 10.3748/wjg.v21.i7.2096 
+PMCID: PMC4326145
+PMID: 25717243  [Indexed for MEDLINE]
+
+
+36. Anticancer Res. 2014 Nov;34(11):6353-61.
+
+Immunogenic modulation of cholangiocarcinoma cells by chemoimmunotherapy.
+
+Koido S(1), Kan S(2), Yoshida K(3), Yoshizaki S(3), Takakura K(4), Namiki Y(5),
+Tsukinaga S(4), Odahara S(4), Kajihara M(4), Okamoto M(6), Ito M(2), Yusa S(3),
+Gong J(7), Sugiyama H(8), Ohkusa T(4), Homma S(2), Tajiri H(4).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+Jikei University School of Medicine, Tokyo, Japan Institute of Clinical Medicine 
+and Research, Jikei University School of Medicine, Tokyo, Japan Department of
+Oncology, Jikei University School of Medicine, Tokyo, Japan
+shigeo_koido@jikei.ac.jp.
+(2)Department of Oncology, Jikei University School of Medicine, Tokyo, Japan.
+(3)Research and Development Division, Tella Inc., Tokyo, Japan.
+(4)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+Jikei University School of Medicine, Tokyo, Japan.
+(5)Institute of Clinical Medicine and Research, Jikei University School of
+Medicine, Tokyo, Japan.
+(6)Department of Advanced Immunotherapeutics, Kitasato University School of
+Pharmacy, Tokyo, Japan.
+(7)Department of Medicine, Boston University School of Medicine, Boston, MA,
+U.S.A.
+(8)Department of Functional Diagnostic Science, Graduate School of Medicine,
+Osaka University, Osaka, Japan.
+
+BACKGROUND/AIM: Chemoimmunotherapy has been used to treat intrahepatic
+cholangiocarcinoma (ICC). However, little is known about the phenomena underlying
+the immunomodulation of ICC cells elicited by chemoimmunotherapy.
+MATERIALS AND METHODS: Primary ICC cells from a patient with ICC who received
+gemcitabine followed by 5-fluorouracil (5-FU), both combined with dendritic cells
+pulsed with Wilms' tumor 1 (WT1) peptides were cultured. ICC cells were treated
+with gemcitabine, 5-FU or interferon (IFN)-γ in vitro. The phenotype of the ICC
+cells was examined by flow cytometry and quantitative reverse transcription
+polymerase chain reaction.
+RESULTS: Stimulation of the ICC cells with gemcitabine resulted in up-regulation 
+of WT1 mRNA, programmed death receptor ligand-1 (PDL1) and calreticulin.
+Gemcitabine, 5-FU and IFN-γ induced up-regulation of mucin-1. Moreover, human
+leukocyte antigen (HLA)-ABC, HLA-DR and PDL1 were extremely up-regulated by
+IFN-γ.
+CONCLUSION: Chemoimmunomodulating agents alter the immunogenicity of ICC cells,
+resulting in complex clinical efficacy results.
+
+Copyright© 2014 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 25368235  [Indexed for MEDLINE]
+
+
+37. Am J Ther. 2016 Nov/Dec;23(6):e1449-e1455.
+
+A Prognostic Index to Identify Patients With Intrahepatic Cholangiocarcinoma Who 
+Could Benefit From Gemcitabine Plus Cisplatin.
+
+Lee SY(1), Kim HS, Choi YJ, Park KH, Shin SW, Kim YH, Tae Kim S.
+
+Author information: 
+(1)1Division of Hematology and Oncology, Department of Medicine, Korea University
+Anam Hospital, Korea University College of Medicine, Seoul, South Korea; and
+2Division of Hematology and Oncology, Department of Medicine, Samsung Medical
+Center, Sungkyunkwan University School of Medicine, Seoul, South Korea.
+
+Biliary tract cancer is a heterogenous group. Gemcitabine plus cisplatin has been
+the standard chemotherapy for advanced biliary tract cancer, but there is lack of
+evidence on treatment in patients with intrahepatic cholangiocarcinoma (IHC). We 
+analyzed 29 patients with only IHC who received gemcitabine plus cisplatin
+between June 2010 and February 2013. The median age was 63 years (range, 40-78
+years), and Eastern Cooperative Oncology Group performance status of all patients
+was <2. The median progression-free survival and median overall survival (OS)
+were 4.3 and 7.3 months, respectively. Multivariate analysis showed that platelet
+count (≤180 × 10 per liter), metastatic site of more than 2, and albumin level
+(≤3.5 g/dL) were independent prognostic factors for decreased OS. OS was
+estimated based on the number of adverse prognostic factors: zero or 1 (good
+prognostic group), 2 (intermediate group), or 3 (poor prognostic group). The
+median OS for good (n = 15), intermediate (n = 10), and poor (n = 4) prognostic
+group was 10.5, 6.1, and 1.6 months, respectively (P < 0.005). Relatively better 
+prognosis of the good prognosis group comparing to other prognosis groups can be 
+expected from the prognostic model established in this study by analyzing
+patients with IHC treated with gemcitabine.
+
+DOI: 10.1097/MJT.0000000000000112 
+PMID: 25285672  [Indexed for MEDLINE]
+
+
+38. Oncotarget. 2014 Sep 15;5(17):7820-32.
+
+Neddylation pathway is up-regulated in human intrahepatic cholangiocarcinoma and 
+serves as a potential therapeutic target.
+
+Gao Q(1), Yu GY(2), Shi JY(1), Li LH(2), Zhang WJ(3), Wang ZC(4), Yang LX(4),
+Duan M(4), Zhao H(5), Wang XY(4), Zhou J(6), Qiu SJ(4), Jeong LS(7), Jia LJ(3),
+Fan J(6).
+
+Author information: 
+(1)Liver Cancer Institute, Zhongshan Hospital and Shanghai Medical School, and
+Key Laboratory of Carcinogenesis and Cancer Invasion (Ministry of Education),
+Fudan University, Shanghai, P. R. China. Contributed equally to this work.
+(2)Cancer Institute, Fudan University Shanghai Cancer Center, and Department of
+Oncology, Shanghai Medical College, Fudan University, Shanghai, P. R. China.
+Contributed equally to this work.
+(3)Cancer Institute, Fudan University Shanghai Cancer Center, and Department of
+Oncology, Shanghai Medical College, Fudan University, Shanghai, P. R. China.
+(4)Liver Cancer Institute, Zhongshan Hospital and Shanghai Medical School, and
+Key Laboratory of Carcinogenesis and Cancer Invasion (Ministry of Education),
+Fudan University, Shanghai, P. R. China.
+(5)Department of Laboratory Medicine, Laboratory of Molecular Biology of Huadong 
+Hospital, Fudan University, Shanghai, P. R. China.
+(6)Liver Cancer Institute, Zhongshan Hospital and Shanghai Medical School, and
+Key Laboratory of Carcinogenesis and Cancer Invasion (Ministry of Education),
+Fudan University, Shanghai, P. R. China. Institute of Biomedical Sciences, Fudan 
+University, Shanghai, P. R. China.
+(7)College of Pharmacy, Seoul National University, Seoul, Korea.
+
+Therapeutic intervention in neddylation pathway is an emerging area for cancer
+treatment. Herein, we evaluated the clinical relevance and therapeutic potential 
+of targeting this pathway in intrahepatic cholangiocarcinoma (ICC).
+Immunohistochemistry of neddylation pathway components in a cohort of 322 cases
+showed that E1 (NAE1 and UBA3) and E2 (UBC12) enzymes, as well as global NEDD8
+conjugation, were upregulated in over 2/3 of human ICC. Notably, NAE1 was
+identified as an independent prognosticator for postoperative recurrence
+(P=0.009) and a combination of NEDD8 and NAE1 provided a better power for
+predicting patient clinical outcomes. In vitro treatment with MLN4924, a
+small-molecule NEDD8-activating enzyme inhibitor, led to a dose-dependent
+decrease of viability in both established and primary cholangiocarcinoma cell
+lines. Additionally, MLN4924 exhibited at least additive effect when combined
+with cisplatin. By blocking cullins neddylation, MLN4924 inactivated Cullin-Ring 
+ligase (CRL) and caused the accumulation of CRL substrates that triggered cell
+cycle arrest, senescence or apoptosis. Meanwhile, MLN4924 was well-tolerated and 
+significantly inhibited tumor growth in xenograft model of cholangiocarcinoma.
+Taken together, our findings indicated that upregulated neddylation pathway was
+involved in ICC progression and interference in this pathway could be a promising
+target for ICC therapy.
+
+DOI: 10.18632/oncotarget.2309 
+PMCID: PMC4202163
+PMID: 25229838  [Indexed for MEDLINE]
+
+
+39. Clin Cancer Res. 2014 Aug 15;20(16):4228-39. doi: 10.1158/1078-0432.CCR-14-0314. 
+Epub 2014 Jul 23.
+
+Treatment with chemotherapy and dendritic cells pulsed with multiple Wilms' tumor
+1 (WT1)-specific MHC class I/II-restricted epitopes for pancreatic cancer.
+
+Koido S(1), Homma S(2), Okamoto M(3), Takakura K(4), Mori M(5), Yoshizaki S(5),
+Tsukinaga S(4), Odahara S(4), Koyama S(6), Imazu H(6), Uchiyama K(4), Kajihara
+M(4), Arakawa H(6), Misawa T(7), Toyama Y(7), Yanagisawa S(7), Ikegami M(8), Kan 
+S(2), Hayashi K(2), Komita H(2), Kamata Y(2), Ito M(2), Ishidao T(5), Yusa S(5), 
+Shimodaira S(9), Gong J(10), Sugiyama H(11), Ohkusa T(4), Tajiri H(4).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+Institute of Clinical Medicine and Research, Departments of Oncology,
+shigeo_koido@jikei.ac.jp.
+(2)Oncology.
+(3)Department of Advanced Immunotherapeutics, Kitasato University School of
+Pharmacy;
+(4)Division of Gastroenterology and Hepatology, Department of Internal Medicine.
+(5)Research and Development Division, Tella Inc., Tokyo;
+(6)Endoscopy.
+(7)Surgery, and.
+(8)Pathology, The Jikei University School of Medicine;
+(9)Cell Processing Center, Shinshu University Hospital, Nagano;
+(10)Department of Medicine, Boston University School of Medicine, Boston,
+Massachusetts.
+(11)Department of Functional Diagnostic Science, Graduate School of Medicine,
+Osaka University, Osaka, Japan; and.
+
+PURPOSE: We performed a phase I trial to investigate the safety, clinical
+responses, and Wilms' tumor 1 (WT1)-specific immune responses following treatment
+with dendritic cells (DC) pulsed with a mixture of three types of WT1 peptides,
+including both MHC class I and II-restricted epitopes, in combination with
+chemotherapy.
+EXPERIMENTAL DESIGN: Ten stage IV patients with pancreatic ductal adenocarcinoma 
+(PDA) and 1 patient with intrahepatic cholangiocarcinoma (ICC) who were
+HLA-positive for A*02:01, A*02:06, A*24:02, DRB1*04:05, DRB1*08:03, DRB1*15:01,
+DRB1*15:02, DPB1*05:01, or DPB1*09:01 were enrolled. The patients received one
+course of gemcitabine followed by biweekly intradermal vaccinations with mature
+DCs pulsed with MHC class I (DC/WT1-I; 2 PDA and 1 ICC), II (DC/WT1-II; 1 PDA),
+or I/II-restricted WT1 peptides (DC/WT1-I/II; 7 PDA), and gemcitabine.
+RESULTS: The combination therapy was well tolerated. WT1-specific IFNγ-producing 
+CD4(+) T cells were significantly increased following treatment with DC/WT1-I/II.
+WT1 peptide-specific delayed-type hypersensitivity (DTH) was detected in 4 of the
+7 patients with PDA vaccinated with DC/WT1-I/II and in 0 of the 3 patients with
+PDA vaccinated with DC/WT1-I or DC/WT1-II. The WT1-specific DTH-positive patients
+showed significantly improved overall survival (OS) and progression-free survival
+(PFS) compared with the negative control patients. In particular, all 3 patients 
+with PDA with strong DTH reactions had a median OS of 717 days.
+CONCLUSIONS: The activation of WT1-specific immune responses by DC/WT1-I/II
+combined with chemotherapy may be associated with disease stability in advanced
+pancreatic cancer.
+
+©2014 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-14-0314 
+PMID: 25056373  [Indexed for MEDLINE]
+
+
+40. Hepatogastroenterology. 2014 Jan-Feb;61(129):162-7.
+
+Systemic gemcitabine combined with hepatic arterial infusion chemotherapy with
+cisplatin, 5-fluorouracil, and isovorin for the treatment of advanced
+intrahepatic cholangiocarcinoma: a pilot study.
+
+Marumoto M, Yamasaki T, Marumoto Y, Saeki I, Harima Y, Urata Y, Hidaka I,
+Ishikawa T, Takami T, Segawa M, Yamaguchi Y, Uchida K, Terai S, Sakaida I.
+
+BACKGROUND/AIMS: Intrahepatic cholangiocarcinoma (ICC) has a poor prognosis and
+usually presents as advanced disease. Hepatic arterial infusion chemotherapy
+(HAIC) is a promising option for advanced hepatocellular carcinoma; however,
+there have been few reports on the use of HAIC in patients with ICC. In the
+present study, we investigated the efficacy of treatment with systemic
+gemcitabine (GEM) combined with HAIC with cisplatin (CDDP), 5-fluorouracil
+(5-FU), and isovorin in patients with advanced ICC.
+METHODOLOGY: Seven patients with advanced ICC, who received systemic GEM combined
+with HAIC with CDDP, 5-FU, and isovorin were studied.
+RESULTS: The response rate after the first chemotherapy cycle was 57.1% (partial 
+response, 4; stable disease, 2; progressive disease, 1). The cumulative survival 
+rates at 1 and 2 years were 85.7% and 28.6%, respectively, and the median
+survival time was 22.3 months. With regard to grade 3 or 4 adverse reactions, the
+percentages of patients developing leukopenia, neutropenia, thrombocytopenia,
+anemia, and anorexia were 28.6%, 28.6%, 42.9%, 14.3%, and 14.3%, respectively. Na
+treatment-related deaths were encountered.
+CONCLUSIONS: Although this is a pilot study, we suggest that systemic GEM
+combined with HAIC with CDDP, 5-FU, and isovorin, may be a useful therapy for
+patients with advanced ICC.
+
+
+PMID: 24895814  [Indexed for MEDLINE]
+
+
+41. Chemotherapy. 2013;59(5):354-60. doi: 10.1159/000362223. Epub 2014 May 9.
+
+Hepatic arterial infusion of gemcitabine plus oxaliplatin as second-line
+treatment for locally advanced intrahepatic cholangiocarcinoma: preliminary
+experience.
+
+Ghiringhelli F(1), Lorgis V, Vincent J, Ladoire S, Guiu B.
+
+Author information: 
+(1)Department of Medical Oncology, Centre Georges-François Leclerc, Dijon,
+France.
+
+BACKGROUND: The aim of this study was to evaluate the efficacy and tolerability
+of hepatic arterial infusion (HAI) of gemcitabine plus oxaliplatin as second-line
+treatment for unresectable locally advanced intrahepatic cholangiocarcinoma.
+PATIENTS AND METHODS: We retrospectively analyzed the outcome of 12 consecutive
+patients with unresectable locally advanced intrahepatic cholangiocarcinoma
+treated with HAI of gemcitabine (1,000 mg/m(2) over 30 min) followed by
+oxaliplatin (100 mg/m(2) over 2 h), which was repeated every 2 weeks.
+RESULTS: All patients presented with disease limited to the liver and all had
+failed at least one line of chemotherapy with gemcitabine and oxaliplatin. The
+best tumor responses using RECIST criteria were partial responses in 8 patients
+and stable disease in 3 patients for at least 3 months; in 1 patient, disease
+progressed, resulting in a disease control rate of 91% (95% CI 45-100%). The
+median overall survival and time to progression were 9.1 months (95% CI 4.9-8.1) 
+and 20.3 months (95% CI 13.2-49.7), respectively. Partial responses enabled R0
+liver surgery in 2 patients and stereotactic radiation therapy in 3 patients.
+Grade 3/4 toxicities included neutropenia in 2 patients, thrombocytopenia in 2
+patients, and oxaliplatin allergy in 2 patients.
+CONCLUSIONS: HAI combining gemcitabine and oxaliplatin showed promising efficacy 
+and safety as second-line treatment for locally advanced intrahepatic
+cholangiocarcinoma.
+
+DOI: 10.1159/000362223 
+PMID: 24821200  [Indexed for MEDLINE]
+
+
+42. World J Gastroenterol. 2014 May 7;20(17):5131-4. doi: 10.3748/wjg.v20.i17.5131.
+
+One case of intrahepatic cholangiocarcinoma amenable to resection after
+radioembolization.
+
+Servajean C(1), Gilabert M(1), Piana G(1), Monges G(1), Delpero JR(1), Brenot
+I(1), Raoul JL(1).
+
+Author information: 
+(1)Cecilia Servajean, Marine Gilabert, Jean-Luc Raoul, Department of Medical
+Oncology, Paoli-Calmettes Institute, 13273 Marseille, France.
+
+We report the case of a 57-year-old man who was diagnosed with a large
+unresectable cholangiocarcinoma associated with 2 satellite nodules and without
+clear margins with the right hepatic vein. Despite 4 cycles of GEMOX (stopped due
+to a hypertransaminasemia believed to be due to gemcitabine) and 4 cycles of
+FOLFIRINOX, the tumor remained stable and continued to be considered
+unresectable. Radioembolization (resin microspheres, SIRS-spheres) targeting the 
+left liver (474 MBq) and segment IV (440 MBq) was performed. This injection was
+very well tolerated, and 4 more cycles of FOLFIRINOX were given while waiting for
+radioembolization efficacy. On computed tomography scan, a partial response was
+observed; the tumor was far less hypervascularized, and a margin was observed
+between the tumor and the right hepatic vein. A left hepatectomy enlarged to
+segment VIII was performed. On pathological exam, most of the tumor was
+acellular, with dense fibrosis around visible microspheres. Viable cells were
+observed only at a distance from beads. Radioembolization can be useful in the
+treatment of cholangiocarcinoma, allowing in some cases a secondary resection.
+
+DOI: 10.3748/wjg.v20.i17.5131 
+PMCID: PMC4009552
+PMID: 24803830  [Indexed for MEDLINE]
+
+
+43. Pract Radiat Oncol. 2013 Oct-Dec;3(4):344-8. doi: 10.1016/j.prro.2012.11.001.
+Epub 2012 Dec 8.
+
+Gastric bleeding after radiation therapy for intrahepatic cholangiocarcinoma.
+
+Das P(1), Abboud MT(2), Haque W(2), Javle M(3), Kaseb A(3), Curley SA(4), Vauthey
+JN(4), Aloia TA(4), Beddar AS(5), Delclos ME(2), Krishnan S(2), Crane CH(2).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Texas MD Anderson Cancer
+Center, Houston, Texas. Electronic address: PrajDas@mdanderson.org.
+(2)Department of Radiation Oncology, University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(3)Department of Gastrointestinal Medical Oncology, University of Texas MD
+Anderson Cancer Center, Houston, Texas.
+(4)Department of Surgical Oncology, University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(5)Department of Radiation Physics, University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+
+PURPOSE: The goal of this study was to determine the incidence and risk factors
+associated with gastric bleeding in patients treated with radiation therapy for
+intrahepatic cholangiocarcinoma.
+METHODS AND MATERIALS: Between November 2002 and December 2008, 33 patients with 
+intrahepatic cholangiocarcinoma were treated with radiation therapy to the
+primary site. Twenty-nine (88%) patients were previously treated with
+chemotherapy, including gemcitabine and cisplatin in 19 patients. The median dose
+of radiation therapy was 50.4 Gy (range, 35-70 Gy). Twenty-seven (82%) patients
+received concurrent therapy, with capecitabine in 26 and bevacizumab in 1
+patient.
+RESULTS: Nine of the 33 patients developed gastric bleeding, with a 1-year
+actuarial rate of 36%. Of these 9 patients, 7 presented with bleeding symptoms
+and 2 presented with anemia. All 9 patients were documented to have gastritis on 
+endoscopy. The absolute and percent volumes of stomach receiving 40 and 50 Gy
+were significantly associated with the risk of gastric bleeding.
+CONCLUSIONS: Patients with intrahepatic cholangiocarcinoma have a significant
+risk of developing gastric bleeding after radiation therapy. Hence, the volume of
+stomach exposed to radiation therapy should be minimized in patients receiving
+radiation therapy for intrahepatic cholangiocarcinoma.
+
+Copyright © 2013 American Society for Radiation Oncology. Published by Elsevier
+Inc. All rights reserved.
+
+DOI: 10.1016/j.prro.2012.11.001 
+PMID: 24674408 
+
+
+44. Surg Oncol Clin N Am. 2014 Apr;23(2):231-46. doi: 10.1016/j.soc.2013.10.004.
+
+Intrahepatic cholangiocarcinoma.
+
+Brown KM(1), Parmar AD(2), Geller DA(3).
+
+Author information: 
+(1)Department of Surgery, University of Texas Medical Branch, 301 University
+Boulevard, Galveston, TX 77555-0541, USA. Electronic address: km3brown@utmb.edu.
+(2)Department of Surgery, University of Texas Medical Branch, 301 University
+Boulevard, Galveston, TX 77555-0541, USA; Department of Surgery, University of
+California San Francisco-East Bay, 1411 East 31st Street, Oakland, CA 94602, USA.
+(3)Liver Cancer Center, University of Pittsburgh School of Medicine, 3459 Fifth
+Avenue, Pittsburgh, PA 15213-2582, USA. Electronic address: gellerda@upmc.edu.
+
+Intrahepatic cholangiocarcinoma (ICC) is a rare tumor, with an increasing
+incidence worldwide and an overall poor prognosis. Symptoms are usually
+nonspecific, contributing to an advanced tumor stage at diagnosis. The staging
+system for ICC has recently been updated and is based on number of lesions,
+vascular invasion, and lymph node involvement. Complete surgical resection to
+negative margins remains the only potentially curable treatment for ICC.
+Gemcitabine-based adjuvant therapy can be offered based on limited data from
+patients with unresectable ICC. Overall 5-year survivals after resection range
+from 17% to 44%, with median survivals of 19 to 43 months.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.soc.2013.10.004 
+PMCID: PMC4007210
+PMID: 24560108  [Indexed for MEDLINE]
+
+
+45. Gan To Kagaku Ryoho. 2013 Nov;40(12):1798-800.
+
+[A case of surgical resection of a combined hepatocellular and cholangiocarcinoma
+after transarterial chemoembolization].
+
+[Article in Japanese]
+
+Yakoshi Y(1), Toyoki Y, Ishido K, Kudo D, Kimura N, Wakiya T, Hakamada K.
+
+Author information: 
+(1)Dept. of Gastroenterological Surgery, Hirosaki University Graduate School of
+Medicine.
+
+A 48-year-old woman was admitted to our hospital for the treatment of a liver
+tumor (diameter, 10 cm), which was detected by abdominal contrast-enhanced
+computed tomography. The tumor occupied mainly the left medial segment and
+caudate lobe, invaded the left and right hepatic arteries, and obstructed the
+left portal vein. The tumor was diagnosed as an unresectable intrahepatic
+cholangiocarcinoma, and chemotherapy (a combination of gemcitabine and S-1) was
+initiated. Because the tumor continued to grow despite the chemotherapy, we
+performed transarterial chemoembolization(TACE)as a second-line treatment, which 
+successfully reduced tumor size to 7 cm. Thereafter, surgical resection was
+performed. Histopathological examination indicated the presence of intrahepatic
+cholangiocarcinoma, which formed the main component, combined with hepatocellular
+carcinoma. This tumor was diagnosed as a combined hepatocellular and
+cholangiocarcinoma. Although adjuvant chemotherapy was not administered because
+of prolonged pancytopenia, currently, at 5 years after the operation, the patient
+is alive and has not experienced any recurrence.
+
+
+PMID: 24393926  [Indexed for MEDLINE]
+
+
+46. Radiat Oncol. 2013 Dec 21;8:292. doi: 10.1186/1748-717X-8-292.
+
+Outcomes of concurrent chemoradiotherapy versus chemotherapy alone for
+advanced-stage unresectable intrahepatic cholangiocarcinoma.
+
+Kim YI, Park JW(1), Kim BH, Woo SM, Kim TH, Koh YH, Lee WJ, Kim CM.
+
+Author information: 
+(1)Center for Liver Cancer, National Cancer Center, 323 Ilsan-ro, Ilsan dong-gu, 
+Goyang, Gyeonggi 411-769, South Korea. jwpark@ncc.re.kr.
+
+BACKGROUND: A standard treatment for unresectable advanced-stage intrahepatic
+cholangiocarcinoma (IHCC) has not yet been established. Although neoadjuvant
+concurrent chemoradiotherapy (CCRT) and liver transplantation are associated with
+long-term survival in select patients, the outcomes of CCRT for advanced-stage
+unresectable IHCC remain unclear. The aim of our study was to evaluate the
+outcomes of CCRT in patients with unresectable advanced-stage IHCC.
+METHODS: We retrospectively reviewed the records of all patients with
+unresectable advanced stage (stage IVa or IVb) IHCC who were pathologically
+diagnosed and treated at National Cancer Center, Korea, from June 2001 to March
+2012. Of the total of 92 patients, 25 (27.1%) received capecitabine plus
+cisplatin (XP) chemotherapy with external radiotherapy (RT) (XP-CCRT group) and
+67 (72.8%) received XP chemotherapy alone (XP group). The clinical
+characteristics and outcomes of the 2 groups were compared.
+RESULTS: The 92 patients comprised 72 male and 20 female patients, with a median 
+age of 58 years (range 26-78 years). The baseline clinical characteristics of the
+2 groups were similar. Patients in the XP-CCRT group received a mean 44.7 Gy of
+RT and a mean 5.6 cycles of XP chemotherapy, whereas patients in the XP group
+received a mean 4.0 cycles. The disease control rate was higher in the XP-CCRT
+group than in the XP group, but the difference was not statistically significant 
+(56.0% vs. 41.5%, p = 0.217). Although neutropenia was significantly more
+frequent in the XP-CCRT than in the XP group (48% vs. 9%, p < 0.001), the rates
+of other toxicities and > grade 3 toxicities did not differ. At a median
+follow-up of 5.3 months, PFS (4.3 vs. 1.9 months, p = 0.001) and OS (9.3 vs.
+6.2 months, p = 0.048) were significantly longer in the XP-CCRT than in the XP
+group.
+CONCLUSIONS: XP-CCRT was well tolerated and was associated with longer PFS and OS
+than XP chemotherapy alone in patients with unresectable advanced IHCC.
+Controlled randomized trials are required to determine whether XP-CCRT is a
+primary treatment option for patients with unresectable advanced IHCC.
+
+DOI: 10.1186/1748-717X-8-292 
+PMCID: PMC3880040
+PMID: 24359879  [Indexed for MEDLINE]
+
+
+47. Chemotherapy. 2013;59(3):232-8. doi: 10.1159/000354539. Epub 2013 Dec 13.
+
+Gemcitabine plus cisplatin versus capecitabine plus cisplatin as first-line
+chemotherapy for advanced biliary tract cancer: a retrospective cohort study.
+
+Woo SM(1), Lee WJ, Kim JH, Kim DH, Han SS, Park SJ, Kim TH, Lee JH, Koh YH, Hong 
+EK.
+
+Author information: 
+(1)Center for Liver Cancer, National Cancer Center, Goyang, Republic of Korea.
+
+BACKGROUND AND AIM: Gemcitabine plus cisplatin (GP) is a standard chemotherapy
+option for patients with advanced biliary tract cancer (BTC). We compared the
+efficacy and safety of capecitabine plus cisplatin (XP) versus GP in advanced
+BTC.
+METHODS: The records of all patients treated with GP or XP chemotherapy for
+unresectable, metastatic, or recurrent BTC at the National Cancer Center between 
+December 2001 and August 2012 were reviewed retrospectively. Patients with
+histologically confirmed intrahepatic cholangiocarcinoma, gallbladder cancer, or 
+extrahepatic cholangiocarcinoma were enrolled.
+RESULTS: Of the 344 patients enrolled, 127 received GP and 217 received XP. At a 
+median follow-up time of 8.9 months, the median time to progression was longer in
+the GP group than in the XP group (5.6 vs. 4.7 months), but the difference was
+not statistically significant (p = 0.081). The median overall survival (OS) was
+8.4 months (95% CI 6.2-10.7) in the GP group and 7.6 months (95% CI 6.8-8.7) in
+the XP group (p = 0.024), with statistical significance retained following
+multivariate analysis (HR 0.72; 95% CI 0.527-0.987; p = 0.004). Grade 3/4
+toxicities were significantly more frequent in the GP group than in the XP group 
+(40.9 vs. 24.9%, p = 0.002).
+CONCLUSIONS: GP was superior to XP in prolonging OS, despite increasing the rate 
+of grade 3/4 adverse events.
+
+DOI: 10.1159/000354539 
+PMID: 24356333  [Indexed for MEDLINE]
+
+
+48. Mol Cancer Res. 2014 Jan;12(1):91-100. doi: 10.1158/1541-7786.MCR-13-0503. Epub
+2013 Nov 19.
+
+Cocarcinogenic effects of intrahepatic bile acid accumulation in
+cholangiocarcinoma development.
+
+Lozano E(1), Sanchez-Vicente L, Monte MJ, Herraez E, Briz O, Banales JM, Marin
+JJ, Macias RI.
+
+Author information: 
+(1)Department of Physiology and Pharmacology, Campus Miguel de Unamuno E.D.
+37007-Salamanca, Spain. jjgmarin@usal.es.
+
+Bile acid accumulation in liver with cholangiolar neoplastic lesions may occur
+before cholestasis is clinically detected. Whether this favors intrahepatic
+cholangiocarcinoma development has been investigated in this study. The E. coli
+RecA gene promoter was cloned upstream from Luc2 to detect in vitro direct
+genotoxic ability by activation of SOS genes. This assay demonstrated that bile
+acids were not able to induce DNA damage. The genotoxic effect of the
+DNA-damaging agent cisplatin was neither enhanced nor hindered by the hepatotoxic
+and hepatoprotective glycochenodeoxycholic and glycoursodeoxycholic acids,
+respectively. In contrast, thioacetamide metabolites, but not thioacetamide
+itself, induced DNA damage. Thus, thioacetamide was used to induce liver cancer
+in rats, which resulted in visible tumors after 30 weeks. The effect of bile acid
+accumulation on initial carcinogenesis phase (8 weeks) was investigated in bile
+duct ligated (BDL) animals. Serum bile acid measurement and determination of
+liver-specific healthy and tumor markers revealed that early thioacetamide
+treatment induced hypercholanemia together with upregulation of the tumor marker 
+Neu in bile ducts, which were enhanced by BDL. Bile acid accumulation was
+associated with increased expression of interleukin (IL)-6 and downregulation of 
+farnesoid X receptor (FXR). Bile duct proliferation and apoptosis activation,
+with inverse pattern (BDL > thioacetamide + BDL >> thioacetamide vs.
+thioacetamide > thioacetamide + BDL > BDL), were observed. In conclusion,
+intrahepatic accumulation of bile acids does not induce carcinogenesis directly
+but facilitates a cocarcinogenic effect due to stimulation of bile duct
+proliferation, enhanced inflammation, and reduction in FXR-dependent
+chemoprotection.IMPLICATIONS: This study reveals that bile acids foster
+cocarcinogenic events that impact cholangiocarcinoma.
+
+©2013 AACR.
+
+DOI: 10.1158/1541-7786.MCR-13-0503 
+PMID: 24255171  [Indexed for MEDLINE]
+
+
+49. Surg Endosc. 2013 Dec;27(12):4732-3. doi: 10.1007/s00464-013-3202-2. Epub 2013
+Oct 30.
+
+Pure laparoscopic right hepatectomy by anterior approach with hanging maneuver
+for large intrahepatic cholangiocarcinoma.
+
+Takahashi M(1), Wakabayashi G, Nitta H, Takeda D, Hasegawa Y, Takahara T, Ito N.
+
+Author information: 
+(1)Department of Surgery, Iwate Medical University of Medicine, Morioka, Iwate,
+Japan, takahash@iwate-med.ac.jp.
+
+BACKGROUND: Pure laparoscopic hemihepatectomy is still a challenging procedure.
+However, it is a minimally invasive liver surgery that leads to rapid recovery.
+Intrahepatic cholangiocarcinoma has a poor prognosis, especially when it occurs
+with lymph node metastasis. We recently had a patient who underwent a pure
+laparoscopic right hepatectomy and lymph nodes dissection for a large
+intrahepatic cholangiocarcinoma in the right liver by an anterior approach with
+hanging maneuver.
+METHODS: Because the tumor was 77 × 50 mm in diameter, mobilization was performed
+after the devascularization of the right liver. After the division of the right
+hepatic artery and the right portal vein, short hepatic veins were sealed and
+divided with a bipolar vessel sealer from the anterior face of the vena cava,
+followed by the placement of a tape between the liver and the vena cava for
+hanging. By means of the hanging maneuver, parenchymal transection was performed 
+with minimal blood loss, and the cut surface of the liver became plane.
+RESULTS: The operation time was 357 min, and the blood loss was 66 ml. A right
+hepatectomy and complete lymph node dissection adjacent to the hepatoduodenal
+ligament were performed successfully with a purely laparoscopic procedure. The
+postoperative hospital stay was 10 days. The final diagnosis of the intrahepatic 
+cholangiocarcinoma with distant lymph node metastasis in the hepatoduodenal
+ligament was pT1N1M0 stage IIIb (International Union Against Cancer criteria).
+CONCLUSIONS: The laparoscopic procedure enabled the patient to have an early
+discharge and adjuvant chemotherapy of gemcitabine with S1 initiated immediately 
+after discharge. We present a video of the described procedure.
+
+DOI: 10.1007/s00464-013-3202-2 
+PMID: 24170066  [Indexed for MEDLINE]
+
+
+50. Cancer. 2013 Nov 15;119(22):3929-42. doi: 10.1002/cncr.28312. Epub 2013 Aug 20.
+
+Multidisciplinary approaches to intrahepatic cholangiocarcinoma.
+
+Maithel SK(1), Gamblin TC, Kamel I, Corona-Villalobos CP, Thomas M, Pawlik TM.
+
+Author information: 
+(1)Department of Surgery, Emory University Hospital, Atlanta, Georgia.
+
+After hepatocellular carcinoma, intrahepatic cholangiocarcinoma (ICC) is the
+second most common primary hepatic malignancy. The etiology of ICC in most
+patients is not known, but its incidence is on the rise worldwide. There are 3
+morphologic subtypes of ICC that can be characterized on cross-sectional imaging,
+mass forming, periductal infiltrating, and intraductal growth; and the
+radiographic characteristics of ICC may vary based on the subtype. Complete
+surgical resection remains the only potentially curative option for patients with
+ICC. Routine lymphadenectomy at the time of surgical resection should be strongly
+considered, because lymph node status provides important prognostic information. 
+After surgery, the 5-year survival rate for ICC remains poor at only 25% to 35%
+in most series. Although numerous clinical trials have been conducted using a
+variety of chemotherapy regimens to treat ICC, systemic options for ICC remain
+limited. Doublet gemcitabine and cisplatin therapy is currently considered the
+standard-of-care first-line therapy for patients with advanced disease. Because
+ICC is typically confined to the liver and systemic chemotherapy traditionally
+has had only limited efficacy, there has been increasing interest in locoregional
+therapy. Although locoregional therapy may include intra-arterial therapies,
+stereotactic radiotherapy, hepatic artery pump therapy, or ablation, most data
+are limited. The purpose of this article was to provide a multidisciplinary
+appraisal of the current therapeutic approaches to ICC.
+
+Copyright © 2013 American Cancer Society.
+
+DOI: 10.1002/cncr.28312 
+PMID: 23963845  [Indexed for MEDLINE]
+
+
+51. Int J Clin Oncol. 2014;19(3):485-9. doi: 10.1007/s10147-013-0578-x. Epub 2013 Jun
+14.
+
+A single-center analysis of the survival benefits of adjuvant gemcitabine
+chemotherapy for biliary tract cancer.
+
+Yamanaka K(1), Hatano E, Kanai M, Tanaka S, Yamamoto K, Narita M, Nagata H, Ishii
+T, Machimoto T, Taura K, Uemoto S.
+
+Author information: 
+(1)Department of Surgery, Graduate School of Medicine, Kyoto University, 54
+Kawaharacho, Shogoin, Sakyo-ku, Kyoto, 606-8507, Japan.
+
+BACKGROUND: Surgical resection is the only curative treatment of biliary tract
+cancer (BTC). However, the prognosis of BTC remains unsatisfactory. The aim of
+this study is to evaluate the benefits of adjuvant gemcitabine chemotherapy for
+BTC.
+METHODS: We performed a historical cohort study that involved 198 patients who
+underwent R0 surgical resection. Patients who underwent major hepatectomy were
+administered biweekly intravenous gemcitabine at a dose of 800 mg/m(2).
+Otherwise, patients were administered intravenous gemcitabine at a dose of 1,000 
+mg/m(2) in 3 weekly infusions, which were followed by a 1-week pause. The primary
+outcome was overall survival. The hazard ratio (HR) of adjuvant chemotherapy was 
+estimated by propensity score-stratified Cox regression that was adjusted for
+confounders.
+RESULTS: Forty patients received adjuvant chemotherapy. The HR of adjuvant
+chemotherapy was 0.47 [95 % confidence interval (CI) 0.28-0.95; P = 0.03].
+Subgroup analysis showed that the survival benefits were possibly modified by
+lymph node positivity (HR 0.19; 95 % CI 0.07-0.58; interaction, P = 0.22), stage 
+III (HR 0.11; 95 % CI 0.02-0.50; interaction, P < 0.01), intrahepatic
+cholangiocarcinoma (ICC) (HR 0.09; 95 % CI 0.01-0.67; interaction, P = 0.05), and
+poorly differentiated tumor (HR 0.16; 95 % CI 0.03-0.85; interaction, P = 0.13).
+CONCLUSIONS: Adjuvant gemcitabine chemotherapy for BTC may be effective,
+particularly for patients with stage III and ICC.
+
+DOI: 10.1007/s10147-013-0578-x 
+PMID: 23765238  [Indexed for MEDLINE]
+
+
+52. Hepatology. 2013 Sep;58(3):1031-41. doi: 10.1002/hep.26468. Epub 2013 Jul 29.
+
+Adjuvant gemcitabine therapy improves survival in a locally induced,
+R0-resectable model of metastatic intrahepatic cholangiocarcinoma.
+
+Gürlevik E(1), Fleischmann-Mundt B, Armbrecht N, Longerich T, Woller N, Kloos A, 
+Hoffmann D, Schambach A, Wirth TC, Manns MP, Zender L, Kubicka S, Kühnel F.
+
+Author information: 
+(1)Clinic for Gastroenterology, Hepatology, and Endocrinology, Hannover Medical
+School, Hannover, Germany.
+
+Complete surgical tumor resection (R0) for treatment of intrahepatic
+cholangiocarcinoma (ICC) is potentially curative, but the prognosis remains
+dismal due to frequent tumor recurrence and metastasis after surgery. Adjuvant
+therapies may improve the outcome, but clinical studies for an adjuvant approach 
+are difficult and time-consuming for rare tumor entities. Therefore, animal
+models reflecting the clinical situation are urgently needed to investigate novel
+adjuvant therapies. To establish a mouse model of resectable cholangiocarcinoma
+including the most frequent genetic alterations of human ICC, we electroporated
+Sleeping Beauty-based oncogenic transposon plasmids into the left liver lobe of
+mice. KRas-activation in combination with p53-knockout in hepatocytes resulted in
+formation of a single ICC nodule within 3-5 weeks. Lineage tracing analyses
+confirmed the development of ICC by transdifferentiation of hepatocytes.
+Histologic examination demonstrated that no extrahepatic metastases were
+detectable during primary tumor progression. However, formation of tumor
+satellites close to the primary tumor and vascular invasion were observed,
+indicating early invasion into normal tissue adjacent to the tumor. After
+R0-resection of the primary tumor, we were able to prolong median survival,
+thereby observing tumor stage-dependent local recurrence, peritoneal
+carcinomatosis, and lung metastasis. Adjuvant gemcitabine chemotherapy after
+R0-resection significantly improved median survival of treated
+animals.CONCLUSION: We have developed a murine model of single, R0-resectable ICC
+with favorable characteristics for the study of recurrence patterns and
+mechanisms of metastasis after resection. This model holds great promise for
+preclinical evaluation of novel multimodal or adjuvant therapies to prevent
+recurrence and metastasis after R0-resection.
+
+© 2013 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.26468 
+PMID: 23686746  [Indexed for MEDLINE]
+
+
+53. Gastroenterology Res. 2013 Feb;6(1):39-41. Epub 2013 Mar 9.
+
+Humerus Metastasis From Cholangiocarcinoma: A Case Report.
+
+Federico A(1), Addeo R(2), Cerbone D(3), Iodice P(2), Cimmino G(4), Bucci L(3).
+
+Author information: 
+(1)Gastroenterology Division, Department of Clinical and Experimental Medicine,
+Second University of Naples, Naples, Italy.
+(2)Oncology Unit, "S. Giovanni di Dio" Hospital, ASL Napoli 2Nord Frattamaggiore,
+Italy.
+(3)Dipartimento Assistenziale di Chirurgia Generale, Oncologica e video assistita
+Universita Degli Studi Federico II, Naples, Italy.
+(4)Surgery Unit, "S. Giovanni di Dio" Hospital, ASL Napoli 2Nord Frattamaggiore, 
+Italy.
+
+Cholangiocarcinoma is a malignant disease of the epithelial cells in the intra-
+and extrahepatic bile ducts. It is the most frequent biliary malignancy. The lack
+of effective medical treatment makes a radical surgical resection the only
+therapeutic option. However, frequently Intrahepatic cholangiocarcinoma
+metastasize in lymphatic chains, including the hepatoduodenal ligament, and it
+often invades adjacent organs or metastasizes to other visceral organs such as
+the lungs, bones, adrenal glands, and brain and the prognosis remains poor. We
+present a case of elderly patient with a severe and progressive pain due to a
+pathologic fracture of humerus. The medical investigations revealed the presence 
+of an intrahepatic cholangiocarcinoma.
+
+DOI: 10.4021/gr523e 
+PMCID: PMC5051120
+PMID: 27785226 
+
+
+54. Oncogene. 2013 Oct 10;32(41):4861-70. doi: 10.1038/onc.2012.617. Epub 2013 Jan
+14.
+
+Intrahepatic cholangiocarcinoma: pathogenesis and rationale for molecular
+therapies.
+
+Sia D(1), Tovar V, Moeini A, Llovet JM.
+
+Author information: 
+(1)1] HCC Translational Research Laboratory, Liver Unit, Barcelona-Clinic Liver
+Cancer Group, Institut d'Investigacions Biomediques August Pi i Sunyer (IDIBAPS),
+Hospital Clínic, Barcelona, Catalonia, Spain [2] Gastrointestinal Surgery and
+Liver Transplantation Unit, National Cancer Institute, Milan, Italy.
+
+Intrahepatic cholangiocarcinoma (ICC) is an aggressive malignancy with very poor 
+prognosis. Genome-wide, high-throughput technologies have made major advances in 
+understanding the molecular basis of this disease, although important mechanisms 
+are still unclear. Recent data have revealed specific genetic mutations (for
+example, KRAS, IDH1 and IDH2), epigenetic silencing, aberrant signaling pathway
+activation (for example, interleukin (IL)-6/signal transducer and activator of
+transcription 3 (STAT3), tyrosine kinase receptor-related pathways) and molecular
+subclasses with unique alterations (for example, proliferation and inflammation
+subclasses). In addition, some ICCs share common genomic traits with
+hepatocellular carcinoma. All this information provides the basis to explore
+novel targeted therapies. Currently, surgery at early stage is the only effective
+therapy. At more advanced stages, chemotherapy regimens are emerging (that is,
+cisplatin plus gemcitabine), along with molecular targeted agents tested in
+several ongoing clinical trials. Nonetheless, a first-line conclusive treatment
+remains an unmet need. Similarly, there are no studies assessing tumor response
+related with genetic alterations. This review explores the recent advancements in
+the knowledge of the molecular alterations underlying ICC and the future
+prospects in terms of therapeutic strategies leading towards a more personalized 
+treatment of this neoplasm.
+
+DOI: 10.1038/onc.2012.617 
+PMCID: PMC3718868
+PMID: 23318457  [Indexed for MEDLINE]
+
+
+55. Gan To Kagaku Ryoho. 2012 Nov;39(12):2006-8.
+
+[Two long-term survival cases of unresectable intrahepatic cholangiocarcinoma
+treated with hepatic arterial infusion chemotherapy and radiation therapy].
+
+[Article in Japanese]
+
+Komatsu H(1), Kanazawa A, Tsukamoto T, Shimizu S, Ishikawa A, Mori Y, Nakajima T,
+Ohira G, Kodai S, Morimoto J, Yamazoe S, Yamamoto A, Inoue T, Yamashita Y,
+Nishiguchi Y, Ikehara T, Taira K, Horii K, Yamazaki O.
+
+Author information: 
+(1)Dept. of Hepato-Biliary-Pancreatic Surgery and Gastroenterological Surgery,
+Osaka City General Hospital, Japan.
+
+The prognosis for patients with unresectable intrahepatic cholangiocarcinoma(ICC)
+is extremely poor. Case 1 was a 65- year-old woman who had an ICC of 9 cm in
+diameter (mass-forming type) in the right lobe with portal trunk invasion. She
+was treated with hepatic arterial infusion
+chemotherapy[cisplatin(CDDP)/5-fluorouracil(5-FU)/l-leucovorin(l-LV)] and
+radiation therapy (total dose, 50 Gy). After 6 months, abdominal computed
+tomography (CT) revealed that the tumor had regressed. She survived for 7 years
+without recurrence of the ICC; subsequently, she died of peritoneal cancer. Case 
+2 was a 59-year-old woman who had an ICC of 8 cm in diameter (mass-forming type) 
+in the left lobe with lymph node metastasis in the hepatoduodenal ligament; the
+right hepatic artery was involved by the metastatic lymph nodes. She was treated 
+with hepatic arterial infusion chemotherapy(CDDP/5-FU/l-LV) and radiation
+therapy(total dose, 30 Gy). After 10 months, abdominal CT revealed that the tumor
+had disappeared, but paraaortic and mediastinal lymph node metastases were
+detected. She was therefore treated with systemic chemotherapy. Treatment with
+systematic chemotherapy enabled her to survive for over 5 years with a good
+performance status.
+
+
+PMID: 23267958  [Indexed for MEDLINE]
