@@ -50,14 +50,21 @@ if '__main__' == __name__ :
     if opt.option == 'tagger':
         print(get_post_taggeer(sentences_list))
     elif opt.option == 'parser':
+        break_switch = 0
         results = get_parse(sentences_list)
         for sen in results:
             for i in sen:
-                for s_tree in i.subtrees(lambda i: i.height() == 3):
-                    print(s_tree)
-                    if 'dynamic' in str(s_tree):
-                        print('#############################')
-                    print('@@@@@@@@@@@@@@@@@@')
+                for h in range(1, i.height()):
+                    for s_tree in i.subtrees(lambda i: i.height() == h):
+                        print(h)
+                        if "Parkinson" in str(s_tree)\
+                                and 'subjects' in str(s_tree):
+                            print(s_tree)
+                            break_switch = 1
+                            break
+                    if break_switch == 1:
+                        break_switch = 0
+                        break
 
             print('________________________________________')
 #        with open(opt.Output, 'w') as output_f:
