@@ -53,8 +53,12 @@ if '__main__' == __name__ :
         results = get_parse(sentences_list)
         for sen in results:
             for i in sen:
-                tree = i.pformat_latex_qtree()
-                print(tree)
+                for s_tree in i.subtrees(lambda i: i.height() == 3):
+                    print(s_tree)
+                    if 'dynamic' in str(s_tree):
+                        print('#############################')
+                    print('@@@@@@@@@@@@@@@@@@')
+
             print('________________________________________')
 #        with open(opt.Output, 'w') as output_f:
 #            for line in results:
