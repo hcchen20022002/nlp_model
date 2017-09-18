@@ -57,13 +57,15 @@ def filter_keys_to_json(sentences_list = [], filter_json = ""):
         filter_keys = json_file['data']
     for key in filter_keys:
         for sen in sentences_list:
-            if key in sen and filter_keys[key][0] in sen:
-                match_sentences_list.append({
-                    "orig_sen" : sen,
-                    "drug" : key,
-                    "disease": filter_keys[key][0],
-                    "polarity": filter_keys[key][1]
-                    })
+            if key.lower() in sen.lower():
+                for depands_key in filter_keys[key]:
+                    if depands_key[0].lower() in sen.lower():
+                        match_sentences_list.append({
+                            "orig_sen" : sen,
+                            "drug" : key,
+                            "disease": depands_key[0],
+                            "polarity": depands_key[1]
+                            })
     return match_sentences_list
 
 
@@ -77,7 +79,7 @@ if '__main__' == __name__ :
 
     text = InputText(opt.Input)
 
-    if 'split' == opt.option:    
+    if 'split' == opt.option:
         with open(opt.Output, 'w') as output_f:
             for sen in text.sentences:
                 for _ in sen:

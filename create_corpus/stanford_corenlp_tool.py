@@ -29,7 +29,9 @@ def get_parse(sentences = []):
     os.environ['STANFORD_MODELS'] = 'stanfordNLP_parser/stanford-parser-full-2015-12-09/stanford-parser-3.6.0-models.jar'
 
     stanford_parser = stanford.StanfordParser(model_path='stanfordNLP_parser/stanford-english-corenlp-2016-01-10-models/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz')
-    result_sentences = stanford_parser.raw_parse_sents(sentences)
+    #result_sentences = stanford_parser.raw_parse_sents(sentences)
+    result_list = stanford_parser.raw_parse_sents(sentences)
+    result_sentences = [ _ for _ in result_list ]
 
     return result_sentences
 
@@ -49,7 +51,12 @@ if '__main__' == __name__ :
         print(get_post_taggeer(sentences_list))
     elif opt.option == 'parser':
         results = get_parse(sentences_list)
-        with open(opt.Output, 'w') as output_f:
-            for line in results:
-                for _ in line:
-                    output_f.write(str(_))
+        for sen in results:
+            for i in sen:
+                tree = i.pformat_latex_qtree()
+                print(tree)
+            print('________________________________________')
+#        with open(opt.Output, 'w') as output_f:
+#            for line in results:
+#                for _ in line:
+#                    output_f.write(str(_))

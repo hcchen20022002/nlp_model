@@ -19,6 +19,9 @@ def get_json_contents(json_file = ""):
             positive_count = positive_count + 1
         elif _['polarity'] == 0:
             negative_count = negative_count + 1
+            if _['drug'] == 'indacaterol':
+                print(_['orig_sen'])
+                print('_____________________________________________________')
     print('Positive value: {0}'.format(positive_count))
     print('negative value: {0}'.format(negative_count))
     return True
