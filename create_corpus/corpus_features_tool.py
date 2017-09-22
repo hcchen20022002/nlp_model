@@ -3,7 +3,7 @@
 
 import sys, argparse, json, time
 
-def get_json_contents(json_file = ""):
+def get_info(json_file = ""):
     with open(json_file) as json_f:
         contents = json.load(json_f)
     print('quantity of data: {0}'.format(len(contents)))
@@ -35,4 +35,4 @@ if '__main__' == __name__ :
     opt = parser.parse_args(sys.argv[1:])
 
     if 'info' == opt.option:
-        get_json_contents(opt.Input)
+        get_info(opt.Input)

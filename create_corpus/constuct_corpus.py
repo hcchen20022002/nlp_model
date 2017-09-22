@@ -68,28 +68,44 @@ def filter_keys_to_json(sentences_list = [], filter_json = ""):
                             })
     return match_sentences_list
 
+def get_parsing_tree(sentences_list = {}):
+    import stanford_corenlp_tool as stanford_tool
+    sentences_list_with_tree = []
+    ###############
+    ###############
+    ###############
+    for sen in sentences_dict:
+        orig_tree = stanford_tool.get_parse([sen['orig_sen']])
+    ###############
+    ###############
+    ###############
 
 if '__main__' == __name__ :
     parser = argparse.ArgumentParser(sys.argv[0])
-    parser.add_argument('option', choices=['split', 'filter'], help='provide a action you want to do')
+    parser.add_argument('option', choices=['split', 'filter', 'get_tree'], help='provide a action you want to do')
     parser.add_argument('-I', '--Input', type=str, default='INPUT', help='provide a input text')
     parser.add_argument('-O', '--Output', type=str, default='OUTPUT', help='provide a file to save output')
     parser.add_argument('-F', '--Filter', type=str, default='filter.json', help='provide a json to filter')
     opt = parser.parse_args(sys.argv[1:])
 
-    text = InputText(opt.Input)
+
 
     if 'split' == opt.option:
+        text = InputText(opt.Input)
         with open(opt.Output, 'w') as output_f:
             for sen in text.sentences:
                 for _ in sen:
                     output_f.write(str(_))
                 output_f.write('\n')
-    if 'filter' == opt.option:
+    elif 'filter' == opt.option:
+        text = InputText(opt.Input)
         # it's for two items relationships
         filter_result = filter_keys_to_json(text.sentences, opt.Filter)
         with open(opt.Output, 'w') as output_json:
             json.dump(filter_result, output_json)
         #for _ in filter_result:
         #    print(_['disease'])
+    elif 'get_tree' == opt.option:
+        sen_dict = json.load(opt.Input)
+        get_parsing_tree(sen_dict)
 
