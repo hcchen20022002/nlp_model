@@ -54,13 +54,15 @@ if '__main__' == __name__ :
         results = get_parse(sentences_list)
         for sen in results:
             for i in sen:
-                for h in range(1, i.height()):
+                for h in range(0, i.height()):
                     for s_tree in i.subtrees(lambda i: i.height() == h):
                         if "Parkinson" in str(s_tree)\
                                 and 'subjects' in str(s_tree):
                             print('Height: {0}'.format(h))
                             print('tree: {0}'.format(s_tree))
                             print('list with tag: {0}'.format(s_tree.pos()))
+                            print(s_tree.leaves())
+                            print(s_tree.pprint())
                             break_switch = 1
                             break
                     if break_switch == 1:

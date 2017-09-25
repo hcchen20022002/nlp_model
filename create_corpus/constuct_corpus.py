@@ -68,17 +68,56 @@ def filter_keys_to_json(sentences_list = [], filter_json = ""):
                             })
     return match_sentences_list
 
-def get_parsing_tree(sentences_list = {}):
+def get_parsing_tree(sentences_list = []):
     import stanford_corenlp_tool as stanford_tool
     sentences_list_with_tree = []
-    ###############
-    ###############
-    ###############
-    for sen in sentences_dict:
-        orig_tree = stanford_tool.get_parse([sen['orig_sen']])
-    ###############
-    ###############
-    ###############
+    for _ in range(0, len(sentences_list)):
+        sen_info = sentences_list.pop()
+        print(sen_info['drug'])
+        print(sen_info['disease'])
+        print(sen_info['orig_sen'])
+        # [0][0] at the end is because get_parse() would return a list
+        # this list only have 1 element by which we input only 1 too
+        orig_tree = stanford_tool.get_parse(
+                [sen_info['orig_sen']])[0]
+        #####################
+        break_switch = 0
+        for i in orig_tree:
+            for h in range(0, i.height()):
+                for s_tree in i.subtrees(lambda i: i.height() == h):
+                    # unified string format for keywords and tree
+                    drug = _unified_string(sen_info['drug'])
+                    disease = _unified_string(sen_info['disease'])
+                    tree_leaves = [ _.lower() for _ in s_tree.leaves()]
+                    #if set(drug).issubset(tree_leaves)\
+                    #        and set(disease).issubset(tree_leaves):
+                    if set(drug).issubset(tree_leaves)\
+                            and set(disease).issubset(tree_leaves):
+                        print(h)
+                        print(s_tree.pprint())
+                        print(s_tree.pos())
+                        print(s_tree.leaves())
+                        break_switch = 1
+                        break
+                if break_switch == 1:
+                    break_switch = 0
+                    break
+            print('__________________________________________')
+        print('=======================================')
+
+        #####################
+def _unified_string(Input = str()):
+    import re
+    output_list = []
+    string = ''
+    for _ in Input:
+        if _ in [ ' ', "'", "-" ] :
+            output_list.append(string)
+            string = ''
+        if ' ' != _ :
+            string = string + _.lower()
+    output_list.append(string)
+    return output_list
 
 if '__main__' == __name__ :
     parser = argparse.ArgumentParser(sys.argv[0])
@@ -106,6 +145,7 @@ if '__main__' == __name__ :
         #for _ in filter_result:
         #    print(_['disease'])
     elif 'get_tree' == opt.option:
-        sen_dict = json.load(opt.Input)
-        get_parsing_tree(sen_dict)
+        with open(opt.Input) as json_f:
+            sen_list = json.load(json_f)
+        get_parsing_tree(sen_list)
 
