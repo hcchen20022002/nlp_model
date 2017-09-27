@@ -90,28 +90,29 @@ def get_parsing_tree(sentences_list = []):
                     disease = _unified_string(sen_info['disease'])
                     tree_leaves = [ _.lower() for _ in s_tree.leaves()]
                     #if set(drug).issubset(tree_leaves)\
-                    #        and set(disease).issubset(tree_leaves):
-                    if set(drug).issubset(tree_leaves)\
+                    if any( _d in _l for _d in drug for _l in tree_leaves)\
                             and set(disease).issubset(tree_leaves):
+                        sen_info['pos_tree'] = s_tree.pos()
+                        sen_info['pos_tree_height'] = h
+                        sen_info['tree_sentence'] = s_tree.leaves()
+                        sentences_list_with_tree.append(sen_info)
                         print(h)
-                        print(s_tree.pprint())
                         print(s_tree.pos())
                         print(s_tree.leaves())
                         break_switch = 1
                         break
-                if break_switch == 1:
                     break_switch = 0
                     break
             print('__________________________________________')
         print('=======================================')
-
+    return sentences_list_with_tree
         #####################
 def _unified_string(Input = str()):
     import re
     output_list = []
     string = ''
     for _ in Input:
-        if _ in [ ' ', "'", "-" ] :
+        if _ in [ ' ', "'"] :
             output_list.append(string)
             string = ''
         if ' ' != _ :
@@ -147,5 +148,7 @@ if '__main__' == __name__ :
     elif 'get_tree' == opt.option:
         with open(opt.Input) as json_f:
             sen_list = json.load(json_f)
-        get_parsing_tree(sen_list)
+        results = get_parsing_tree(sen_list)
+        with open(opt.Output, 'w') as output_json:
+            json.dump(results, output_json)
 
