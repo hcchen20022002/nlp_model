@@ -101,6 +101,7 @@ def get_parsing_tree(sentences_list = []):
                         print(s_tree.leaves())
                         break_switch = 1
                         break
+                if break_switch == 1:
                     break_switch = 0
                     break
             print('__________________________________________')
