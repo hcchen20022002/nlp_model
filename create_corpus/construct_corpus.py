@@ -78,8 +78,11 @@ def get_parsing_tree(sentences_list = []):
         print(sen_info['orig_sen'])
         # [0][0] at the end is because get_parse() would return a list
         # this list only have 1 element by which we input only 1 too
-        orig_tree = stanford_tool.get_parse(
+        try:
+            orig_tree = stanford_tool.get_parse(
                 [sen_info['orig_sen']])[0]
+        except UnicodeDecodeError:
+            continue
         #####################
         break_switch = 0
         for i in orig_tree:
