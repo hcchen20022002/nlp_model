@@ -90,8 +90,9 @@ def get_parsing_tree(sentences_list = []):
                     disease = _unified_string(sen_info['disease'])
                     tree_leaves = [ _.lower() for _ in s_tree.leaves()]
                     #if set(drug).issubset(tree_leaves)\
+                            #and set(disease).issubset(tree_leaves):
                     if any( _d in _l for _d in drug for _l in tree_leaves)\
-                            and set(disease).issubset(tree_leaves):
+                            and any( _di in _l for _di in disease for _l in tree_leaves):
                         sen_info['pos_tree'] = s_tree.pos()
                         sen_info['pos_tree_height'] = h
                         sen_info['tree_sentence'] = s_tree.leaves()
