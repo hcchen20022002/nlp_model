@@ -69,15 +69,24 @@ def filter_keys_to_json(sentences_list = [], filter_json = ""):
     return match_sentences_list
 
 def get_parsing_tree(sentences_list = []):
+    import re
     import stanford_corenlp_tool as stanford_tool
+
     sentences_list_with_tree = []
     for _ in range(0, len(sentences_list)):
         sen_info = sentences_list.pop()
+        if 1 == sen_info['polarity']:
+            continue
         print(sen_info['drug'])
         print(sen_info['disease'])
         print(sen_info['orig_sen'])
+        print(sen_info['polarity'])
         # [0][0] at the end is because get_parse() would return a list
         # this list only have 1 element by which we input only 1 too
+        
+        if re.findall(u'[\u4e00-\u9fff]+', sen_info['orig_sen']):
+            print('Have chinese!')
+            continue
         try:
             orig_tree = stanford_tool.get_parse(
                 [sen_info['orig_sen']])[0]
