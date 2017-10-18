@@ -112,7 +112,7 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
         elif wd[0] == wd[1]:
             symbol_count = symbol_count + 1
     # coounting words relation by distance
-    if 0 = drug_index or 0 = disease:
+    if 0 == drug_index or 0 == disease:
         return 'Cannot find item: '.format(pos_tree)
     if drug_index > disease_index:
         first_item_type = first_item_type + 1
@@ -123,7 +123,7 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
     closest_noun = _get_closest_distance(first_itme_index, noun_list)
     closest_reverse_wd = _get_closest_distance(first_itme_index, reverse_wd_location_list)
 
-    return word_features = {
+    word_features = {
             'first_item_type': first_item_type,
             'closest_verb': closest_verb[0],
             'closest_verb_distance': closest_verb[1],
@@ -134,6 +134,7 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
             'symbol_count': symbol_count,
             'verb_list': verb_list,
             'noun_list': noun_list}
+    return word_features
 
 def _get_item_pos(item = ''):
     import stanford_corenlp_tool as stanford_tool
@@ -155,7 +156,7 @@ def _get_closest_word(target = int(), word_list = []):
     if 0 == len(word_list):
         return [0, 9999999]
     else:
-        location_list = [ _[1] for _ in word_list])
+        location_list = [ _[1] for _ in word_list]
         shortest_distance = min([ abs(_ - target) for _ in location_list])
         return [ word_list[location_list.index(shortest_distance)][0]
                 , shortest_distance ]
