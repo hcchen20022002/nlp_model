@@ -34,9 +34,12 @@ def create_feature(contents = [], f_type = 'all'):
     negative_count = 0
     if 'all' == f_type:
         for sen in contents:
-            if drug not in itme_pos_dir:
+            print(sen)
+            drug = sen['drug']
+            disease = sen['disease']
+            if drug not in item_pos_dir:
                 item_pos_dir[drug] = _get_item_pos(drug)
-            if disease not in itme_pos_dir:
+            if disease not in item_pos_dir:
                 item_pos_dir[disease] = _get_item_pos(disease)
             word_features = _get_word_feature(item_pos_dir[drug],
                     item_pos_dir[disease], sen['pos_tree'])
@@ -50,22 +53,25 @@ def create_feature(contents = [], f_type = 'all'):
                     word_features['closest_verb_distance'],
                     word_features['closest_noun'],
                     word_features['closest_noun_distance'],
-                    len(word_features['reverse_wd_location_liste']),
+                    len(word_features['reverse_wd_location_list']),
                     word_features['closest_reverse_wd_distance'],
                     word_features['symbol_count'])
             # add words ascii code feature
             feature = feature + '1001:{0} '.format(len(word_features['verb_list']))
             verb_num = 1002
-            for verb in verb_list:
+            for verb in word_features['verb_list']:
                 feature = feature + '{0}:{1} '.format(verb_num, verb[0])
                 verb_num = verb_num + 1
             feature = feature + '2001:{0} '.format(len(word_features['noun_list']))
+
             noun_num = 2002
-            for noun in noun_list:
+            for noun in word_features['noun_list']:
                 feature = feature + '{0}:{1} '.format(noun_num, noun[0])
-                verb_num = noun_num + 1
+                noun_num = noun_num + 1
 
             feature_file = '{0}_{1}'.format(sen['disease'], sen['drug'])
+            print(feature)
+            print('________________________________________________________')
             with open('all_type_' + feature_file, 'a') as f:
                 f.write(feature)
                 f.write('\n')
@@ -90,38 +96,42 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
     
     # get each needed words location and ASCII code
     count = 0
-    countinue_flag = 0
+    continue_flag = 0
     for wd in pos_tree:
         # skip second word if drug or disease have two or more words
         if 0 != continue_flag:
             countinue_flag = continue_flag - 1
             continue
         count = count + 1
-        if wd[0] == drug_pos[0][0]:
+        print(wd[1])
+        if drug_pos[0][0] in wd[0]:
             continue_flag = len(drug_pos) - 1
             drug_index = count
-        elif wd[0] == disease_pos[0][0]:
+        elif disease_pos[0][0] in wd[0]:
             continue_flag = len(disease_pos) - 1
             disease_index = count
         elif wd[0] in reverse_word_database:
             reverse_wd_location_list.append([ _get_ASCII(wd[0]), count])
-        elif re.match(wd[1], '^V'):
+        elif re.match('^V', wd[1]):
             verb_list.append([ _get_ASCII(wd[0]), count])
-        elif re.match(wd[1], '^N'):
+        elif re.match('^N', wd[1]):
             noun_list.append([ _get_ASCII(wd[0]), count])
         elif wd[0] == wd[1]:
             symbol_count = symbol_count + 1
     # coounting words relation by distance
-    if 0 == drug_index or 0 == disease:
-        return 'Cannot find item: '.format(pos_tree)
-    if drug_index > disease_index:
+    print('drug:' + str(drug_index))
+    print('disease:' + str(disease_index))
+    if 0 == drug_index or 0 == disease_index:
+        first_item_type = 9999999
+    elif drug_index > disease_index:
         first_item_type = first_item_type + 1
-    itme_index = [drug_index, disease_index]
+    item_index = [drug_index, disease_index]
+    print('first item type:' + str(first_item_type))
     # get the closest words
-    first_itme_index = itme_index[first_item_type - 1]
-    closest_verb = _get_closest_distance(first_itme_index, verb_list)
-    closest_noun = _get_closest_distance(first_itme_index, noun_list)
-    closest_reverse_wd = _get_closest_distance(first_itme_index, reverse_wd_location_list)
+    first_item_index = item_index[first_item_type - 1]
+    closest_verb = _get_closest_word(first_item_index, verb_list)
+    closest_noun = _get_closest_word(first_item_index, noun_list)
+    closest_reverse_wd = _get_closest_word(first_item_index, reverse_wd_location_list)
 
     word_features = {
             'first_item_type': first_item_type,
@@ -156,10 +166,11 @@ def _get_closest_word(target = int(), word_list = []):
     if 0 == len(word_list):
         return [0, 9999999]
     else:
-        location_list = [ _[1] for _ in word_list]
-        shortest_distance = min([ abs(_ - target) for _ in location_list])
-        return [ word_list[location_list.index(shortest_distance)][0]
-                , shortest_distance ]
+        location_list = [ abs(_[1] - target) for _ in word_list]
+        #shortest_distance = min([ abs(_ - target) for _ in location_list])
+        shortest_distance = min(location_list)
+        return [ word_list[location_list.index(shortest_distance)][0],
+                shortest_distance ]
 
 if '__main__' == __name__ :
     parser = argparse.ArgumentParser(sys.argv[0])
