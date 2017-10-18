@@ -97,10 +97,10 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
             countinue_flag = continue_flag - 1
             continue
         count = count + 1
-        if wd[0] = drug_pos[0][0]:
+        if wd[0] == drug_pos[0][0]:
             continue_flag = len(drug_pos) - 1
             drug_index = count
-        elif wd[0] = disease_pos[0][0]:
+        elif wd[0] == disease_pos[0][0]:
             continue_flag = len(disease_pos) - 1
             disease_index = count
         elif wd[0] in reverse_word_database:
