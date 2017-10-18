@@ -100,17 +100,29 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
     for wd in pos_tree:
         # skip second word if drug or disease have two or more words
         if 0 != continue_flag:
-            countinue_flag = continue_flag - 1
+            print(continue_flag)
+            continue_flag = continue_flag - 1
             continue
         count = count + 1
         print(wd[1])
-        if drug_pos[0][0] in wd[0]:
-            continue_flag = len(drug_pos) - 1
-            drug_index = count
-        elif disease_pos[0][0] in wd[0]:
-            continue_flag = len(disease_pos) - 1
-            disease_index = count
-        elif wd[0] in reverse_word_database:
+        # use to for loop to solve if drug or disease have multi words
+        # and some sentences didn't get the first word in pos tree
+        for drug_word in drug_pos:
+            if drug_word[0].lower() in wd[0].lower() and\
+                    0 == drug_index:
+                drug_index = count
+                continue_flag = continue_flag + (len(drug_pos) - drug_pos.index(drug_word) - 1)
+
+        for disease_word in disease_pos:
+            if disease_word[0].lower() in wd[0].lower() and\
+                    0 == disease_index:
+                disease_index = count
+                continue_flag = continue_flag +\
+                        (len(disease_pos) - disease_pos.index(disease_word) - 1)
+
+        if 0 != continue_flag :
+            continue
+        elif wd[0].lower() in reverse_word_database:
             reverse_wd_location_list.append([ _get_ASCII(wd[0]), count])
         elif re.match('^V', wd[1]):
             verb_list.append([ _get_ASCII(wd[0]), count])
