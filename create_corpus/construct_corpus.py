@@ -92,7 +92,7 @@ def get_parsing_tree(sentences_list = []):
                 [sen_info['orig_sen']])[0]
         except UnicodeDecodeError:
             continue
-        #####################
+
         break_switch = 0
         for i in orig_tree:
             for h in range(0, i.height()):
@@ -120,7 +120,7 @@ def get_parsing_tree(sentences_list = []):
             print('__________________________________________')
         print('=======================================')
     return sentences_list_with_tree
-        #####################
+
 def _unified_string(Input = str()):
     import re
     output_list = []
@@ -133,6 +133,7 @@ def _unified_string(Input = str()):
             string = string + _.lower()
     output_list.append(string)
     return output_list
+
 
 if '__main__' == __name__ :
     parser = argparse.ArgumentParser(sys.argv[0])
