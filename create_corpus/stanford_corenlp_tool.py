@@ -3,7 +3,7 @@
 
 import sys, argparse
 
-def get_post_taggeer(sentences = []):
+def get_pos_taggeer(sentences = []):
     from nltk.tag import StanfordPOSTagger
     result_list = []
     st = StanfordPOSTagger('stanfordNLP_parser/stanford-postagger-full-2015-12-09/models/english-bidirectional-distsim.tagger',
@@ -48,7 +48,7 @@ if '__main__' == __name__ :
             sentences_list.append(line.replace('\n', ''))
 
     if opt.option == 'tagger':
-        print(get_post_taggeer(sentences_list))
+        print(get_pos_taggeer(sentences_list))
     elif opt.option == 'parser':
         break_switch = 0
         results = get_parse(sentences_list)
