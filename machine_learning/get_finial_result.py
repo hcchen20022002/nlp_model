@@ -22,8 +22,8 @@ class RelevantData(object):
                     self.TP = self.TP + 1
                 else:
                     self.FN = self.FN + 1
-            elif expect_data[count] == '-1\n':
-                if real_data[count] == '-1\n':
+            elif expect_data[count] == '0\n':
+                if real_data[count] == '0\n':
                     self.TN = self.TN + 1
                 else:
                     self.FP = self.FP + 1
@@ -53,13 +53,13 @@ if '__main__' == __name__ :
     expect_data = get_sentence(opt.expect)
     real_data = get_sentence(opt.real)
     relevant_data = RelevantData(expect_data, real_data)
-    print('=================================')
+    print('_________________________________')
     print('TP : {0}'.format(relevant_data.TP))
     print('FP : {0}'.format(relevant_data.FP))
     print('FN : {0}'.format(relevant_data.FN))
     print('TN : {0}'.format(relevant_data.TN))
     print('Total : {0}'.format(relevant_data.total))
-    print('=================================')
+    print('_________________________________')
 
     if 'accuracy' == opt.option:
         print(relevant_data.accuracy())
