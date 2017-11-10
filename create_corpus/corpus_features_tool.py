@@ -17,11 +17,12 @@ def get_info(contents = []):
             positive_count = positive_count + 1
         elif 0 == _['polarity']:
             negative_count = negative_count + 1
-            if _['drug'] == 'gefitinib':
-                print(_['orig_sen'])
-                print(_['drug'])
-                print(_['disease'])
-                print('_____________________________________________________')
+        if _['drug'] in ['thalidomide', 'hypertension', 'haemorrhage']:
+            print(_['orig_sen'])
+            print(_['pos_tree'])
+            print(_['drug'])
+            print(_['disease'])
+            print('_____________________________________________________')
     print('Positive value: {0}'.format(positive_count))
     print('negative value: {0}'.format(negative_count))
     return True
@@ -29,9 +30,6 @@ def get_info(contents = []):
 def create_feature(contents = [], f_type = 'all'):
     disease_drug_pair_dir = {}
     item_pos_dir = {}
-    total = 0
-    positive_count = 0
-    negative_count = 0
     if 'all' == f_type:
         for sen in contents:
             print(sen)
@@ -44,30 +42,33 @@ def create_feature(contents = [], f_type = 'all'):
             word_features = _get_word_feature(item_pos_dir[drug],
                     item_pos_dir[disease], sen['pos_tree'])
 
-            feature = '{0} 1:{1} 2:{2} 3:{3} 4:{4} 5:{5} 6:{6} 7:{7} 8:{8} 9:{9} 10:{10} '.format(
+            feature = '{0} 1:{1} 2:{2} 3:{3} 4:{4} 5:{5} 6:{6} 7:{7} 8:{8} 9:{9} 10:{10} 11:{11} 12:{12} 13:{13} 14:{14} 15:{15} 16:{16} 17:{17} 18:{18} 19:{19} 20:{20} 21:{21} 22:{22} 23:{23} 24:{24}'.format(
                     sen['polarity'],
                     sen['pos_tree_height'],
                     len( sen['tree_sentence']),
                     word_features['first_item_type'],
-                    word_features['closest_verb'],
-                    word_features['closest_verb_distance'],
-                    word_features['closest_noun'],
-                    word_features['closest_noun_distance'],
-                    len(word_features['reverse_wd_location_list']),
-                    word_features['closest_reverse_wd_distance'],
-                    word_features['symbol_count'])
-            # add words ascii code feature
-            feature = feature + '1001:{0} '.format(len(word_features['verb_list']))
-            verb_num = 1002
-            for verb in word_features['verb_list']:
-                feature = feature + '{0}:{1} '.format(verb_num, verb[0])
-                verb_num = verb_num + 1
-            feature = feature + '2001:{0} '.format(len(word_features['noun_list']))
+                    word_features['disease_index'],
+                    word_features['drug_index'],
+                    word_features['verb_list'][0],
+                    word_features['disease_closest_verb_info'][0],
+                    word_features['disease_closest_verb_info'][1],
+                    word_features['drug_closest_verb_info'][0],
+                    word_features['drug_closest_verb_info'][1],
+                    word_features['disease_closest_noun_info'][0],
+                    word_features['disease_closest_noun_info'][1],
+                    word_features['drug_closest_noun_info'][0],
+                    word_features['drug_closest_noun_info'][1],
+                    word_features['disease_closest_IN_info'][0],
+                    word_features['disease_closest_IN_info'][1],
+                    word_features['drug_closest_IN_info'][0],
+                    word_features['drug_closest_IN_info'][1],
+                    word_features['symbol_count'],
+                    word_features['NNP_count'],
+                    len(word_features['verb_list']),
+                    len(word_features['noun_list']),
+                    len(word_features['IN_list']),
+                    word_features['reverse_wd_count'])
 
-            noun_num = 2002
-            for noun in word_features['noun_list']:
-                feature = feature + '{0}:{1} '.format(noun_num, noun[0])
-                noun_num = noun_num + 1
 
             feature_file = '{0}_{1}'.format(sen['disease'], sen['drug'])
             print(feature)
@@ -84,14 +85,16 @@ def create_feature(contents = [], f_type = 'all'):
 # pos_tree example
 # [('the', 'DT'), ('pattern', 'NN'), ('of', 'IN'), ('hypertonus', 'NNS'), ('in', 'IN'), ('athetosis', 'NNS'), (',', ','), ('Parkinson', 'NNP'), ("'s", 'POS'), ('disease', 'NN'), (',', ','), ('Fluticasone', 'NNP'), ('propionate', 'NNP'), (',', ','), ('spasticity', 'RB'), (',', ','), ('and', 'CC'), ('activated', 'VBN'), ('normal', 'JJ'), ('subjects', 'NNS')]
 def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
-    reverse_word_database = ['no', 'not', 'non', "n't"]
-    symbol_count = 0
+    reverse_word_database = ['no', 'not', "n't", 'none']
     drug_index = 0
     disease_index = 0
+    symbol_count = 0
+    NNP_count = 0
     # drug first = 1, disease first = 2, default is drug first
     first_item_type = 1
     verb_list = []
     noun_list = []
+    IN_list = []
     reverse_wd_location_list = []
     
     # get each needed words location and ASCII code
@@ -100,18 +103,18 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
     for wd in pos_tree:
         # skip second word if drug or disease have two or more words
         if 0 != continue_flag:
-            print(continue_flag)
             continue_flag = continue_flag - 1
             continue
-        count = count + 1
-        print(wd[1])
+        count += 1
+        print('{0} / {1}'.format(wd[0], wd[1]))
         # use to for loop to solve if drug or disease have multi words
         # and some sentences didn't get the first word in pos tree
         for drug_word in drug_pos:
             if drug_word[0].lower() in wd[0].lower() and\
                     0 == drug_index:
                 drug_index = count
-                continue_flag = continue_flag + (len(drug_pos) - drug_pos.index(drug_word) - 1)
+                continue_flag = continue_flag +\
+                        (len(drug_pos) - drug_pos.index(drug_word) - 1)
 
         for disease_word in disease_pos:
             if disease_word[0].lower() in wd[0].lower() and\
@@ -125,37 +128,54 @@ def _get_word_feature(drug_pos = [], disease_pos = [], pos_tree = []):
         elif wd[0].lower() in reverse_word_database:
             reverse_wd_location_list.append([ _get_ASCII(wd[0]), count])
         elif re.match('^V', wd[1]):
-            verb_list.append([ _get_ASCII(wd[0]), count])
+            verb_list.append([ _get_ASCII(wd[0].lower()), count])
         elif re.match('^N', wd[1]):
-            noun_list.append([ _get_ASCII(wd[0]), count])
+            if wd[1] in ['NNP', 'NNPS']:
+                NNP_count += 1
+            else:
+                noun_list.append([ _get_ASCII(wd[0].lower()), count])
+        elif re.match('IN', wd[1]):
+            IN_list.append([ _get_ASCII(wd[0].lower()), count])
         elif wd[0] == wd[1]:
-            symbol_count = symbol_count + 1
+            symbol_count += 1
     # coounting words relation by distance
     print('drug:' + str(drug_index))
     print('disease:' + str(disease_index))
     if 0 == drug_index or 0 == disease_index:
-        first_item_type = 9999999
+        first_item_type = 9999
     elif drug_index > disease_index:
-        first_item_type = first_item_type + 1
+        first_item_type += 1
     item_index = [drug_index, disease_index]
     print('first item type:' + str(first_item_type))
-    # get the closest words
+    # create default element for empty list
+    verb_list = [[0,0]] if not verb_list else verb_list
+    noun_list = [[0,0]] if not noun_list else noun_list
+    IN_list = [[0,0]] if not IN_list else IN_list
+    # get the closest words, [ASCII_value, distance]
     first_item_index = item_index[first_item_type - 1]
-    closest_verb = _get_closest_word(first_item_index, verb_list)
-    closest_noun = _get_closest_word(first_item_index, noun_list)
-    closest_reverse_wd = _get_closest_word(first_item_index, reverse_wd_location_list)
+    drug_closest_verb = _get_closest_word(drug_index, verb_list)
+    drug_closest_noun = _get_closest_word(drug_index, noun_list)
+    drug_closest_IN = _get_closest_word(drug_index, IN_list)
+    disease_closest_verb = _get_closest_word(disease_index, verb_list)
+    disease_closest_noun = _get_closest_word(disease_index, noun_list)
+    disease_closest_IN = _get_closest_word(disease_index, IN_list)
 
     word_features = {
+            'drug_index': drug_index,
+            'disease_index': disease_index,
             'first_item_type': first_item_type,
-            'closest_verb': closest_verb[0],
-            'closest_verb_distance': closest_verb[1],
-            'closest_noun': closest_noun[0],
-            'closest_noun_distance': closest_noun[1],
-            'reverse_wd_location_list': reverse_wd_location_list,
-            'closest_reverse_wd_distance': closest_reverse_wd[1],
+            'drug_closest_verb_info': drug_closest_verb,
+            'drug_closest_noun_info': drug_closest_noun,
+            'drug_closest_IN_info': drug_closest_IN,
+            'disease_closest_verb_info': disease_closest_verb,
+            'disease_closest_noun_info': disease_closest_noun,
+            'disease_closest_IN_info': disease_closest_IN,
+            'reverse_wd_count': len(reverse_wd_location_list),
             'symbol_count': symbol_count,
+            'NNP_count': NNP_count,
             'verb_list': verb_list,
-            'noun_list': noun_list}
+            'noun_list': noun_list,
+            'IN_list': IN_list}
     return word_features
 
 def _get_item_pos(item = ''):
@@ -168,15 +188,19 @@ def _get_item_pos(item = ''):
 
 def _get_ASCII(string = ''):
     ASCII_value = 0
-    for index in range(0, 20):
+    word_max_lenght = 10
+    for index in range(0, word_max_lenght):
         if len(string) > (index + 1):
+            # transform words
+            word_value = ord(string[index])
+                    #*(ord(string[index])%8 + 1)
             ASCII_value = ASCII_value + \
-                    ord(string[index])*(10**(3*(20-index-1)))
+                    word_value*(10**(3*(word_max_lenght-index-1)))
     return ASCII_value
 
 def _get_closest_word(target = int(), word_list = []):
     if 0 == len(word_list):
-        return [0, 9999999]
+        return [0, 9999]
     else:
         location_list = [ abs(_[1] - target) for _ in word_list]
         #shortest_distance = min([ abs(_ - target) for _ in location_list])
