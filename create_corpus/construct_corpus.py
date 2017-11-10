@@ -77,10 +77,10 @@ def get_parsing_tree(sentences_list = []):
         sen_info = sentences_list.pop()
         if 1 == sen_info['polarity']:
             continue
-        print(sen_info['drug'])
-        print(sen_info['disease'])
         print(sen_info['orig_sen'])
-        print(sen_info['polarity'])
+        print('Drug: {0}'.format(sen_info['drug']))
+        print('Disease: {0}'.format(sen_info['disease']))
+        print('Polarity: {0}'.format(sen_info['polarity']))
         # [0][0] at the end is because get_parse() would return a list
         # this list only have 1 element by which we input only 1 too
         
@@ -109,7 +109,7 @@ def get_parsing_tree(sentences_list = []):
                         sen_info['pos_tree_height'] = h
                         sen_info['tree_sentence'] = s_tree.leaves()
                         sentences_list_with_tree.append(sen_info)
-                        print(h)
+                        print('Subtree height: {0}'.format(h))
                         print(s_tree.pos())
                         print(s_tree.leaves())
                         break_switch = 1
