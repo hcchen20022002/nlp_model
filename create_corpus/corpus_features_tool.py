@@ -17,7 +17,7 @@ def get_info(contents = []):
             positive_count = positive_count + 1
         elif 0 == _['polarity']:
             negative_count = negative_count + 1
-        if _['drug'] in ['thalidomide', 'hypertension', 'haemorrhage']:
+#        if _['drug'] in ['thalidomide', 'hypertension', 'haemorrhage']:
             print(_['orig_sen'])
             print(_['pos_tree'])
             print(_['drug'])
@@ -42,14 +42,14 @@ def create_feature(contents = [], f_type = 'all'):
             word_features = _get_word_feature(item_pos_dir[drug],
                     item_pos_dir[disease], sen['pos_tree'])
 
-            feature = '{0} 1:{1} 2:{2} 3:{3} 4:{4} 5:{5} 6:{6} 7:{7} 8:{8} 9:{9} 10:{10} 11:{11} 12:{12} 13:{13} 14:{14} 15:{15} 16:{16} 17:{17} 18:{18} 19:{19} 20:{20} 21:{21} 22:{22} 23:{23} 24:{24}'.format(
+            feature = '{0} 1:{1} 2:{2} 3:{3} 4:{4} 5:{5} 6:{6} 7:{7} 8:{8} 9:{9} 10:{10} 11:{11} 12:{12} 13:{13} 14:{14} 15:{15} 16:{16} 17:{17} 18:{18} 19:{19} 20:{20} 21:{21} 22:{22} 23:{23} 24:{24} 25:{25}'.format(
                     sen['polarity'],
                     sen['pos_tree_height'],
                     len( sen['tree_sentence']),
                     word_features['first_item_type'],
                     word_features['disease_index'],
                     word_features['drug_index'],
-                    word_features['verb_list'][0],
+                    word_features['verb_list'][0][0],
                     word_features['disease_closest_verb_info'][0],
                     word_features['disease_closest_verb_info'][1],
                     word_features['drug_closest_verb_info'][0],
@@ -67,7 +67,8 @@ def create_feature(contents = [], f_type = 'all'):
                     len(word_features['verb_list']),
                     len(word_features['noun_list']),
                     len(word_features['IN_list']),
-                    word_features['reverse_wd_count'])
+                    word_features['reverse_wd_count'],
+                    sen['orig_sen'].count(' '))
 
 
             feature_file = '{0}_{1}'.format(sen['disease'], sen['drug'])
@@ -192,10 +193,10 @@ def _get_ASCII(string = ''):
     for index in range(0, word_max_lenght):
         if len(string) > (index + 1):
             # transform words
-            word_value = ord(string[index])
+            word_value = (ord(string[index]) - 96)
                     #*(ord(string[index])%8 + 1)
             ASCII_value = ASCII_value + \
-                    word_value*(10**(3*(word_max_lenght-index-1)))
+                    word_value*(10**(2*(word_max_lenght-index-1)))
     return ASCII_value
 
 def _get_closest_word(target = int(), word_list = []):
