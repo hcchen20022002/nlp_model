@@ -75,7 +75,8 @@ if '__main__' == __name__:
 
     if 'increase' == opt.option:
         #TODO need to fix ignore list became user can input
-        ignore_list = [3,4,5,6,7,9,11,12,13,14,15,17]
+        #ignore_list = [3,4,5,6,7,9,11,13,15,17]
+        ignore_list = []
         data_set_with_smote = orig_data.do_smote(ignore_list)
         write_new_data_set(opt.Output, data_set_with_smote, orig_data.max_feature)
     if 'decrease' == opt.option:
