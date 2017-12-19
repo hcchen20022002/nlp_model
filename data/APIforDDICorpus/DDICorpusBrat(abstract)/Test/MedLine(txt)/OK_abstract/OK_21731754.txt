@@ -1,0 +1,30 @@
+Antidepressant-warfarin interaction and associated gastrointestinal bleeding risk in a case-control study.
+Bleeding is the most common and worrisome adverse effect of warfarin therapy.
+One of the factors that might increase bleeding risk is initiation of interacting drugs that potentiate warfarin.
+We sought to evaluate whether initiation of an antidepressant increases the risk of hospitalization for gastrointestinal bleeding in warfarin users.
+Medicaid claims data (1999-2005) were used to perform an observational case-control study nested within person-time exposed to warfarin in those   18 years.
+In total, 430,455 warfarin users contributed 407,370 person-years of warfarin use.
+The incidence rate of hospitalization for GI bleeding among warfarin users was 4.
+8 per 100 person-years (95% CI, 4.
+2-4.
+5).
+Each gastrointestinal bleeding cases was matched to 50 controls based on index date and state.
+Warfarin users had an increased odds ratio of gastrointestinal bleeding upon initiation of citalopram (OR   =   1.
+3 [95% CI, 1.
+5-2.
+8]), fluoxetine (OR   =   1.
+3 [95% CI, 1.
+1-2.
+8]), paroxetine (OR   =   1.
+4 [95% CI, 1.
+7-2.
+2]), amitriptyline (OR   =   1.
+7 [95% CI, 1.
+2-2.
+1]).
+Also mirtazapine, which is not believed to interact with warfarin, increased the risk of GI bleeding (OR   =   1.
+5 [95% CI, 1.
+0-2.
+5]).
+Warfarin users who initiated citalopram, fluoxetine, paroxetine, amitriptyline, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding.
+However, the elevated risk with mirtazapine suggests that a drug-drug interaction may not have been responsible for all of the observed increased risk.
