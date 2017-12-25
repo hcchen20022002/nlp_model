@@ -6,8 +6,8 @@ import sys, argparse
 def get_pos_taggeer(sentences = []):
     from nltk.tag import StanfordPOSTagger
     result_list = []
-    st = StanfordPOSTagger('stanfordNLP_parser/stanford-postagger-full-2015-12-09/models/english-bidirectional-distsim.tagger',
-            'stanfordNLP_parser/stanford-postagger-full-2015-12-09/stanford-postagger-3.6.0.jar')
+    st = StanfordPOSTagger('/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-postagger-full-2015-12-09/models/english-bidirectional-distsim.tagger',
+            '/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-postagger-full-2015-12-09/stanford-postagger-3.6.0.jar')
     for sen in sentences:
         #
         print(sen)
@@ -25,19 +25,34 @@ def get_pos_taggeer(sentences = []):
 def get_parse(sentences = []):
     import os
     from nltk.parse import stanford
-    os.environ['CLASSPATH'] = 'stanfordNLP_parser/stanford-parser-full-2015-12-09/stanford-parser.jar'
-    os.environ['STANFORD_MODELS'] = 'stanfordNLP_parser/stanford-parser-full-2015-12-09/stanford-parser-3.6.0-models.jar'
+    os.environ['CLASSPATH'] = '/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-parser-full-2015-12-09/stanford-parser.jar'
+    os.environ['STANFORD_MODELS'] = '/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-parser-full-2015-12-09/stanford-parser-3.6.0-models.jar'
 
-    stanford_parser = stanford.StanfordParser(model_path='stanfordNLP_parser/stanford-english-corenlp-2016-01-10-models/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz')
+    stanford_parser = stanford.StanfordParser(model_path='/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-english-corenlp-2016-01-10-models/edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz')
     #result_sentences = stanford_parser.raw_parse_sents(sentences)
     result_list = stanford_parser.raw_parse_sents(sentences)
     result_sentences = [ _ for _ in result_list ]
 
     return result_sentences
 
+def get_ner(sentences = []):
+    import os
+    from nltk.tag import StanfordNERTagger
+    from nltk.tokenize import word_tokenize
+
+    st = StanfordNERTagger('/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-ner-2015-04-20/classifiers/english.all.3class.distsim.crf.ser.gz',
+            '/home/normanc/NTNU/lab106/create_corpus/stanfordNLP_parser/stanford-ner-2015-04-20/stanford-ner.jar',
+            encoding='utf-8')
+    result_list = []
+    for sen in sentences:
+        tokenized_sen = word_tokenize(sen)
+        result_list.append(st.tag(tokenized_sen))
+    return result_list
+
+
 if '__main__' == __name__ :
     parser = argparse.ArgumentParser(sys.argv[0])
-    parser.add_argument('option', choices=['tagger', 'parser'], help='provide a action you want to do')
+    parser.add_argument('option', choices=['tagger', 'parser', 'ner'], help='provide a action you want to do')
     parser.add_argument('-I', '--Input', type=str, default='INPUT', help='provide a ')
     parser.add_argument('-O', '--Output', type=str, default='OUTPUT', help='provide a ')
     opt = parser.parse_args(sys.argv[1:])
@@ -54,23 +69,11 @@ if '__main__' == __name__ :
         results = get_parse(sentences_list)
         for sen in results:
             for i in sen:
-                for h in range(0, i.height()):
-                    for s_tree in i.subtrees(lambda i: i.height() == h):
-                        if "Parkinson" in str(s_tree)\
-                                and 'subjects' in str(s_tree):
-                            print('Height: {0}'.format(h))
-                            print('tree: {0}'.format(s_tree))
-                            print('list with tag: {0}'.format(s_tree.pos()))
-                            print(s_tree.leaves())
-                            print(s_tree.pprint())
-                            break_switch = 1
-                            break
-                    if break_switch == 1:
-                        break_switch = 0
-                        break
-
+                print('list with tag: {0}'.format(i.pos()))
             print('________________________________________')
 #        with open(opt.Output, 'w') as output_f:
 #            for line in results:
 #                for _ in line:
 #                    output_f.write(str(_))
+    elif opt.option == 'ner':
+        print(get_ner(sentences_list))
