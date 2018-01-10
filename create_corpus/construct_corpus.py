@@ -75,8 +75,8 @@ def get_parsing_tree(sentences_list = []):
     sentences_list_with_tree = []
     for _ in range(0, len(sentences_list)):
         sen_info = sentences_list.pop()
-        if 1 == sen_info['polarity']:
-            continue
+#        if 1 == sen_info['polarity']:
+#            continue
         print(sen_info['orig_sen'])
         print('Drug: {0}'.format(sen_info['drug']))
         print('Disease: {0}'.format(sen_info['disease']))
