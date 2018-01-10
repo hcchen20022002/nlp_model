@@ -191,7 +191,7 @@ def _get_ASCII(string = ''):
     ASCII_value = 0
     word_max_lenght = 10
     for index in range(0, word_max_lenght):
-        if len(string) > (index + 1):
+        if len(string) > index:
             # transform words
             word_value = (ord(string[index]) - 96)
                     #*(ord(string[index])%8 + 1)
