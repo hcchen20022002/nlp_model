@@ -19,19 +19,18 @@ class feature_data_set(object):
         with open(input_file, 'r') as f:
             for line in f:
                 feature_dict = {}
-                tmp_wd = ''
-                tmp_key = ''
-                wd_count = 0
+                tmp_wd, tmp_key, wd_count = '', '', 0
                 for wd in line:
                     wd_count += 1
                     if ':' == wd:
                         tmp_key = tmp_wd
                         tmp_wd = ''
-                    elif ' ' == wd or wd_count == len(line):
+                    elif ' ' == wd or wd_count == len(line)-1:
+                        if  wd_count == len(line)-1:
+                            tmp_wd += wd
                         tmp_key = 0 if not tmp_key else tmp_key
-                        feature_dict[int(tmp_key)] = int(tmp_wd)
-                        tmp_wd = ''
-                        tmp_key = ''
+                        feature_dict[int(tmp_key)] = float(tmp_wd)
+                        tmp_wd, tmp_key = '', ''
                     else:
                         tmp_wd += wd
                 if max(feature_dict) >= max_feature:
@@ -39,16 +38,27 @@ class feature_data_set(object):
                 data_list.append(feature_dict)
         return data_list, max_feature
 
-    def do_smote(self, ignore_list = []):
+    def do_smote(self, k_near_node = 1, ignore_list = []):
+        import random
         new_data_set = []
         for main_data in self.data_set:
-            for secondary_data in self.data_set:
-                if main_data != secondary_data:
-                    new_data = {}
-                    for feature in main_data:
-                        new_data[feature] = main_data[feature]\
-                                if feature in ignore_list\
-                                else int((main_data[feature] + secondary_data[feature])/2)
+            secondary_data_set = list(self.data_set)
+            random.shuffle(secondary_data_set)
+            distance_list = []
+            nearest_node_list = []
+            for secondary_data in secondary_data_set:
+                distance = self._node_distance(main_data, secondary_data)
+                if 0 < distance and distance not in distance_list:
+                    distance_list.append(distance)
+                    nearest_node_list.append(secondary_data)
+            smote_point_list = sorted(zip(distance_list, nearest_node_list))[:k_near_node]
+
+            for smote_point in smote_point_list:
+                new_data = {}
+                for feature in main_data:
+                    new_data[feature] = main_data[feature]\
+                            if feature in ignore_list\
+                            else float((main_data[feature] + smote_point[1][feature])/2)
                     new_data_set.append(new_data)
         return new_data_set
 
@@ -83,6 +93,16 @@ class feature_data_set(object):
                 (divided_part*amount_of_data_in_part):]
         return divided_data_set_list
 
+    def _node_distance(self, nodeA, nodeB):
+        if len(nodeA) != len(nodeB):
+            print('{0}, {1} should be same lenght')
+            exit()
+        if nodeA == nodeB:
+            return 0 
+        sum_result = 0
+        for index in range(0, len(nodeA)):
+            sum_result += (nodeA[index] - nodeB[index])**2
+        return sum_result**0.5
 
 class expansion_feature_set(object):
     def __init__(self, input_file):
@@ -100,7 +120,8 @@ def write_new_data_set(output_file, data_set, max_feature):
         for data in data_set:
             output_f.write('{0}'.format(data[0]))
             for _ in range(1, (max_feature + 1)):
-                output_f.write(' {0}:{1}'.format(_, data[_]))
+                if _ in data:
+                    output_f.write(' {0}:{1}'.format(_, data[_]))
             output_f.write('\n')
     return True
 
@@ -113,6 +134,7 @@ if '__main__' == __name__:
 
     increase_parser = parser.add_argument_group('increase: increase data in features data set by smote algorithm')
     increase_parser.add_argument('-il', '--ignore-list', type=str, default='1,2,3,4', help='provide a list of number which features would be ignore to change')
+    increase_parser.add_argument('-kn', '--k-nearest', type=int, default=1, help='provide a list of number which features would be ignore to change')
 
     decrease_parser = parser.add_argument_group('decrease: decrease data in features data set by random')
     decrease_parser.add_argument('-t', '--target-number', type=int, default=1000, help='provide a number to decrease features')
@@ -131,7 +153,7 @@ if '__main__' == __name__:
         #TODO need to fix ignore list became user can input
         #ignore_list = [3,4,5,6,7,9,11,13,15,17]
         ignore_list = []
-        data_set_with_smote = orig_data.do_smote(ignore_list)
+        data_set_with_smote = orig_data.do_smote(opt.k_nearest, ignore_list)
         write_new_data_set(opt.Output, data_set_with_smote, orig_data.max_feature)
     if 'decrease' == opt.option:
         data_set_decrease = orig_data.do_decrease(opt.target_number)
