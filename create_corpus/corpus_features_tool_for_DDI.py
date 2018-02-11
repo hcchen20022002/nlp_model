@@ -7,27 +7,24 @@ def get_info(contents = []):
     positive_count = 0
     negative_count = 0
     max_re = 0
+    polarity_dict = {}
     for _ in contents:
-#        print('Disease: {0}'.format(_['disease']))
-#        print('Drug: {0}'.format(_['drug']))
-#        print('Polarity: {0}'.format(_['polarity']))
-#        print('Original Sentens: {0}'.format(_['orig_sen']))
-#        print('__________________________________________________')
-        if 1 == _['polarity']:
-            positive_count = positive_count + 1
-        elif 0 == _['polarity']:
-            negative_count = negative_count + 1
-#        if _['drug1'] in ['thalidomide', 'hypertension', 'haemorrhage']:
-        print(_['orig_sen'])
-        #print(_['pos_tree'])
-        print(_['drug1'])
-        print(_['drug2'])
+        polarity = _['polarity']
+#        for _i in _['polarity']:
+#            polarity = _i
+
+        if polarity in polarity_dict:
+            polarity_dict[polarity] += 1
+        else:
+            polarity_dict[polarity] = 1
+
+
+#        print(_['drug1'])
+#        print(_['drug2'])
         print(_['polarity'])
         #print(_['disease'])
 #        print('_____________________________________________________')
-    print('quantity of data: {0}'.format(len(contents)))
-    print('Positive value: {0}'.format(positive_count))
-    print('negative value: {0}'.format(negative_count))
+    print('quantity of data: {0}'.format(polarity_dict))
     return True
 
 def create_feature(contents = [], f_type = 'all'):
@@ -51,11 +48,11 @@ def create_feature(contents = [], f_type = 'all'):
             if sen['polarity'] == 'advise':
                 polarity = 1
             elif sen['polarity'] == 'effect':
-                polarity = 1
-            elif sen['polarity'] == 'mechanism':
-                polarity = 1
+                polarity = 2
             elif sen['polarity'] == 'int':
-                polarity = 1
+                polarity = 3
+            elif sen['polarity'] == 'mechanism':
+                polarity = 4
             elif sen['polarity'] == 'true':
                 polarity = 1
             elif sen['polarity'] == 'false':
@@ -198,17 +195,21 @@ def _get_closest_word(target = int(), word_list = []):
 
 if '__main__' == __name__ :
     parser = argparse.ArgumentParser(sys.argv[0])
-    parser.add_argument('option', choices=['info', 'create'], help='provide a action you want to do')
+    parser.add_argument('option', choices=['info', 'create', 'compare'], help='provide a action you want to do')
     parser.add_argument('-I', '--Input', type=str, default='INPUT', help='provide a input text')
     parser.add_argument('-O', '--Output', type=str, default='OUTPUT', help='provide a file to save output')
     parser.add_argument('-f', '--feature-type', type=str, default='all', help='provide features you want to create')
+
     opt = parser.parse_args(sys.argv[1:])
 
     with open(opt.Input) as json_f:
         contents = json.load(json_f)
 
     if 'info' == opt.option:
-        get_info(contents)
+        try:
+            get_info(contents['polarity_error'])
+        except:
+            get_info(contents)
     elif 'create' == opt.option:
         # this option would create feature directly, not depend on output file
         disease_drug_pair_dir = create_feature(contents, opt.feature_type)
