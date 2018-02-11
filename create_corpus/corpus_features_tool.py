@@ -13,10 +13,14 @@ def get_info(contents = []):
 #        print('Polarity: {0}'.format(_['polarity']))
 #        print('Original Sentens: {0}'.format(_['orig_sen']))
 #        print('__________________________________________________')
-        if 1 == _['polarity']:
-            positive_count = positive_count + 1
-        elif 0 == _['polarity']:
-            negative_count = negative_count + 1
+        if  1 < len(_['polarity']):
+            print(_['polarity'])
+        for _i in _['polarity']:
+#        if 'false' == _['polarity']:
+            if 'false' == _i:
+                negative_count = negative_count + 1
+            else:
+                positive_count = positive_count + 1
 #        if _['drug'] in ['thalidomide', 'hypertension', 'haemorrhage']:
             print(_['orig_sen'])
             print(_['pos_tree'])

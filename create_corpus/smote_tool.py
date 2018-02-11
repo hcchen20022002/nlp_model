@@ -52,14 +52,14 @@ class feature_data_set(object):
                     distance_list.append(distance)
                     nearest_node_list.append(secondary_data)
             smote_point_list = sorted(zip(distance_list, nearest_node_list))[:k_near_node]
-
             for smote_point in smote_point_list:
                 new_data = {}
                 for feature in main_data:
                     new_data[feature] = main_data[feature]\
                             if feature in ignore_list\
                             else float((main_data[feature] + smote_point[1][feature])/2)
-                    new_data_set.append(new_data)
+                print(new_data)
+                new_data_set.append(new_data)
         return new_data_set
 
     def do_decrease(self, target_number = 1000):
