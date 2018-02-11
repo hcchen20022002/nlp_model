@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d196">
+    <sentence id="DDI-MedLine.d196.s0" text="Single-dose bioequivalence of 105-mg fenofibric acid tablets versus 145-mg fenofibrate tablets under fasting and fed conditions: a report of two phase I, open-label, single-dose, randomized, crossover clinical trials.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d196.s0.e0" charOffset="37-51"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s0.e1" charOffset="75-85"
+            type="drug" text="fenofibrate"/>
+        <pair id="DDI-MedLine.d196.s0.p0" e1="DDI-MedLine.d196.s0.e0"
+            e2="DDI-MedLine.d196.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s1" text="Fenofibrate is used to treat primary hypercholesterolemia, mixed lipidemia, and hypertriglyceridemia in adults who do not respond to nonpharmacologic measures. ">
+        <entity id="DDI-MedLine.d196.s1.e0" charOffset="0-10"
+            type="drug" text="Fenofibrate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s2" text="Fenofibrate is a prodrug that is rapidly and completely hydrolyzed to fenofibric acid, the active moiety. ">
+        <entity id="DDI-MedLine.d196.s2.e0" charOffset="0-10"
+            type="drug" text="Fenofibrate"/>
+        <entity id="DDI-MedLine.d196.s2.e1" charOffset="70-84"
+            type="drug_n" text="fenofibric acid"/>
+        <pair id="DDI-MedLine.d196.s2.p0" e1="DDI-MedLine.d196.s2.e0"
+            e2="DDI-MedLine.d196.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s3" text="A new orally administered agent, fenofibric acid, was developed as an alternative to fenofibrate.">
+        <entity id="DDI-MedLine.d196.s3.e0" charOffset="33-47"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s3.e1" charOffset="85-95"
+            type="drug" text="fenofibrate"/>
+        <pair id="DDI-MedLine.d196.s3.p0" e1="DDI-MedLine.d196.s3.e0"
+            e2="DDI-MedLine.d196.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s4" text="Two separate studies were conducted to evaluate the bioequivalence of fenofibric acid relative to fenofibrate under fasted and fed (standard breakfast) conditions, characterize the pharmacokinetic profile, and assess the safety and tolerability of fenofibric acid. ">
+        <entity id="DDI-MedLine.d196.s4.e0" charOffset="70-84"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s4.e1" charOffset="98-108"
+            type="drug" text="fenofibrate"/>
+        <entity id="DDI-MedLine.d196.s4.e2" charOffset="248-262"
+            type="drug" text="fenofibric acid"/>
+        <pair id="DDI-MedLine.d196.s4.p0" e1="DDI-MedLine.d196.s4.e0"
+            e2="DDI-MedLine.d196.s4.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d196.s4.p1" e1="DDI-MedLine.d196.s4.e0"
+            e2="DDI-MedLine.d196.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d196.s4.p2" e1="DDI-MedLine.d196.s4.e1"
+            e2="DDI-MedLine.d196.s4.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s5" text="In study 1 (fasted), during each study period, volunteers received a single 105-mg dose of fenofibric acid or single 145-mg dose of fenofibrate (depending on their randomization scheme) after an overnight fast (a minimum fast of 10 hours). ">
+        <entity id="DDI-MedLine.d196.s5.e0" charOffset="91-105"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s5.e1" charOffset="132-142"
+            type="drug" text="fenofibrate"/>
+        <pair id="DDI-MedLine.d196.s5.p0" e1="DDI-MedLine.d196.s5.e0"
+            e2="DDI-MedLine.d196.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s6" text="A 7-day washout period followed the first treatment period, after which the volunteers received the alternate treatment. "/>
+    <sentence id="DDI-MedLine.d196.s7" text="Study 2 followed a similar dosing scheme and differed only in that volunteers received their single dose after being fed a standard meal (575 calories, of which 36% were contributed by fat). "/>
+    <sentence id="DDI-MedLine.d196.s8" text="Serial blood samples in both studies were collected up to 72 hours after drug administration. "/>
+    <sentence id="DDI-MedLine.d196.s9" text="The pharmacokinetic parameters of interest for assessing bioequivalence were AUC(0-t), AUC(0-   ), C(max), and T(max). "/>
+    <sentence id="DDI-MedLine.d196.s10" text="The criterion for a lack of difference between products was a 90% CI between 0.80 and 1.25 for the fenofibric acid:fenofibrate ratios for AUC(0-t), AUC(0-   ), and C(max.) ">
+        <entity id="DDI-MedLine.d196.s10.e0" charOffset="99-113"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s10.e1" charOffset="115-125"
+            type="drug" text="fenofibrate"/>
+        <pair id="DDI-MedLine.d196.s10.p0" e1="DDI-MedLine.d196.s10.e0"
+            e2="DDI-MedLine.d196.s10.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s11" text="Tolerability was assessed by adverse events (AEs), laboratory parameters, vital signs, and physical examinations. "/>
+    <sentence id="DDI-MedLine.d196.s12" text="Volunteers in study 1 (fasted; n = 54) were aged 18 to 43 years; "/>
+    <sentence id="DDI-MedLine.d196.s13" text="19 (35%) were men and 35 (65%) were women; "/>
+    <sentence id="DDI-MedLine.d196.s14" text="mean weight was 155.2 pounds (range, 103.0-267.0 pounds); "/>
+    <sentence id="DDI-MedLine.d196.s15" text="and 48 (89%) were white, 1 (2%) was black, and 5 (9%) were white/American Indian/Alaskan native/Asian. "/>
+    <sentence id="DDI-MedLine.d196.s16" text="Volunteers in study 2 (fed; n = 54) were aged 18 to 43 years; "/>
+    <sentence id="DDI-MedLine.d196.s17" text="27 (50%) were men and 27 (50%) were women; "/>
+    <sentence id="DDI-MedLine.d196.s18" text="mean weight was 161.9 pounds (range, 112.0-225.0 pounds); "/>
+    <sentence id="DDI-MedLine.d196.s19" text="and 51 (94%) were white (including 2 Hispanic) and 3 (6%) were black. "/>
+    <sentence id="DDI-MedLine.d196.s20" text="The 90% CIs about the ratio of the fenofibric acid geometric mean to the fenofibrate geometric mean were within the 80% and 125% limits for the pharmacokinetic parameters C(max), AUC(0-t), and AUC(0-   ) of the ln-transformed data in both study 1 (fasted) and study 2. ">
+        <entity id="DDI-MedLine.d196.s20.e0" charOffset="35-49"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s20.e1" charOffset="73-83"
+            type="drug" text="fenofibrate"/>
+        <pair id="DDI-MedLine.d196.s20.p0" e1="DDI-MedLine.d196.s20.e0"
+            e2="DDI-MedLine.d196.s20.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s21" text="In study 1 (fasted), 14 volunteers (26%) experienced a total of 29 AEs; "/>
+    <sentence id="DDI-MedLine.d196.s22" text="the most common nonlaboratory AEs were dizziness (6%) and headache (4%). "/>
+    <sentence id="DDI-MedLine.d196.s23" text="In study 2, 12 volunteers (22%) experienced a total of 19 AEs; "/>
+    <sentence id="DDI-MedLine.d196.s24" text="the most common nonlaboratory AEs were headache (17%) and dry throat (4%). "/>
+    <sentence id="DDI-MedLine.d196.s25" text="AEs were generally mild or moderate in intensity. "/>
+    <sentence id="DDI-MedLine.d196.s26" text="In these 2 single-dose studies, these healthy volunteers administered a single oral dose of 105-mg fenofibric acid met the US Food and Drug Administration regulatory criteria for assuming bioequivalence to a single oral dose of 145-mg fenofibrate tablets with respect to the rate and extent of fenofibric acid absorption in both fed and fasted states. ">
+        <entity id="DDI-MedLine.d196.s26.e0" charOffset="99-113"
+            type="drug" text="fenofibric acid"/>
+        <entity id="DDI-MedLine.d196.s26.e1" charOffset="235-245"
+            type="drug" text="fenofibrate"/>
+        <entity id="DDI-MedLine.d196.s26.e2" charOffset="294-308"
+            type="drug" text="fenofibric acid"/>
+        <pair id="DDI-MedLine.d196.s26.p0" e1="DDI-MedLine.d196.s26.e0"
+            e2="DDI-MedLine.d196.s26.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d196.s26.p1" e1="DDI-MedLine.d196.s26.e0"
+            e2="DDI-MedLine.d196.s26.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d196.s26.p2" e1="DDI-MedLine.d196.s26.e1"
+            e2="DDI-MedLine.d196.s26.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d196.s27" text="Fenofibric acid at the dose studied was well tolerated in this population.">
+        <entity id="DDI-MedLine.d196.s27.e0" charOffset="0-14"
+            type="drug" text="Fenofibric acid"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d223.s0" text="Polypharmacy in older adults.&#xa;"/>
+    <sentence id="DDI-MedLine.d223.s1" text="This article explores the issue of polypharmacy in older adults. "/>
+    <sentence id="DDI-MedLine.d223.s2" text="The physiological changes in organ function in older people and the effect of this on pharmacokinetics and pharmacodynamics are discussed. "/>
+    <sentence id="DDI-MedLine.d223.s3" text="The risks of adverse drug reactions and adverse drug interactions linked to polypharmacy are explored. "/>
+    <sentence id="DDI-MedLine.d223.s4" text="Strategies to achieve optimal prescribing in older people are considered."/>
+    <sentence id="DDI-MedLine.d205.s0" text="Tuberculosis and HIV co-infection: screening and treatment strategies.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d205.s1" text="Globally, tuberculosis (TB) and HIV interact in deadly synergy. "/>
+    <sentence id="DDI-MedLine.d205.s2" text="The high burden of TB among HIV-infected individuals underlies the importance of TB diagnosis, treatment and prevention for clinicians involved in HIV care. "/>
+    <sentence id="DDI-MedLine.d205.s3" text="Despite expanding access to antiretroviral therapy (ART) to treat HIV infection in resource-limited settings, many individuals in need of therapy initiate ART too late and have already developed clinically significant TB by the time they present for care. ">
+        <entity id="DDI-MedLine.d205.s3.e0" charOffset="28-41"
+            type="group" text="antiretroviral"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d205.s4" text="Many co-infected individuals are in need of concurrent ART and anti-TB therapy, which dramatically improves survival, but also raises several management challenges, including drug interactions, shared drug toxicities and TB immune reconstitution inflammatory syndrome (IRIS). "/>
+    <sentence id="DDI-MedLine.d205.s5" text="Due to the survival benefits of promptly initiating ART among all HIV-infected individuals, including those with TB, it is recommended that co-infected individuals receive treatment for both diseases, regardless of CD4+ cell count. "/>
+    <sentence id="DDI-MedLine.d205.s6" text="We review current screening and treatment strategies for TB and HIV co-infection. "/>
+    <sentence id="DDI-MedLine.d205.s7" text="Recent findings and ongoing studies will assist clinicians in managing the prevention and treatment of TB and HIV co-infection, which remains a major global health challenge."/>
+    <sentence id="DDI-MedLine.d144.s0" text="Older adults with multi-morbidity: medication management processes and design implications for personal health applications.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d144.s1" text="Older adults often have multiple chronic problems requiring them to manage complex medication regimens overseen by various clinicians. "/>
+    <sentence id="DDI-MedLine.d144.s2" text="Personal health applications (PHAs) show promise assisting in medication self-management, but adoption of new computer technologies by this population is challenging. "/>
+    <sentence id="DDI-MedLine.d144.s3" text="Optimizing the utility of PHAs requires a thorough understanding of older adults' needs, preferences, and practices."/>
+    <sentence id="DDI-MedLine.d202.s0" text="Flow cytometry-based pharmacodynamic monitoring after organ transplantation."/>
+    <sentence id="DDI-MedLine.d202.s1" text="Conventional therapeutic drug monitoring based on measuring immunosupressive drug concentrations in blood is important in the clinical management of immunosuppressive therapy in transplantation medicine. ">
+        <entity id="DDI-MedLine.d202.s1.e0" charOffset="60-80"
+            type="group" text="immunosupressive drug"/>
+        <entity id="DDI-MedLine.d202.s1.e1" charOffset="149-165"
+            type="group" text="immunosuppressive"/>
+        <pair id="DDI-MedLine.d202.s1.p0" e1="DDI-MedLine.d202.s1.e0"
+            e2="DDI-MedLine.d202.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s2" text="Since rejection or infection occurs at irregular drug concentrations immunosuppressive drug therapy is often empiric and prophylactic in nature. ">
+        <entity id="DDI-MedLine.d202.s2.e0" charOffset="69-90"
+            type="group" text="immunosuppressive drug"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s3" text="In addition, blood immunosuppressant levels are only indirect predictors of the pharmacologic effects on immune cells, because the genetic heterogeneity the immune systems of transplant recipients are not equally sensitive to drug effects. ">
+        <entity id="DDI-MedLine.d202.s3.e0" charOffset="19-35"
+            type="group" text="immunosuppressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s4" text="Therefore, therapeutic drug monitoring requires the application of reliable and effective methods to study the pharmacodynamic variability by direct measurements of drug effects on immune cell functions. "/>
+    <sentence id="DDI-MedLine.d202.s5" text="Flow cytometry offers a multiplicity of quantitative analysis possibilities, from detection of phosphorylated molecules up to complex multicolor analysis of whole blood samples. "/>
+    <sentence id="DDI-MedLine.d202.s6" text="A large spectrum of flow cytometry-based applications for pharmacodynamic monitoring is available and allows detection and analysis of diverse function of T cells and dendritic cell subsets. "/>
+    <sentence id="DDI-MedLine.d202.s7" text="By combining several assays, it is possible to generate a broad picture of the immune status of every single transplanted recipient. "/>
+    <sentence id="DDI-MedLine.d202.s8" text="Furthermore, it is even possible to differentiate between synergistic and antagonistic pharmacodynamic effects of immunosuppressive drug combination therapy in vitro and to predict the pharmacodynamic drug effects in transplanted recipients. ">
+        <entity id="DDI-MedLine.d202.s8.e0" charOffset="114-135"
+            type="group" text="immunosuppressive drug"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s9" text="Such a pharmacodynamic drug monitoring may offer the opportunity to complete conventional therapeutic drug monitoring and, therefore, to tailor immunosuppressive therapy more individually.">
+        <entity id="DDI-MedLine.d202.s9.e0" charOffset="144-160"
+            type="group" text="immunosuppressive"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d219.s0" text="[Tuberculosis and HIV - features of the co-infection].&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d219.s1" text="The human immunodeficiency virus (HIV) epidemic has allowed the incidence of tuberculosis to rise globally and particularly in sub-Saharan Africa. "/>
+    <sentence id="DDI-MedLine.d219.s2" text="Diagnosis and treatment of tuberculosis is more complex in patients with HIV/AIDS. "/>
+    <sentence id="DDI-MedLine.d219.s3" text="Sputum smear microscopy is performing poorly in HIV-infected individuals, who are often started on antituberculosis treatment on clinical grounds. "/>
+    <sentence id="DDI-MedLine.d219.s4" text="The treatment of coinfected patients requires antituberculosis and antiretroviral drugs to be administered concomittantly; ">
+        <entity id="DDI-MedLine.d219.s4.e0" charOffset="46-61;82-86"
+            type="group" text="antituberculosis drugs"/>
+        <entity id="DDI-MedLine.d219.s4.e1" charOffset="67-86"
+            type="group" text="antiretroviral drugs"/>
+        <pair id="DDI-MedLine.d219.s4.p0" e1="DDI-MedLine.d219.s4.e0"
+            e2="DDI-MedLine.d219.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d219.s5" text="challenges include pill burden and patient compliance, drug interactions, overlapping toxic effects, and immune reconstitution inflammatory syndrome. "/>
+    <sentence id="DDI-MedLine.d219.s6" text="Current guidelines recommend starting antiretroviral treatment within a few weeks of antituberculosis therapy for patients with CD4 cell counts">
+        <entity id="DDI-MedLine.d219.s6.e0" charOffset="38-51"
+            type="group" text="antiretroviral"/>
+        <entity id="DDI-MedLine.d219.s6.e1" charOffset="85-100"
+            type="group" text="antituberculosis"/>
+        <pair id="DDI-MedLine.d219.s6.p0" e1="DDI-MedLine.d219.s6.e0"
+            e2="DDI-MedLine.d219.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d219.s7" text="350 cells/ul."/>
+    <sentence id="DDI-MedLine.d173.s0" text="[Medical treatment of tuberculosis - update 2011].&#xa;"/>
+    <sentence id="DDI-MedLine.d173.s1" text="Tuberculosis is the second most common cause of death from an infectious disease after HIV/AIDS and the leading cause of death from an infectious disease in HIV-co-infected patients. "/>
+    <sentence id="DDI-MedLine.d173.s2" text="Currently, drug susceptible TB is treated with a four drug regimen given over a period of two months followed by two drugs for four months. "/>
+    <sentence id="DDI-MedLine.d173.s3" text="Drug resistant tuberculosis requires more complex and longer treatment with alternative substances. "/>
+    <sentence id="DDI-MedLine.d173.s4" text="New antituberculosis drugs are currently being developed and investigated and are urgently needed to treat drug susceptible and drug resistant TB.">
+        <entity id="DDI-MedLine.d173.s4.e0" charOffset="4-25"
+            type="group" text="antituberculosis drugs"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s0" text="Effects of neferine on the pharmacokinetics of amiodarone in rats.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d230.s0.e0" charOffset="11-18"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s0.e1" charOffset="47-56"
+            type="drug" text="amiodarone"/>
+        <pair id="DDI-MedLine.d230.s0.p0" e1="DDI-MedLine.d230.s0.e0"
+            e2="DDI-MedLine.d230.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s1" text="Amiodarone, an iodinated benzofuran derivative with predominantly class III anti-arrhythmic effects, is used to treat supraventricular and ventricular arrhythmias. ">
+        <entity id="DDI-MedLine.d230.s1.e0" charOffset="0-9" type="drug" text="Amiodarone"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s2" text="The purpose of this study was to assess the potential of neferine, an effective anti-pulmonary fibrosis drug isolated from the embryo of Nelumbo nucifera Gaertner's seeds, to alter the pharmacokinetic profile of amiodarone. ">
+        <entity id="DDI-MedLine.d230.s2.e0" charOffset="57-64"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s2.e1" charOffset="212-221"
+            type="drug" text="amiodarone"/>
+        <pair id="DDI-MedLine.d230.s2.p0" e1="DDI-MedLine.d230.s2.e0"
+            e2="DDI-MedLine.d230.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s3" text="Experimental Sprague-Dawley rats were randomly divided into two groups. "/>
+    <sentence id="DDI-MedLine.d230.s4" text="In groups 1 and 2, amiodarone was given to rats by intragastric and intravenous administration, respectively, while neferine was co-administratered by intragastric administration. ">
+        <entity id="DDI-MedLine.d230.s4.e0" charOffset="19-28"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-MedLine.d230.s4.e1" charOffset="116-123"
+            type="drug_n" text="neferine"/>
+        <pair id="DDI-MedLine.d230.s4.p0" e1="DDI-MedLine.d230.s4.e0"
+            e2="DDI-MedLine.d230.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s5" text="Blood samples were collected from the orbital venous plexus at indicated time points and were analyzed for amiodarone concentration using RP-HPLC. ">
+        <entity id="DDI-MedLine.d230.s5.e0" charOffset="107-116"
+            type="drug" text="amiodarone"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s6" text="The geometric mean ratio for C(max) and AUC(0-96) was calculated. "/>
+    <sentence id="DDI-MedLine.d230.s7" text="There were no significant differences between the pharmacokinetics parameters of amiodarone administered intravenously or intragastrically and the control (without neferine) group (with ratios of 0.7-1.4 in all experimental groups), suggesting that neferine had no effect on amiodarone plasma pharmacokinetics. ">
+        <entity id="DDI-MedLine.d230.s7.e0" charOffset="81-90"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-MedLine.d230.s7.e1" charOffset="164-171"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s7.e2" charOffset="249-256"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s7.e3" charOffset="275-284"
+            type="drug" text="amiodarone"/>
+        <pair id="DDI-MedLine.d230.s7.p0" e1="DDI-MedLine.d230.s7.e0"
+            e2="DDI-MedLine.d230.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p1" e1="DDI-MedLine.d230.s7.e0"
+            e2="DDI-MedLine.d230.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p2" e1="DDI-MedLine.d230.s7.e0"
+            e2="DDI-MedLine.d230.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p3" e1="DDI-MedLine.d230.s7.e1"
+            e2="DDI-MedLine.d230.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p4" e1="DDI-MedLine.d230.s7.e1"
+            e2="DDI-MedLine.d230.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p5" e1="DDI-MedLine.d230.s7.e2"
+            e2="DDI-MedLine.d230.s7.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s8" text="The dosage regimen of amiodarone does not need to be taken into consideration when combined with neferine.">
+        <entity id="DDI-MedLine.d230.s8.e0" charOffset="22-31"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-MedLine.d230.s8.e1" charOffset="97-104"
+            type="drug_n" text="neferine"/>
+        <pair id="DDI-MedLine.d230.s8.p0" e1="DDI-MedLine.d230.s8.e0"
+            e2="DDI-MedLine.d230.s8.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s0" text="Structural basis for alcohol modulation of a pentameric ligand-gated ion channel.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d198.s0.e0" charOffset="21-27"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s1" text="Despite its long history of use and abuse in human culture, the molecular basis for alcohol action in the brain is poorly understood. ">
+        <entity id="DDI-MedLine.d198.s1.e0" charOffset="84-90"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s2" text="The recent determination of the atomic-scale structure of GLIC, a prokaryotic member of the pentameric ligand-gated ion channel (pLGIC) family, provides a unique opportunity to characterize the structural basis for modulation of these channels, many of which are alcohol targets in brain. ">
+        <entity id="DDI-MedLine.d198.s2.e0" charOffset="263-269"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s3" text="We observed that GLIC recapitulates bimodal modulation by n-alcohols, similar to some eukaryotic pLGICs: methanol and ethanol weakly potentiated proton-activated currents in GLIC, whereas n-alcohols larger than ethanol inhibited them. ">
+        <entity id="DDI-MedLine.d198.s3.e0" charOffset="105-112"
+            type="drug_n" text="methanol"/>
+        <entity id="DDI-MedLine.d198.s3.e1" charOffset="118-124"
+            type="drug" text="ethanol"/>
+        <pair id="DDI-MedLine.d198.s3.p0" e1="DDI-MedLine.d198.s3.e0"
+            e2="DDI-MedLine.d198.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s4" text="Mapping of residues important to alcohol modulation of ionotropic receptors for glycine,   -aminobutyric acid, and acetylcholine onto GLIC revealed their proximity to transmembrane cavities that may accommodate one or more alcohol molecules. ">
+        <entity id="DDI-MedLine.d198.s4.e0" charOffset="33-39"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-MedLine.d198.s4.e1" charOffset="223-229"
+            type="drug" text="alcohol"/>
+        <pair id="DDI-MedLine.d198.s4.p0" e1="DDI-MedLine.d198.s4.e0"
+            e2="DDI-MedLine.d198.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s5" text="Site-directed mutations in the pore-lining M2 helix allowed the identification of four residues that influence alcohol potentiation, with the direction of their effects reflecting   -helical structure. ">
+        <entity id="DDI-MedLine.d198.s5.e0" charOffset="111-117"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s6" text="At one of the potentiation-enhancing residues, decreased side chain volume converted GLIC into a highly ethanol-sensitive channel, comparable to its eukaryotic relatives. ">
+        <entity id="DDI-MedLine.d198.s6.e0" charOffset="104-110"
+            type="drug" text="ethanol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s7" text="Covalent labeling of M2 positions with an alcohol analog, a methanethiosulfonate reagent, further implicated residues at the extracellular end of the helix in alcohol binding. ">
+        <entity id="DDI-MedLine.d198.s7.e0" charOffset="42-48"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s8" text="Molecular dynamics simulations elucidated the structural consequences of a potentiation-enhancing mutation and suggested a structural mechanism for alcohol potentiation via interaction with a transmembrane cavity previously termed the &quot;linking tunnel.&quot;">
+        <entity id="DDI-MedLine.d198.s8.e0" charOffset="148-154"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s9" text="These results provide a unique structural model for independent potentiating and inhibitory interactions of n-alcohols with a pLGIC family member."/>
+    <sentence id="DDI-MedLine.d183.s0" text="Neuropharmacological approach against MPTP (1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine)-induced mouse model of Parkinson's disease.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d183.s0.e0" charOffset="38-41"
+            type="drug_n" text="MPTP"/>
+        <entity id="DDI-MedLine.d183.s0.e1" charOffset="44-88"
+            type="drug_n" text="1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine"/>
+        <pair id="DDI-MedLine.d183.s0.p0" e1="DDI-MedLine.d183.s0.e0"
+            e2="DDI-MedLine.d183.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s1" text="Parkinson's disease (PD) is a common neurodegenerative disease that appears essentially as a sporadic condition. "/>
+    <sentence id="DDI-MedLine.d183.s2" text="PD is well known to be a chronic and progressive neurodegenerative disease produced by a selective degeneration of dopaminergic neurons in the substantia nigra pars compacta. "/>
+    <sentence id="DDI-MedLine.d183.s3" text="The main clinical features of PD include tremor, bradykinesia, rigidity and postural instability. "/>
+    <sentence id="DDI-MedLine.d183.s4" text="Most insights into pathogenesis of PD come from investigations performed in experimental models of PD, especially those produced by neurotoxins. "/>
+    <sentence id="DDI-MedLine.d183.s5" text="The biochemical and cellular alterations that occur after 1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment are remarkably similar to that observed in idiopathic PD. ">
+        <entity id="DDI-MedLine.d183.s5.e0" charOffset="58-102"
+            type="drug_n" text="1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine"/>
+        <entity id="DDI-MedLine.d183.s5.e1" charOffset="105-108"
+            type="drug_n" text="MPTP"/>
+        <pair id="DDI-MedLine.d183.s5.p0" e1="DDI-MedLine.d183.s5.e0"
+            e2="DDI-MedLine.d183.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s6" text="Furthermore, it is well known that acute treatment with MPTP can cause a severe loss of tyrosine hydroxylase and dopamine transporter protein levels and dopamine contents in the striatum of mice, as compared to continuous MPTP treatment. ">
+        <entity id="DDI-MedLine.d183.s6.e0" charOffset="56-59"
+            type="drug_n" text="MPTP"/>
+        <entity id="DDI-MedLine.d183.s6.e1" charOffset="222-225"
+            type="drug_n" text="MPTP"/>
+        <pair id="DDI-MedLine.d183.s6.p0" e1="DDI-MedLine.d183.s6.e0"
+            e2="DDI-MedLine.d183.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s7" text="Thus these findings may support the validity of acute MPTP treatment model for unraveling in the neurodegenerative processes in PD. ">
+        <entity id="DDI-MedLine.d183.s7.e0" charOffset="54-57"
+            type="drug_n" text="MPTP"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s8" text="In this review, we discuss the neuroprotective effects of various compounds against neuronal cell loss in an MPTP model of PD. ">
+        <entity id="DDI-MedLine.d183.s8.e0" charOffset="109-112"
+            type="drug_n" text="MPTP"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s9" text="This review may lead to a much better understanding of PD as well as provide novel clues to new targets for therapeutic interventions in PD patients."/>
+    <sentence id="DDI-MedLine.d152.s0" text="Mechanisms of drug toxicity or intolerance.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d152.s1" text="Classically, adverse drug reactions had been considered as type A reactions which are related to the main pharmacological action of the drug and therefore are predictable. "/>
+    <sentence id="DDI-MedLine.d152.s2" text="Such reactions are predictable, reversible, and usually can be managed by lowering the dose of the offending drug. "/>
+    <sentence id="DDI-MedLine.d152.s3" text="However, other adverse effects of drugs can occur which are unrelated to the main pharmacological action of the drug - type B reactions. "/>
+    <sentence id="DDI-MedLine.d152.s4" text="Such adverse effects are termed idiosyncratic and are often initiated by metabolites of the parent drug or by other indirect mechanisms. "/>
+    <sentence id="DDI-MedLine.d152.s5" text="The detailed understanding of adverse drug events has become a major focus of the regulatory agencies throughout the world. "/>
+    <sentence id="DDI-MedLine.d152.s6" text="The pharmacotherapy of gastrointestinal and liver disorders is becoming increasingly complex. "/>
+    <sentence id="DDI-MedLine.d152.s7" text="In recent years, with the advent of novel therapeutic agents to treat a host of disorders, including viral hepatitis, gastrointestinal motility disorders, inflammatory bowel disease and others, the potential for serious clinically relevant drug reactions has increased. "/>
+    <sentence id="DDI-MedLine.d152.s8" text="In the pharmacotherapy of gastrointestinal and liver diseases, a significant number of adverse events that occur can be explained by drug interactions. "/>
+    <sentence id="DDI-MedLine.d152.s9" text="Some pharmacokinetic drug interactions are based on the competitive inhibition of the rate of drug metabolism of one of the drugs, leading to an increased concentration of the drug which was not intended. "/>
+    <sentence id="DDI-MedLine.d152.s10" text="In other examples, the interaction can be mechanistic in which one or more drugs when co-administered potentiate each other's actions without any change in drug levels, termed pharmacodynamic interactions."/>
+    <sentence id="DDI-MedLine.d175.s0" text="Unrecognized fatalities related to colchicine in hospitalized patients.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d175.s0.e0" charOffset="35-44"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s1" text="Colchicine is commonly used for the treatment of gout and occasionally for other inflammatory diseases. ">
+        <entity id="DDI-MedLine.d175.s1.e0" charOffset="0-9" type="drug" text="Colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s2" text="It has a narrow therapeutic index and the potential for severe or fatal toxicity."/>
+    <sentence id="DDI-MedLine.d175.s3" text="We sought to determine (1) the frequency of colchicine toxicity among hospitalized patients taking colchicine who died during an admission, (2) the likelihood that colchicine contributed to death, (3) whether patients were taking interacting medications that could have contributed to toxicity, and (4) whether colchicine dosing among these patients adhered to established guidelines. ">
+        <entity id="DDI-MedLine.d175.s3.e0" charOffset="44-53"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s3.e1" charOffset="99-108"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s3.e2" charOffset="164-173"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s3.e3" charOffset="311-320"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d175.s3.p0" e1="DDI-MedLine.d175.s3.e0"
+            e2="DDI-MedLine.d175.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p1" e1="DDI-MedLine.d175.s3.e0"
+            e2="DDI-MedLine.d175.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p2" e1="DDI-MedLine.d175.s3.e0"
+            e2="DDI-MedLine.d175.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p3" e1="DDI-MedLine.d175.s3.e1"
+            e2="DDI-MedLine.d175.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p4" e1="DDI-MedLine.d175.s3.e1"
+            e2="DDI-MedLine.d175.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p5" e1="DDI-MedLine.d175.s3.e2"
+            e2="DDI-MedLine.d175.s3.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s4" text="We conducted an IRB-approved, retrospective chart review at an urban, tertiary care, 1228-bed, university hospital. "/>
+    <sentence id="DDI-MedLine.d175.s5" text="Subjects included hospitalized patients who received colchicine and died in hospital between 1 January 2000 and 28 February 2007. ">
+        <entity id="DDI-MedLine.d175.s5.e0" charOffset="53-62"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s6" text="We reviewed charts for signs and symptoms of colchicine toxicity. ">
+        <entity id="DDI-MedLine.d175.s6.e0" charOffset="45-54"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s7" text="An expert panel reviewed each case and classified the likelihood of colchicine toxicity, the likelihood of a causal role of colchicine in the death using the WHO classification system, and the appropriateness of colchicine dosing. ">
+        <entity id="DDI-MedLine.d175.s7.e0" charOffset="68-77"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s7.e1" charOffset="124-133"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s7.e2" charOffset="212-221"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d175.s7.p0" e1="DDI-MedLine.d175.s7.e0"
+            e2="DDI-MedLine.d175.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s7.p1" e1="DDI-MedLine.d175.s7.e0"
+            e2="DDI-MedLine.d175.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s7.p2" e1="DDI-MedLine.d175.s7.e1"
+            e2="DDI-MedLine.d175.s7.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s8" text="Thirty-seven hospitalized patients who died during the 86-month study period received colchicine. ">
+        <entity id="DDI-MedLine.d175.s8.e0" charOffset="86-95"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s9" text="Toxicity was unlikely in 20/37, possible in 8/37, likely in 5/37, and certain in 4/37. "/>
+    <sentence id="DDI-MedLine.d175.s10" text="A contributing role for colchicine in causing death was unlikely in 24/37, possible in 7/37, likely in 3/37, and certain in 3/37. ">
+        <entity id="DDI-MedLine.d175.s10.e0" charOffset="24-33"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s11" text="Colchicine doses (based on creatinine clearance) exceeded the accepted range for 12 patients, including 10 of 17 cases of toxicity and 8 of 13 cases of death classified as possible or higher. ">
+        <entity id="DDI-MedLine.d175.s11.e0" charOffset="0-9"
+            type="drug" text="Colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s12" text="Seventeen patients received interacting medications, including 8 of 17 cases of toxicity and 8 of 13 cases of death classified as possible or higher. "/>
+    <sentence id="DDI-MedLine.d175.s13" text="Colchicine toxicity was frequent in this cohort and may have contributed to about one-third of the deaths. ">
+        <entity id="DDI-MedLine.d175.s13.e0" charOffset="0-9"
+            type="drug" text="Colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s14" text="Inappropriate dosing of colchicine occurred frequently and was related to toxicity and death.">
+        <entity id="DDI-MedLine.d175.s14.e0" charOffset="24-33"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d232.s0" text="Stroke prevention in atrial fibrillation: current status and near-future directions.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d232.s1" text="Prevention of atrial fibrillation-related stroke is an important part of atrial fibrillation management. "/>
+    <sentence id="DDI-MedLine.d232.s2" text="However, stroke risk is not homogeneous and varies with associated morbidities and risk factors. "/>
+    <sentence id="DDI-MedLine.d232.s3" text="Risk stratification schemes have been developed that categorize patients' stroke risk into classes based on a combination of risk factors. "/>
+    <sentence id="DDI-MedLine.d232.s4" text="According to the calculated level of risk, guidelines recommend patients with atrial fibrillation receive antithrombotic therapy either as a vitamin K antagonist or aspirin. ">
+        <entity id="DDI-MedLine.d232.s4.e0" charOffset="106-119"
+            type="group" text="antithrombotic"/>
+        <entity id="DDI-MedLine.d232.s4.e1" charOffset="141-160"
+            type="group" text="vitamin K antagonist"/>
+        <entity id="DDI-MedLine.d232.s4.e2" charOffset="165-171"
+            type="brand" text="aspirin"/>
+        <pair id="DDI-MedLine.d232.s4.p0" e1="DDI-MedLine.d232.s4.e0"
+            e2="DDI-MedLine.d232.s4.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d232.s4.p1" e1="DDI-MedLine.d232.s4.e0"
+            e2="DDI-MedLine.d232.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d232.s4.p2" e1="DDI-MedLine.d232.s4.e1"
+            e2="DDI-MedLine.d232.s4.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d232.s5" text="Despite recommendations, however, many patients with atrial fibrillation do not receive adequate thromboprophylaxis. "/>
+    <sentence id="DDI-MedLine.d232.s6" text="We will discuss some of the underlying reasons, in part related to the drawbacks associated with vitamin K antagonists. ">
+        <entity id="DDI-MedLine.d232.s6.e0" charOffset="97-117"
+            type="group" text="vitamin K antagonists"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d232.s7" text="These highlight the need for new anticoagulants in atrial fibrillation. ">
+        <entity id="DDI-MedLine.d232.s7.e0" charOffset="33-46"
+            type="group" text="anticoagulants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d232.s8" text="The novel oral anticoagulants in development may overcome some of the limitations of vitamin K antagonists and address their underuse and safety concerns.">
+        <entity id="DDI-MedLine.d232.s8.e0" charOffset="15-28"
+            type="group" text="anticoagulants"/>
+        <entity id="DDI-MedLine.d232.s8.e1" charOffset="85-105"
+            type="group" text="vitamin K antagonists"/>
+        <pair id="DDI-MedLine.d232.s8.p0" e1="DDI-MedLine.d232.s8.e0"
+            e2="DDI-MedLine.d232.s8.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d158.s0" text="Combining chondroitinase ABC and growth factors promotes the integration of murine retinal progenitor cells transplanted into Rho(-/-) mice.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d158.s1" text="The aim of this study is to investigate the synergistic effect of chondroitinase ABC and growth factors in the integration of murine retinal progenitor cells (mRPCs) transplanted into Rho(-/-) mice."/>
+    <sentence id="DDI-MedLine.d158.s2" text="mRPCs from P1 green fluorescent protein-transgenic mice were isolated and expanded for transplantation. "/>
+    <sentence id="DDI-MedLine.d158.s3" text="All mRPCs of 20 passages or less were transplanted into the subretinal space of B6 mice together with chondroitinase ABC, and into Rho(-/-) mice combined with chondroitinase ABC, N-[N-(3, 5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butyl ester (DAPT), and insulin growth factor (IGF)-1. ">
+        <entity id="DDI-MedLine.d158.s3.e0" charOffset="179-248"
+            type="drug_n" text="N-[N-(3, 5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butyl ester"/>
+        <entity id="DDI-MedLine.d158.s3.e1" charOffset="251-254"
+            type="drug_n" text="DAPT"/>
+        <entity id="DDI-MedLine.d158.s3.e2" charOffset="262-282"
+            type="drug_n" text="insulin growth factor"/>
+        <entity id="DDI-MedLine.d158.s3.e3" charOffset="284-290"
+            type="drug_n" text="(IGF)-1"/>
+        <pair id="DDI-MedLine.d158.s3.p0" e1="DDI-MedLine.d158.s3.e0"
+            e2="DDI-MedLine.d158.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p1" e1="DDI-MedLine.d158.s3.e0"
+            e2="DDI-MedLine.d158.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p2" e1="DDI-MedLine.d158.s3.e0"
+            e2="DDI-MedLine.d158.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p3" e1="DDI-MedLine.d158.s3.e1"
+            e2="DDI-MedLine.d158.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p4" e1="DDI-MedLine.d158.s3.e1"
+            e2="DDI-MedLine.d158.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p5" e1="DDI-MedLine.d158.s3.e2"
+            e2="DDI-MedLine.d158.s3.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d158.s4" text="Cell counts were used to examine the migration and survival rate of mRPCs in B6 mice. "/>
+    <sentence id="DDI-MedLine.d158.s5" text="Immunohistochemistry was used to evaluate the differentiation and integration of mRPCs in B6 and Rho(-/-) mice. "/>
+    <sentence id="DDI-MedLine.d158.s6" text="Our results show that substantial numbers of mRPCs migrated and survived in the retina when transplanted with chondroitinase ABC into B6 and Rho(-/-) mice. "/>
+    <sentence id="DDI-MedLine.d158.s7" text="Chondroitinase ABC disrupted the glial scar around the mRPCs in the subretinal space. "/>
+    <sentence id="DDI-MedLine.d158.s8" text="Only a few mRPCs expressed recoverin in B6 mice. "/>
+    <sentence id="DDI-MedLine.d158.s9" text="More mRPCs expressed rhodopsin, recoverin, and synaptophysin after transplantation into Rho(-/-) mice when combined with chondroitinase ABC and growth factors. "/>
+    <sentence id="DDI-MedLine.d158.s10" text="The synergistic effect of chondroitinase ABC and growth factors facilitates the anatomic integration of mRPCs transplanted into Rho(-/-) mice."/>
+    <sentence id="DDI-MedLine.d162.s0" text="Placebo effect in patients with irritable bowel syndrome.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d162.s1" text="The placebo effect has evolved from being considered a nuisance factor in clinical research to a hot topic of scientific investigation. "/>
+    <sentence id="DDI-MedLine.d162.s2" text="New research findings show that a placebo has real psychobiological and biological effects that are attributable to the overall therapeutic context. "/>
+    <sentence id="DDI-MedLine.d162.s3" text="Irritable bowel syndrome (IBS) is a functional disorder of the gastrointestinal tract that shows a significant placebo response of around 40   50% among different clinical trials.A positive patient-practitioner relationship can enhance the placebo effect in IBS patients."/>
+    <sentence id="DDI-MedLine.d162.s4" text="Emerging literature using functional brain imaging has started to document the neuronal changes associated with the placebo phenomenon in IBS patients, showing aberrant neural network during visceral placebo analgesia when compared to controls. "/>
+    <sentence id="DDI-MedLine.d162.s5" text="Further promotion and integration of laboratory and clinical research are encouraged to advance the understanding of placebo mechanisms in IBS patients."/>
+    <sentence id="DDI-MedLine.d151.s0" text="[Seniors and cardiovascular medications].&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d151.s1" text="Authors analyze the situation in the therapy of cardiovascular diseases--unsatisfactory situation especially from the dyslipidaemia point of view. "/>
+    <sentence id="DDI-MedLine.d151.s2" text="Different groups of medications are discussed and their risks for elderly patients. "/>
+    <sentence id="DDI-MedLine.d151.s3" text="Angiotensin converting enzyme blockers and their influence on the endothelial dysfunction, but the risk of hyperpotassemia are showed. ">
+        <entity id="DDI-MedLine.d151.s3.e0" charOffset="0-37"
+            type="group" text="Angiotensin converting enzyme blockers"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d151.s4" text="The risk of gastrointestinal bleeding during the treatment with antiagregants and anticoagulants, the risk of bradycardia in beta-blockade, possible interactions with other medications lowering the heart rate are discussed. ">
+        <entity id="DDI-MedLine.d151.s4.e0" charOffset="64-76"
+            type="group" text="antiagregants"/>
+        <entity id="DDI-MedLine.d151.s4.e1" charOffset="82-95"
+            type="group" text="anticoagulants"/>
+        <pair id="DDI-MedLine.d151.s4.p0" e1="DDI-MedLine.d151.s4.e0"
+            e2="DDI-MedLine.d151.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d151.s5" text="Attention is paid to calcium channel blockers, diuretics and digoxin. ">
+        <entity id="DDI-MedLine.d151.s5.e0" charOffset="21-44"
+            type="group" text="calcium channel blockers"/>
+        <entity id="DDI-MedLine.d151.s5.e1" charOffset="47-55"
+            type="group" text="diuretics"/>
+        <entity id="DDI-MedLine.d151.s5.e2" charOffset="61-67"
+            type="drug" text="digoxin"/>
+        <pair id="DDI-MedLine.d151.s5.p0" e1="DDI-MedLine.d151.s5.e0"
+            e2="DDI-MedLine.d151.s5.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d151.s5.p1" e1="DDI-MedLine.d151.s5.e0"
+            e2="DDI-MedLine.d151.s5.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d151.s5.p2" e1="DDI-MedLine.d151.s5.e1"
+            e2="DDI-MedLine.d151.s5.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d151.s6" text="The table containing possible clinical symptoms of unwanted side effect of most frequently used cardiovascular medications in elderly is added as the conclusion of the article."/>
+    <sentence id="DDI-MedLine.d146.s0" text="Post-exposure prophylaxis for H1N1 with oseltamivir in renal allograft recipient--safe and effective without any immunosuppresive drug interaction.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d146.s0.e0" charOffset="40-50"
+            type="drug" text="oseltamivir"/>
+        <entity id="DDI-MedLine.d146.s0.e1" charOffset="113-133"
+            type="group" text="immunosuppresive drug"/>
+        <pair id="DDI-MedLine.d146.s0.p0" e1="DDI-MedLine.d146.s0.e0"
+            e2="DDI-MedLine.d146.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d146.s1" text="Kidney transplant recipients are at a high risk for H1N1 infection associated complications during the current pandemic. "/>
+    <sentence id="DDI-MedLine.d146.s2" text="Prevention of infection by immunization, together with early recognition and prompt antiviral treatment are critical. "/>
+    <sentence id="DDI-MedLine.d146.s3" text="Post-exposure prophylaxis of H1N1 with oseltamivir was safe, effective and well tolerated to prevent H1N1 influenza A virus infection in newly transplanted renal allograft recipient receiving triple immunosuppression without any interaction with tacrolimus level. ">
+        <entity id="DDI-MedLine.d146.s3.e0" charOffset="39-49"
+            type="drug" text="oseltamivir"/>
+        <entity id="DDI-MedLine.d146.s3.e1" charOffset="246-255"
+            type="drug" text="tacrolimus"/>
+        <pair id="DDI-MedLine.d146.s3.p0" e1="DDI-MedLine.d146.s3.e0"
+            e2="DDI-MedLine.d146.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d146.s4" text="Oseltamivir was effective for post-exposure prophylaxis of H1N1 in close contact.">
+        <entity id="DDI-MedLine.d146.s4.e0" charOffset="0-10"
+            type="drug" text="Oseltamivir"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d172.s0" text="Clarity and applicability of drug-drug interaction management guidelines: a systematic appraisal by general practitioners and community pharmacists in the Netherlands.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d172.s1" text="Despite the availability and daily use of computerized drug-drug interaction surveillance systems, exposure to potentially relevant drug-drug interactions (DDIs) continues. "/>
+    <sentence id="DDI-MedLine.d172.s2" text="DDI management guidelines are often inadequate and clear management options are lacking, which attributes to overriding of DDI signals. "/>
+    <sentence id="DDI-MedLine.d172.s3" text="Although general criteria for the development and reporting of high-quality clinical practice guidelines have been identified, it appears these have not yet been applied to DDI management guidelines."/>
+    <sentence id="DDI-MedLine.d172.s4" text="The aim of the study was to assess the clarity and applicability of guidelines for the management of potentially harmful DDIs. "/>
+    <sentence id="DDI-MedLine.d172.s5" text="We selected 13 DDIs that are potentially harmful for patients and frequently occur in community pharmacy practice in the Netherlands. "/>
+    <sentence id="DDI-MedLine.d172.s6" text="The clarity and applicability of the management guidelines of these DDIs were appraised using the appropriate two domains - 'Clarity and presentation' and 'Applicability', of the validated Appraisal of Guidelines for Research and Evaluation (AGREE) Instrument. "/>
+    <sentence id="DDI-MedLine.d172.s7" text="The appraisal was performed by 12 community pharmacists and 12 general practitioners. "/>
+    <sentence id="DDI-MedLine.d172.s8" text="The standardized domain scores and mean item scores for 'Clarity and presentation' and 'Applicability' were compared. "/>
+    <sentence id="DDI-MedLine.d172.s9" text="All DDI management guidelines were generally found to score well on 'Clarity and presentation', but poorly with respect to 'Applicability' (standardized domain scores 68.0 vs 26.1%). "/>
+    <sentence id="DDI-MedLine.d172.s10" text="Within the domain 'Clarity and presentation', the item 'tools for application' received the lowest scores. "/>
+    <sentence id="DDI-MedLine.d172.s11" text="Within the domain 'Applicability', cost implications, organizational barriers and key review criteria were all poorly documented. "/>
+    <sentence id="DDI-MedLine.d172.s12" text="All guidelines presented non-directive advice using words such as 'consider' and 'regularly'. "/>
+    <sentence id="DDI-MedLine.d172.s13" text="Developers of DDI management guidelines should take the appropriate domains of the AGREE Instrument into consideration in their development processes. "/>
+    <sentence id="DDI-MedLine.d172.s14" text="The applicability of DDI management guidelines should be pretested before publishing. "/>
+    <sentence id="DDI-MedLine.d172.s15" text="To improve guideline quality, more attention should particularly be paid to the available tools for applications and cost implications."/>
+    <sentence id="DDI-MedLine.d186.s0" text="Motor deficits and recovery in rats with unilateral spinal cord hemisection mimic the Brown-Sequard syndrome.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d186.s1" text="Cervical incomplete spinal cord injuries often lead to severe and persistent impairments of sensorimotor functions and are clinically the most frequent type of spinal cord injury. "/>
+    <sentence id="DDI-MedLine.d186.s2" text="Understanding the motor impairments and the possible functional recovery of upper and lower extremities is of great importance. "/>
+    <sentence id="DDI-MedLine.d186.s3" text="Animal models investigating motor dysfunction following cervical spinal cord injury are rare. "/>
+    <sentence id="DDI-MedLine.d186.s4" text="We analysed the differential spontaneous recovery of fore- and hindlimb locomotion by detailed kinematic analysis in adult rats with unilateral C4/C5 hemisection, a lesion that leads to the Brown-S  quard syndrome in humans. "/>
+    <sentence id="DDI-MedLine.d186.s5" text="The results showed disproportionately better performance of hindlimb compared with forelimb locomotion; "/>
+    <sentence id="DDI-MedLine.d186.s6" text="hindlimb locomotion showed substantial recovery, whereas the ipsilesional forelimb remained in a very poor functional state. "/>
+    <sentence id="DDI-MedLine.d186.s7" text="Such a differential motor recovery pattern is also known to occur in monkeys and in humans after similar spinal cord lesions. "/>
+    <sentence id="DDI-MedLine.d186.s8" text="On the lesioned side, cortico-, rubro-, vestibulo- and reticulospinal tracts and the important modulatory serotonergic, dopaminergic and noradrenergic fibre systems were interrupted by the lesion. "/>
+    <sentence id="DDI-MedLine.d186.s9" text="In an attempt to facilitate locomotion, different monoaminergic agonists were injected intrathecally. "/>
+    <sentence id="DDI-MedLine.d186.s10" text="Injections of specific serotonergic and noradrenergic agonists in the chronic phase after the spinal cord lesion revealed remarkable, although mostly functionally negative, modulations of particular parameters of hindlimb locomotion. "/>
+    <sentence id="DDI-MedLine.d186.s11" text="In contrast, forelimb locomotion was mostly unresponsive to these agonists. "/>
+    <sentence id="DDI-MedLine.d186.s12" text="These results, therefore, show fundamental differences between fore- and hindlimb spinal motor circuitries and their functional dependence on remaining descending inputs and exogenous spinal excitation. "/>
+    <sentence id="DDI-MedLine.d186.s13" text="Understanding these differences may help to develop future therapeutic strategies to improve upper and lower limb function in patients with incomplete cervical spinal cord injuries."/>
+    <sentence id="DDI-MedLine.d212.s0" text="Improvement of colchicine oral bioavailability by incorporating eugenol in the nanoemulsion as an oil excipient and enhancer.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d212.s0.e0" charOffset="15-24"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s0.e1" charOffset="64-70"
+            type="drug" text="eugenol"/>
+        <pair id="DDI-MedLine.d212.s0.p0" e1="DDI-MedLine.d212.s0.e0"
+            e2="DDI-MedLine.d212.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s1" text="The effect of eugenol on colchicine transport across an isolated rat intestinal membrane was studied using an in vitro diffusion chamber system. ">
+        <entity id="DDI-MedLine.d212.s1.e0" charOffset="14-20"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s1.e1" charOffset="25-34"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s1.p0" e1="DDI-MedLine.d212.s1.e0"
+            e2="DDI-MedLine.d212.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s2" text="We found that eugenol increased the absorptive transport of the drug efficiently. ">
+        <entity id="DDI-MedLine.d212.s2.e0" charOffset="14-20"
+            type="drug" text="eugenol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s3" text="The effect of eugenol on intestinal absorption of colchicine in an oral administrative nanoemulsion formulation was also demonstrated in vivo. ">
+        <entity id="DDI-MedLine.d212.s3.e0" charOffset="14-20"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s3.e1" charOffset="50-59"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s3.p0" e1="DDI-MedLine.d212.s3.e0"
+            e2="DDI-MedLine.d212.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s4" text="The colchicine nanoemulsion was prepared with isopropyl myristate, eugenol, Tween80, ethanol and water, and eugenol was used as an oil phase in the formulation; ">
+        <entity id="DDI-MedLine.d212.s4.e0" charOffset="4-13"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s4.e1" charOffset="46-64"
+            type="drug_n" text="isopropyl myristate"/>
+        <entity id="DDI-MedLine.d212.s4.e2" charOffset="67-73"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s4.e3" charOffset="76-82"
+            type="drug_n" text="Tween80"/>
+        <entity id="DDI-MedLine.d212.s4.e4" charOffset="85-91"
+            type="drug" text="ethanol"/>
+        <entity id="DDI-MedLine.d212.s4.e5" charOffset="108-114"
+            type="drug" text="eugenol"/>
+        <pair id="DDI-MedLine.d212.s4.p0" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p1" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p2" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p3" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p4" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p5" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p6" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p7" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p8" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p9" e1="DDI-MedLine.d212.s4.e2"
+            e2="DDI-MedLine.d212.s4.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p10" e1="DDI-MedLine.d212.s4.e2"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p11" e1="DDI-MedLine.d212.s4.e2"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p12" e1="DDI-MedLine.d212.s4.e3"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p13" e1="DDI-MedLine.d212.s4.e3"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p14" e1="DDI-MedLine.d212.s4.e4"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s5" text="an average particle size of this nanoemulsion was 41.2    7.2 nm. "/>
+    <sentence id="DDI-MedLine.d212.s6" text="The permeation of colchicine in the nanoemulsion across the intestinal membrane was significantly different from that of the control group (0.2 mM colchicine). ">
+        <entity id="DDI-MedLine.d212.s6.e0" charOffset="18-27"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s6.e1" charOffset="147-156"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s6.p0" e1="DDI-MedLine.d212.s6.e0"
+            e2="DDI-MedLine.d212.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s7" text="Finally, co-administration of eugenol in colchicine nanoemulsion to enhance the colchicine bioavailability was investigated by an oral administration method. ">
+        <entity id="DDI-MedLine.d212.s7.e0" charOffset="30-36"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s7.e1" charOffset="41-50"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s7.e2" charOffset="80-89"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s7.p0" e1="DDI-MedLine.d212.s7.e0"
+            e2="DDI-MedLine.d212.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s7.p1" e1="DDI-MedLine.d212.s7.e0"
+            e2="DDI-MedLine.d212.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s7.p2" e1="DDI-MedLine.d212.s7.e1"
+            e2="DDI-MedLine.d212.s7.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s8" text="After oral administration of colchicine (8 mg/kg) in the form of either the nanoemulsion or in free colchicine solution, the relative bioavailability of nanoemulsion and eugenol-nanoemulsion were enhanced by about 1.6- and 2.1-fold, respectively, compared with free colchicine solution. ">
+        <entity id="DDI-MedLine.d212.s8.e0" charOffset="29-38"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s8.e1" charOffset="100-109"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s8.e2" charOffset="170-176"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s8.e3" charOffset="266-275"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s8.p0" e1="DDI-MedLine.d212.s8.e0"
+            e2="DDI-MedLine.d212.s8.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p1" e1="DDI-MedLine.d212.s8.e0"
+            e2="DDI-MedLine.d212.s8.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p2" e1="DDI-MedLine.d212.s8.e0"
+            e2="DDI-MedLine.d212.s8.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p3" e1="DDI-MedLine.d212.s8.e1"
+            e2="DDI-MedLine.d212.s8.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p4" e1="DDI-MedLine.d212.s8.e1"
+            e2="DDI-MedLine.d212.s8.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p5" e1="DDI-MedLine.d212.s8.e2"
+            e2="DDI-MedLine.d212.s8.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s9" text="The procedure indicated that the intestinal absorption of colchicine was enhanced significantly by eugenol in the tested nanoemulsion. ">
+        <entity id="DDI-MedLine.d212.s9.e0" charOffset="58-67"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s9.e1" charOffset="99-105"
+            type="drug" text="eugenol"/>
+        <pair id="DDI-MedLine.d212.s9.p0" e1="DDI-MedLine.d212.s9.e0"
+            e2="DDI-MedLine.d212.s9.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s10" text="All the results suggested that eugenol is an efficient component in an oral administrative formulation for improving the intestinal absorption of colchicine.">
+        <entity id="DDI-MedLine.d212.s10.e0" charOffset="31-37"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s10.e1" charOffset="146-155"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s10.p0" e1="DDI-MedLine.d212.s10.e0"
+            e2="DDI-MedLine.d212.s10.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s0" text="[Protective effects of ginseng-ginko extracts combination on rat primary cultured neurons induced by Abeta(1-40)].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d149.s0.e0" charOffset="23-29"
+            type="drug" text="ginseng"/>
+        <entity id="DDI-MedLine.d149.s0.e1" charOffset="31-35"
+            type="drug" text="ginko"/>
+        <entity id="DDI-MedLine.d149.s0.e2" charOffset="101-111"
+            type="drug_n" text="Abeta(1-40)"/>
+        <pair id="DDI-MedLine.d149.s0.p0" e1="DDI-MedLine.d149.s0.e0"
+            e2="DDI-MedLine.d149.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s0.p1" e1="DDI-MedLine.d149.s0.e0"
+            e2="DDI-MedLine.d149.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s0.p2" e1="DDI-MedLine.d149.s0.e1"
+            e2="DDI-MedLine.d149.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s1" text="To observe the injury in rat primary cultured neurons induced by Abeta(1-40) and the protective effects of combination of ginseng and ginko extracts.">
+        <entity id="DDI-MedLine.d149.s1.e0" charOffset="65-75"
+            type="drug_n" text="Abeta(1-40)"/>
+        <entity id="DDI-MedLine.d149.s1.e1" charOffset="122-128"
+            type="drug" text="ginseng"/>
+        <entity id="DDI-MedLine.d149.s1.e2" charOffset="134-138"
+            type="drug" text="ginko"/>
+        <pair id="DDI-MedLine.d149.s1.p0" e1="DDI-MedLine.d149.s1.e0"
+            e2="DDI-MedLine.d149.s1.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s1.p1" e1="DDI-MedLine.d149.s1.e0"
+            e2="DDI-MedLine.d149.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s1.p2" e1="DDI-MedLine.d149.s1.e1"
+            e2="DDI-MedLine.d149.s1.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s2" text="Primary neurons were induced by Abeta(1-40) to establish the cell model of toxic injury. ">
+        <entity id="DDI-MedLine.d149.s2.e0" charOffset="32-42"
+            type="drug_n" text="Abeta(1-40)"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s3" text="Using flow cytometry with Annexin V-FITC/PI double staining, MTP assay, transmission electron microscopy and Western blot, the appropriate concentration and duration of AP for cell model establishment were determined. "/>
+    <sentence id="DDI-MedLine.d149.s4" text="The effects of extracts of ginseng and ginko (EGGB) on cellular proliferative activity, apoptotic rate, ultrastructure and caspase-3 expression were detected. ">
+        <entity id="DDI-MedLine.d149.s4.e0" charOffset="27-33"
+            type="drug" text="ginseng"/>
+        <entity id="DDI-MedLine.d149.s4.e1" charOffset="39-43"
+            type="drug" text="ginko"/>
+        <entity id="DDI-MedLine.d149.s4.e2" charOffset="46-49"
+            type="drug" text="EGGB"/>
+        <pair id="DDI-MedLine.d149.s4.p0" e1="DDI-MedLine.d149.s4.e0"
+            e2="DDI-MedLine.d149.s4.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s4.p1" e1="DDI-MedLine.d149.s4.e0"
+            e2="DDI-MedLine.d149.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s4.p2" e1="DDI-MedLine.d149.s4.e1"
+            e2="DDI-MedLine.d149.s4.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s5" text="The apoptotic rate was increased significantly after neurons were induced by 1 micromol x L(-1) Abeta(-40) for 24 h (P &lt; 0.01). ">
+        <entity id="DDI-MedLine.d149.s5.e0" charOffset="96-105"
+            type="drug_n" text="Abeta(-40)"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s6" text="EGGB (5, 50 mg L(-1)) significantly enhanced the proliferative activity (P &lt; 0.05). ">
+        <entity id="DDI-MedLine.d149.s6.e0" charOffset="0-3" type="drug" text="EGGB"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s7" text="Meanwhile, EGGB (50 mg L(-1)) inhibited neuronal apoptosis and caspase-3 overexpression and improved cellular ultrastructure remarkably (P &lt; 0.05, P &lt; 0.01). ">
+        <entity id="DDI-MedLine.d149.s7.e0" charOffset="11-14"
+            type="drug" text="EGGB"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s8" text="Abeta(1-40) could significantly induce primary cultured neurons to apoptosis in vitro. ">
+        <entity id="DDI-MedLine.d149.s8.e0" charOffset="0-10"
+            type="drug" text="Abeta(1-40)"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s9" text="EGGB showed beneficial neuroprotective effects against neuronal apoptosis, which might be due to improving the structures of neuron and its subcellular organelles, enhancing cellular proliferative activity and inhibiting caspase-3 overexpression in neurons.">
+        <entity id="DDI-MedLine.d149.s9.e0" charOffset="0-3" type="drug" text="EGGB"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s0" text="[Effects of glycyrrhiza extract on pharmacokinetics property of daphnetin in rats].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d142.s0.e0" charOffset="12-30"
+            type="drug_n" text="glycyrrhiza extract"/>
+        <entity id="DDI-MedLine.d142.s0.e1" charOffset="64-72"
+            type="drug_n" text="daphnetin"/>
+        <pair id="DDI-MedLine.d142.s0.p0" e1="DDI-MedLine.d142.s0.e0"
+            e2="DDI-MedLine.d142.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s1" text="To research the influence of glycyrrhiza extract on the pharmacokinetics characteristic parameters of daphnetin, which was aimed to explore the rationality of concert application of drugs.">
+        <entity id="DDI-MedLine.d142.s1.e0" charOffset="29-47"
+            type="drug_n" text="glycyrrhiza extract"/>
+        <entity id="DDI-MedLine.d142.s1.e1" charOffset="102-110"
+            type="drug_n" text="daphnetin"/>
+        <pair id="DDI-MedLine.d142.s1.p0" e1="DDI-MedLine.d142.s1.e0"
+            e2="DDI-MedLine.d142.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s2" text="The rats received intragastric administration of daphnetin and glycyrrhiza extract containing the same daphnetin respectively. ">
+        <entity id="DDI-MedLine.d142.s2.e0" charOffset="49-57"
+            type="drug_n" text="daphnetin"/>
+        <entity id="DDI-MedLine.d142.s2.e1" charOffset="63-81"
+            type="drug_n" text="glycyrrhiza extract"/>
+        <entity id="DDI-MedLine.d142.s2.e2" charOffset="103-111"
+            type="drug_n" text="daphnetin"/>
+        <pair id="DDI-MedLine.d142.s2.p0" e1="DDI-MedLine.d142.s2.e0"
+            e2="DDI-MedLine.d142.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d142.s2.p1" e1="DDI-MedLine.d142.s2.e0"
+            e2="DDI-MedLine.d142.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d142.s2.p2" e1="DDI-MedLine.d142.s2.e1"
+            e2="DDI-MedLine.d142.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s3" text="The blood concentration of daphnetin was assayed by LC-MS. ">
+        <entity id="DDI-MedLine.d142.s3.e0" charOffset="27-35"
+            type="drug_n" text="daphnetin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s4" text="The data was processed by program DAS2.1.1. "/>
+    <sentence id="DDI-MedLine.d142.s5" text="Glycyrrhiza extract can reduce the t(1/2), tmax and Ke of daphnetin, while increased the Ka and AUC(0-infinity). ">
+        <entity id="DDI-MedLine.d142.s5.e0" charOffset="58-66"
+            type="drug_n" text="daphnetin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s6" text="Glycyrrhiza extract promoted the oral absorption of daphnetin, slowed down the elimination and increased the biological availability.">
+        <entity id="DDI-MedLine.d142.s6.e0" charOffset="52-60"
+            type="drug_n" text="daphnetin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s0" text="Antimicrobial effects of o-cymen-5-ol and zinc, alone &amp;">
+        <entity id="DDI-MedLine.d182.s0.e0" charOffset="25-36"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s0.e1" charOffset="42-45"
+            type="drug" text="zinc"/>
+        <pair id="DDI-MedLine.d182.s0.p0" e1="DDI-MedLine.d182.s0.e0"
+            e2="DDI-MedLine.d182.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s1" text="in combination in simple solutions and toothpaste formulations.&#xa;"/>
+    <sentence id="DDI-MedLine.d182.s2" text="This study aimed to evaluate antimicrobial effects of an o-cymen-5-ol/zinc system.">
+        <entity id="DDI-MedLine.d182.s2.e0" charOffset="57-68"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s2.e1" charOffset="70-73"
+            type="drug" text="zinc"/>
+        <pair id="DDI-MedLine.d182.s2.p0" e1="DDI-MedLine.d182.s2.e0"
+            e2="DDI-MedLine.d182.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s3" text="o-Cymen-5-ol and zinc gluconate minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) were determined against Streptococcus mutans, Actinomyces viscosus, Porphyromonas gingivalis, Fusobacterium nucleatum and Candida albicans. ">
+        <entity id="DDI-MedLine.d182.s3.e0" charOffset="0-11"
+            type="drug_n" text="o-Cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s3.e1" charOffset="17-30"
+            type="drug" text="zinc gluconate"/>
+        <pair id="DDI-MedLine.d182.s3.p0" e1="DDI-MedLine.d182.s3.e0"
+            e2="DDI-MedLine.d182.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s4" text="Synergy was investigated by checkerboard MIC/MBC; "/>
+    <sentence id="DDI-MedLine.d182.s5" text="inhibition of P. "/>
+    <sentence id="DDI-MedLine.d182.s6" text="gingivalis protease activity and S. "/>
+    <sentence id="DDI-MedLine.d182.s7" text="mutans glycolysis were investigated. "/>
+    <sentence id="DDI-MedLine.d182.s8" text="Slurried toothpastes containing the system were assessed in kill time assays against S. "/>
+    <sentence id="DDI-MedLine.d182.s9" text="mutans and E. "/>
+    <sentence id="DDI-MedLine.d182.s10" text="coli. "/>
+    <sentence id="DDI-MedLine.d182.s11" text="o-Cymen-5-ol MIC was between 1.7 mM to 3.4 mM; ">
+        <entity id="DDI-MedLine.d182.s11.e0" charOffset="0-11"
+            type="drug_n" text="o-Cymen-5-ol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s12" text="MBC was 3.4 mM to 6.7 mM. "/>
+    <sentence id="DDI-MedLine.d182.s13" text="Zinc gluconate MIC was 2.8 mM to 11 mM; ">
+        <entity id="DDI-MedLine.d182.s13.e0" charOffset="0-13"
+            type="drug" text="Zinc gluconate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s14" text="MBC was between 11 mM and >44 mM. "/>
+    <sentence id="DDI-MedLine.d182.s15" text="The two agents in solution showed synergy (FICI   0.50) against P. "/>
+    <sentence id="DDI-MedLine.d182.s16" text="gingivalis and F. "/>
+    <sentence id="DDI-MedLine.d182.s17" text="nucleatum, with MIC of 0.42 mM/0.69 mM for o-cymen-5-ol/zinc gluconate, respectively. ">
+        <entity id="DDI-MedLine.d182.s17.e0" charOffset="43-54"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s17.e1" charOffset="56-69"
+            type="drug" text="zinc gluconate"/>
+        <pair id="DDI-MedLine.d182.s17.p0" e1="DDI-MedLine.d182.s17.e0"
+            e2="DDI-MedLine.d182.s17.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s18" text="Zinc inhibited glycolysis and protease to a greater degree than o-cymen-5-ol; ">
+        <entity id="DDI-MedLine.d182.s18.e0" charOffset="0-3"
+            type="drug" text="Zinc"/>
+        <entity id="DDI-MedLine.d182.s18.e1" charOffset="64-75"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <pair id="DDI-MedLine.d182.s18.p0" e1="DDI-MedLine.d182.s18.e0"
+            e2="DDI-MedLine.d182.s18.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s19" text="glycolysis inhibition by the two agents was additive. "/>
+    <sentence id="DDI-MedLine.d182.s20" text="o-Cymen-5-ol/zinc chloride in toothpaste showed greater effects than placebo (120s log10 kill=7.35  0.40 and 4.02  0.40, respectively). ">
+        <entity id="DDI-MedLine.d182.s20.e0" charOffset="0-11"
+            type="drug_n" text="o-Cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s20.e1" charOffset="13-25"
+            type="drug" text="zinc chloride"/>
+        <pair id="DDI-MedLine.d182.s20.p0" e1="DDI-MedLine.d182.s20.e0"
+            e2="DDI-MedLine.d182.s20.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s21" text="The zinc/o-cymen-5-ol system has direct antimicrobial effects and inhibits oral disease-related processes. ">
+        <entity id="DDI-MedLine.d182.s21.e0" charOffset="4-7"
+            type="drug" text="zinc"/>
+        <entity id="DDI-MedLine.d182.s21.e1" charOffset="9-20"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <pair id="DDI-MedLine.d182.s21.p0" e1="DDI-MedLine.d182.s21.e0"
+            e2="DDI-MedLine.d182.s21.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s22" text="Synergistic effects were seen against anaerobes. "/>
+    <sentence id="DDI-MedLine.d182.s23" text="A system combining o-cymen-5-ol and zinc shows properties desirable for incorporation in toothpastes.">
+        <entity id="DDI-MedLine.d182.s23.e0" charOffset="19-30"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s23.e1" charOffset="36-39"
+            type="drug" text="zinc"/>
+        <pair id="DDI-MedLine.d182.s23.p0" e1="DDI-MedLine.d182.s23.e0"
+            e2="DDI-MedLine.d182.s23.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d167.s0" text="Opportunities and challenges in the development of experimental drug combinations for cancer.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d167.s1" text="It is becoming increasingly evident that cancers are dependent on a number of altered molecular pathways and can develop diverse mechanisms of resistance to therapy with single agents. "/>
+    <sentence id="DDI-MedLine.d167.s2" text="Therefore, combination regimens may provide the best hope for effective therapies with durable effects. "/>
+    <sentence id="DDI-MedLine.d167.s3" text="Despite preclinical data to support this notion, there are many challenges to the development of targeted combinations including scientific, economic, legal, and regulatory barriers. "/>
+    <sentence id="DDI-MedLine.d167.s4" text="A discussion of these challenges and identification of models and best practices are presented with intent of aiding the research community in addressing real and perceived barriers to the development of combination therapies for cancer."/>
+    <sentence id="DDI-MedLine.d150.s0" text="Network neighbors of drug targets contribute to drug side-effect similarity.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d150.s1" text="In pharmacology, it is essential to identify the molecular mechanisms of drug action in order to understand adverse side effects. "/>
+    <sentence id="DDI-MedLine.d150.s2" text="These adverse side effects have been used to infer whether two drugs share a target protein. "/>
+    <sentence id="DDI-MedLine.d150.s3" text="However, side-effect similarity of drugs could also be caused by their target proteins being close in a molecular network, which as such could cause similar downstream effects. "/>
+    <sentence id="DDI-MedLine.d150.s4" text="In this study, we investigated the proportion of side-effect similarities that is due to targets that are close in the network compared to shared drug targets. "/>
+    <sentence id="DDI-MedLine.d150.s5" text="We found that only a minor fraction of side-effect similarities (5.8 %) are caused by drugs targeting proteins close in the network, compared to side-effect similarities caused by overlapping drug targets (64%). "/>
+    <sentence id="DDI-MedLine.d150.s6" text="Moreover, these targets that cause similar side effects are more often in a linear part of the network, having two or less interactions, than drug targets in general. "/>
+    <sentence id="DDI-MedLine.d150.s7" text="Based on the examples, we gained novel insight into the molecular mechanisms of side effects associated with several drug targets. "/>
+    <sentence id="DDI-MedLine.d150.s8" text="Looking forward, such analyses will be extremely useful in the process of drug development to better understand adverse side effects."/>
+    <sentence id="DDI-MedLine.d226.s0" text="[Does implementation of benchmarking in quality circles improve the quality of care of patients with asthma and reduce drug interaction ]."/>
+    <sentence id="DDI-MedLine.d226.s1" text="The purpose of this cluster-randomised controlled trial was to evaluate the efficacy of quality circles (QCs) working either with general data-based feedback or with an open benchmark within the field of asthma care and drug-drug interactions."/>
+    <sentence id="DDI-MedLine.d226.s2" text="Twelve QCs, involving 96 general practitioners from 85 practices, were randomised. "/>
+    <sentence id="DDI-MedLine.d226.s3" text="Six QCs worked with traditional anonymous feedback and six with an open benchmark. "/>
+    <sentence id="DDI-MedLine.d226.s4" text="Two QC meetings supported with feedback reports were held covering the topics &quot;drug-drug interactions&quot;"/>
+    <sentence id="DDI-MedLine.d226.s5" text="and &quot;asthma&quot;;"/>
+    <sentence id="DDI-MedLine.d226.s6" text="in both cases discussions were guided by a trained moderator. "/>
+    <sentence id="DDI-MedLine.d226.s7" text="Outcome measures included health-related quality of life and patient satisfaction with treatment, asthma severity and number of potentially inappropriate drug combinations as well as the general practitioners' satisfaction in relation to the performance of the QC. "/>
+    <sentence id="DDI-MedLine.d226.s8" text="A significant improvement in the treatment of asthma was observed in both trial arms. "/>
+    <sentence id="DDI-MedLine.d226.s9" text="However, there was only a slight improvement regarding inappropriate drug combinations. "/>
+    <sentence id="DDI-MedLine.d226.s10" text="There were no relevant differences between the group with open benchmark (B-QC) and traditional quality circles (T-QC). "/>
+    <sentence id="DDI-MedLine.d226.s11" text="The physicians' satisfaction with the QC performance was significantly higher in the T-QCs. "/>
+    <sentence id="DDI-MedLine.d226.s12" text="General practitioners seem to take a critical perspective about open benchmarking in quality circles. "/>
+    <sentence id="DDI-MedLine.d226.s13" text="Caution should be used when implementing benchmarking in a quality circle as it did not improve healthcare when compared to the traditional procedure with anonymised comparisons."/>
+    <sentence id="DDI-MedLine.d156.s0" text="ABC transporters influence sensitivity of Brugia malayi to moxidectin and have potential roles in drug resistance.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d156.s0.e0" charOffset="59-68"
+            type="drug_n" text="moxidectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s1" text="Some ABC transporters play a significant role in human health and illness because they confer multidrug resistance (MDR) through their overexpression. "/>
+    <sentence id="DDI-MedLine.d156.s2" text="Compounds that inhibit the drug efflux mechanism can improve efficacy or reverse resistance. "/>
+    <sentence id="DDI-MedLine.d156.s3" text="Of the eight described ABC transporter subfamilies, those proteins conferring MDR in humans are in subfamilies A, B, C, and G. "/>
+    <sentence id="DDI-MedLine.d156.s4" text="In nematodes, transporters in subfamilies B and C are suggested to confer resistance to ivermectin. ">
+        <entity id="DDI-MedLine.d156.s4.e0" charOffset="88-97"
+            type="drug" text="ivermectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s5" text="The Brugia malayi ABC transporter superfamily was examined to assess their potential to influence sensitivity to moxidectin. ">
+        <entity id="DDI-MedLine.d156.s5.e0" charOffset="113-122"
+            type="drug_n" text="moxidectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s6" text="There was an increase in expression of ABC transporters in subfamilies A, B, C, and G following treatment. "/>
+    <sentence id="DDI-MedLine.d156.s7" text="Co-administration of moxidectin with inhibitors of ABC transporter function did not enhance sensitivity to moxidectin in males; ">
+        <entity id="DDI-MedLine.d156.s7.e0" charOffset="21-30"
+            type="drug_n" text="moxidectin"/>
+        <entity id="DDI-MedLine.d156.s7.e1" charOffset="107-116"
+            type="drug_n" text="moxidectin"/>
+        <pair id="DDI-MedLine.d156.s7.p0" e1="DDI-MedLine.d156.s7.e0"
+            e2="DDI-MedLine.d156.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s8" text="however, sensitivity was significantly enhanced in females and microfilariae. "/>
+    <sentence id="DDI-MedLine.d156.s9" text="The work suggests that ABC transporters influence sensitivity to moxidectin and have a potential role in drug resistance.">
+        <entity id="DDI-MedLine.d156.s9.e0" charOffset="65-74"
+            type="drug_n" text="moxidectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d155.s0" text="The role of interneurons in shaping Purkinje cell responses in the cerebellar cortex.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d155.s1" text="The well established anatomy of the cerebellar cortex has led to suggestions that cerebellar molecular layer interneurons laterally inhibit Purkinje cells. "/>
+    <sentence id="DDI-MedLine.d155.s2" text="In support of the anatomical predictions, on-beam excitation and off-beam inhibition of Purkinje cells have been shown to occur when the surface of the cerebellum is electrically excited. "/>
+    <sentence id="DDI-MedLine.d155.s3" text="Patchy excitation of Purkinje cells with flanking inhibition of sagittally oriented Purkinje cells have also been demonstrated following peripheral stimulation in vivo. "/>
+    <sentence id="DDI-MedLine.d155.s4" text="To extend these observations, we mapped the functional connectivity between granule cells, molecular layer interneurons, and Purkinje cells in rats. "/>
+    <sentence id="DDI-MedLine.d155.s5" text="Patches of granule cells were asynchronously activated by photostimulation to mimic their excitation by a mossy fiber as it occurs in vivo. "/>
+    <sentence id="DDI-MedLine.d155.s6" text="We found with remarkable consistency that, in the sagittal orientation, granule cells elicit a stereotypic set of responses. "/>
+    <sentence id="DDI-MedLine.d155.s7" text="Granule cells immediately underneath a Purkinje cell provide pure excitation. "/>
+    <sentence id="DDI-MedLine.d155.s8" text="Granule cells positioned 340-400   m laterally provided pure inhibition, consistent with the lateral inhibition proposed earlier. "/>
+    <sentence id="DDI-MedLine.d155.s9" text="The net effect of exciting granule cells in between these two extremes was to provide a systematic change in the response of Purkinje cells, from net excitation to net inhibition moving laterally from the Purkinje cell. "/>
+    <sentence id="DDI-MedLine.d155.s10" text="In contrast to the sagittal orientation, in the coronal orientation the organization of Purkinje cell responses with granule cell activation was remarkably different. "/>
+    <sentence id="DDI-MedLine.d155.s11" text="Independent of the location of granule cells, within the 480   m lateral distance examined, molecular layer interneurons reduced the strength of granule cell inputs to Purkinje cells to a comparable extent."/>
+    <sentence id="DDI-MedLine.d224.s0" text="The influence of chemical activation on tooth bleaching using 10% carbamide peroxide.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d224.s0.e0" charOffset="66-83"
+            type="drug_n" text="carbamide peroxide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s1" text="The aim of this study was to assess the influence of manganese gluconate, a chemical activator of bleaching agents, at a concentration of 0.01% on the efficiency of a 10% carbamide peroxide-based bleaching agent. ">
+        <entity id="DDI-MedLine.d224.s1.e0" charOffset="53-71"
+            type="drug_n" text="manganese gluconate"/>
+        <entity id="DDI-MedLine.d224.s1.e1" charOffset="171-188"
+            type="drug_n" text="carbamide peroxide"/>
+        <pair id="DDI-MedLine.d224.s1.p0" e1="DDI-MedLine.d224.s1.e0"
+            e2="DDI-MedLine.d224.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s2" text="Forty bovine incisors were immersed in a 25% instant coffee solution for seven days and randomly divided into two groups. "/>
+    <sentence id="DDI-MedLine.d224.s3" text="Group 1 was the control group and consisted of 10% carbamide peroxide-based bleaching gel only. ">
+        <entity id="DDI-MedLine.d224.s3.e0" charOffset="51-68"
+            type="drug_n" text="carbamide peroxide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s4" text="Group 2 consisted of 10% carbamide peroxide-based bleaching gel and 0.01% manganese gluconate. ">
+        <entity id="DDI-MedLine.d224.s4.e0" charOffset="25-42"
+            type="drug_n" text="carbamide peroxide"/>
+        <entity id="DDI-MedLine.d224.s4.e1" charOffset="74-92"
+            type="drug_n" text="manganese gluconate"/>
+        <pair id="DDI-MedLine.d224.s4.p0" e1="DDI-MedLine.d224.s4.e0"
+            e2="DDI-MedLine.d224.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s5" text="Three readings of color were taken using the Vita Easyshade spectrophotometer: the initial reading, a reading at seven days, and a reading at 14 days. "/>
+    <sentence id="DDI-MedLine.d224.s6" text="Total color variation was calculated by   E*Lab. "/>
+    <sentence id="DDI-MedLine.d224.s7" text="Data were submitted to the statistical t-test (5%), which showed that after seven days group 2 had a significant increase in the degree of tooth bleaching compared with group 1. "/>
+    <sentence id="DDI-MedLine.d224.s8" text="The mean values (  SD) were 16.33 (  3.95) for group 1 and 19.29 (  4.97) for group 2. "/>
+    <sentence id="DDI-MedLine.d224.s9" text="However, the results for group 1 and group 2 were similar after 14 days. "/>
+    <sentence id="DDI-MedLine.d224.s10" text="Adding 0.01% manganese gluconate to 10% carbamide peroxide bleaching gel increased the degree of tooth bleaching after a seven-day treatment and did not influence the resulting shade after 14 days.">
+        <entity id="DDI-MedLine.d224.s10.e0" charOffset="13-31"
+            type="drug_n" text="manganese gluconate"/>
+        <entity id="DDI-MedLine.d224.s10.e1" charOffset="40-57"
+            type="drug_n" text="carbamide peroxide"/>
+        <pair id="DDI-MedLine.d224.s10.p0" e1="DDI-MedLine.d224.s10.e0"
+            e2="DDI-MedLine.d224.s10.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d229.s0" text="Novel insights into the synergistic interaction of Bortezomib and TRAIL: tBid provides the link.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d229.s0.e0" charOffset="51-60"
+            type="drug" text="Bortezomib"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d229.s1" text="The proteasome inhibitor Bortezomib has been identified as a potent enhancer of TRAIL-induced apoptosis in several human cancers. ">
+        <entity id="DDI-MedLine.d229.s1.e0" charOffset="25-34"
+            type="drug" text="Bortezomib"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d229.s2" text="However, the identification of the underlying molecular mechanisms of this synergistic cell death induction has been ongoing over the last years. "/>
+    <sentence id="DDI-MedLine.d229.s3" text="A recent study identifies a new mechanism of action for the synergism of TRAIL and Bortezomib.">
+        <entity id="DDI-MedLine.d229.s3.e0" charOffset="83-92"
+            type="drug" text="Bortezomib"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d176.s0" text="Nitric oxide is an activity-dependent regulator of target neuron intrinsic excitability.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d176.s0.e0" charOffset="0-11"
+            type="drug" text="Nitric oxide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d176.s1" text="Activity-dependent changes in synaptic strength are well established as mediating long-term plasticity underlying learning and memory, but modulation of  target neuron excitability could complement changes in synaptic strength and regulate network activity. "/>
+    <sentence id="DDI-MedLine.d176.s2" text="It is thought that homeostatic mechanisms match intrinsic excitability to the incoming synaptic drive, but evidence for involvement of voltage-gated conductances is sparse. "/>
+    <sentence id="DDI-MedLine.d176.s3" text="Here, we show that glutamatergic synaptic activity modulates target neuron excitability and switches the basis of action potential repolarization from Kv3 to Kv2 potassium channel dominance, thereby adjusting neuronal signaling between low and high activity states, respectively. "/>
+    <sentence id="DDI-MedLine.d176.s4" text="This nitric oxide-mediated signaling dramatically increases Kv2 currents in both the auditory brain stem and hippocampus (&amp;gt;3-fold) transforming synaptic integration and information transmission but with only modest changes in action potential waveform. "/>
+    <sentence id="DDI-MedLine.d176.s5" text="We conclude that nitric oxide is a homeostatic regulator, tuning neuronal excitability to the recent history of excitatory synaptic inputs over intervals of minutes to hours."/>
+    <sentence id="DDI-MedLine.d168.s0" text="Spontaneous spiking and synaptic depression underlie noradrenergic control of feed-forward inhibition.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d168.s1" text="Inhibitory interneurons across diverse brain regions commonly exhibit spontaneous spiking activity, even in the absence of external stimuli. "/>
+    <sentence id="DDI-MedLine.d168.s2" text="It is not well understood how stimulus-evoked inhibition can be distinguished from background inhibition arising from spontaneous firing. "/>
+    <sentence id="DDI-MedLine.d168.s3" text="We found that noradrenaline simultaneously reduced spontaneous inhibitory inputs and enhanced evoked inhibitory currents recorded from principal neurons of the mouse dorsal cochlear nucleus (DCN). "/>
+    <sentence id="DDI-MedLine.d168.s4" text="Together, these effects produced a large increase in signal-to-noise ratio for stimulus-evoked inhibition. "/>
+    <sentence id="DDI-MedLine.d168.s5" text="Surprisingly, the opposing effects on background and evoked currents could both be attributed to noradrenergic silencing of spontaneous spiking in glycinergic interneurons. "/>
+    <sentence id="DDI-MedLine.d168.s6" text="During spontaneous firing, glycine release was decreased due to strong short-term depression. "/>
+    <sentence id="DDI-MedLine.d168.s7" text="Elimination of background spiking relieved inhibitory synapses from depression and thereby enhanced stimulus-evoked inhibition. "/>
+    <sentence id="DDI-MedLine.d168.s8" text="Our findings illustrate a simple yet powerful neuromodulatory mechanism to shift the balance between background and stimulus-evoked signals."/>
+    <sentence id="DDI-MedLine.d207.s0" text="Approach to the evaluation of a patient with an increased serum osmolal gap and high-anion-gap metabolic acidosis.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d207.s1" text="An increase in serum osmolality and serum osmolal gap with or without high-anion-gap metabolic acidosis is an important clue to exposure to one of the toxic alcohols, which include methanol, ethylene glycol, diethylene glycol, propylene glycol, or isopropanol. ">
+        <entity id="DDI-MedLine.d207.s1.e0" charOffset="181-188"
+            type="drug_n" text="methanol"/>
+        <entity id="DDI-MedLine.d207.s1.e1" charOffset="191-205"
+            type="drug_n" text="ethylene glycol"/>
+        <entity id="DDI-MedLine.d207.s1.e2" charOffset="208-224"
+            type="drug_n" text="diethylene glycol"/>
+        <entity id="DDI-MedLine.d207.s1.e3" charOffset="227-242"
+            type="drug_n" text="propylene glycol"/>
+        <entity id="DDI-MedLine.d207.s1.e4" charOffset="248-258"
+            type="drug" text="isopropanol"/>
+        <pair id="DDI-MedLine.d207.s1.p0" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p1" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p2" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p3" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p4" e1="DDI-MedLine.d207.s1.e1"
+            e2="DDI-MedLine.d207.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p5" e1="DDI-MedLine.d207.s1.e1"
+            e2="DDI-MedLine.d207.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p6" e1="DDI-MedLine.d207.s1.e1"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p7" e1="DDI-MedLine.d207.s1.e2"
+            e2="DDI-MedLine.d207.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p8" e1="DDI-MedLine.d207.s1.e2"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p9" e1="DDI-MedLine.d207.s1.e3"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d207.s2" text="However, the increase in serum osmolal gap and metabolic acidosis can occur either together or alone depending on several factors, including baseline serum osmolal gap, molecular weight of the alcohol, and stage of metabolism of the alcohol. "/>
+    <sentence id="DDI-MedLine.d207.s3" text="In addition, other disorders, including diabetic or alcoholic ketoacidosis, acute kidney injury, chronic kidney disease, and lactic acidosis, can cause high-anion-gap metabolic acidosis associated with an increased serum osmolal gap and therefore should be explored in the differential diagnosis. "/>
+    <sentence id="DDI-MedLine.d207.s4" text="It is essential for clinicians to understand the value and limitations of osmolal gap to assist in reaching the correct diagnosis and initiating appropriate treatment. "/>
+    <sentence id="DDI-MedLine.d207.s5" text="In this teaching case, we present a systematic approach to diagnosing high serum osmolality and increased serum osmolal gap with or without high-anion-gap metabolic acidosis."/>
+    <sentence id="DDI-MedLine.d225.s0" text="Pharmacological drugs inducing ototoxicity, vestibular symptoms and tinnitus: a reasoned and updated guide.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d225.s1" text="The present work on drug-induced ototoxicity, tinnitus and vertigo represents the update and revision of a previous guide to adverse drug reactions for italian physicians (2005). "/>
+    <sentence id="DDI-MedLine.d225.s2" text="The panorama of drug-induced side effects causing ototoxicity or symptoms such as tinnitus or dizziness and vertigo has enlarged in recent years, thanks to a better knowledge and a more specific attention of pharmaceutical firms and drug-control institutions. "/>
+    <sentence id="DDI-MedLine.d225.s3" text="In daily clinical practice, there is a need for the family physician and the ENT specialist or audiologist (also in consideration of the possible medico-legal implications) to focus the attention on the possible risk of otological side effects. "/>
+    <sentence id="DDI-MedLine.d225.s4" text="This would allow a clinical risk-benefit evaluation, weighing the possible clinical advantage in their field of competence against possible otological side-effects. "/>
+    <sentence id="DDI-MedLine.d225.s5" text="The list of active ingredients and drugs is subdivided in categories based on their audiological and otoneurological side-effects, that have been signaled by the drug companies and/or ministerial notes. "/>
+    <sentence id="DDI-MedLine.d225.s6" text="Drugs have also been subcategorized with regards to the field in which they are applied, the therapeutic indications and the clinical behaviour. "/>
+    <sentence id="DDI-MedLine.d225.s7" text="They have also been organized in alphabetical order, for an easier consultation. "/>
+    <sentence id="DDI-MedLine.d225.s8" text="The guide above, even if initially conceived for being used in Italy, also presents a more general and international interest, expecially as for as the concepts of pharmacology and the features of the active ingredients are concerned. "/>
+    <sentence id="DDI-MedLine.d225.s9" text="The guide is, therefore, useful as for as we are concerned to any physician, regardless of the country he/she operates in."/>
+    <sentence id="DDI-MedLine.d178.s0" text="[Ticagrelor: a novel antiplatelet agent for patients with acute coronary syndrome].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d178.s0.e0" charOffset="1-10"
+            type="drug" text="Ticagrelor"/>
+        <entity id="DDI-MedLine.d178.s0.e1" charOffset="21-38"
+            type="group" text="antiplatelet agent"/>
+        <pair id="DDI-MedLine.d178.s0.p0" e1="DDI-MedLine.d178.s0.e0"
+            e2="DDI-MedLine.d178.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d178.s1" text="Ticagrelor is an oral, reversible blocker of the P2Y12 adenosine receptor. ">
+        <entity id="DDI-MedLine.d178.s1.e0" charOffset="0-9" type="drug" text="Ticagrelor"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d178.s2" text="In clinical trials the antiplatelet agent reduced significantly vascular mortality and death from any cause when compared to clopidogrel in patients with acute coronary syndrome.">
+        <entity id="DDI-MedLine.d178.s2.e0" charOffset="23-40"
+            type="group" text="antiplatelet agent"/>
+        <entity id="DDI-MedLine.d178.s2.e1" charOffset="125-135"
+            type="drug" text="clopidogrel"/>
+        <pair id="DDI-MedLine.d178.s2.p0" e1="DDI-MedLine.d178.s2.e0"
+            e2="DDI-MedLine.d178.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s0" text="[Infections with human immunodeficiency viruses. Part II: Antiretroviral drugs, therapeutic options, and diagnostics].">
+        <entity id="DDI-MedLine.d171.s0.e0" charOffset="58-77"
+            type="group" text="Antiretroviral drugs"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s1" text="Infections with the human immunodeficiency virus 1 (HIV- 1) lead to the acquired immunodeficiency syndrome (AIDS), resulting in the establishment of a wide range of severe opportunistic infections. "/>
+    <sentence id="DDI-MedLine.d171.s2" text="Since the introduction of the highly active antiretroviral therapy (HAART) into the treatment of HIV infections, in many cases a delayed appearance of AIDS-defining diseases is achievable. ">
+        <entity id="DDI-MedLine.d171.s2.e0" charOffset="30-57"
+            type="group" text="highly active antiretroviral"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s3" text="Life expectancy of antiretrovirally treated HIV-infected people applying HAART could be considerably extended and now resembles that of several other chronic diseases. "/>
+    <sentence id="DDI-MedLine.d171.s4" text="For the initial treatment of HIV-1 infection, an adjunction with three antiretroviral agents is generally used. ">
+        <entity id="DDI-MedLine.d171.s4.e0" charOffset="71-91"
+            type="group" text="antiretroviral agents"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s5" text="In most cases, the application of two nucleoside or nucleotide reverse transcriptase inhibitors (NRTI) together with a non-nucleoside reverse transcriptase inhibitor (NNRTI), a protease inhibitor (PI) or an integrase inhibitor (II) is recommended. ">
+        <entity id="DDI-MedLine.d171.s5.e0" charOffset="38-94"
+            type="group" text="nucleoside or nucleotide reverse transcriptase inhibitors"/>
+        <entity id="DDI-MedLine.d171.s5.e1" charOffset="97-100"
+            type="group" text="NRTI"/>
+        <entity id="DDI-MedLine.d171.s5.e2" charOffset="119-164"
+            type="group" text="non-nucleoside reverse transcriptase inhibitor"/>
+        <entity id="DDI-MedLine.d171.s5.e3" charOffset="167-171"
+            type="group" text="NNRTI"/>
+        <entity id="DDI-MedLine.d171.s5.e4" charOffset="177-194"
+            type="group" text="protease inhibitor"/>
+        <entity id="DDI-MedLine.d171.s5.e5" charOffset="197-198"
+            type="group" text="PI"/>
+        <entity id="DDI-MedLine.d171.s5.e6" charOffset="207-225"
+            type="group" text="integrase inhibitor"/>
+        <entity id="DDI-MedLine.d171.s5.e7" charOffset="228-229"
+            type="group" text="II"/>
+        <pair id="DDI-MedLine.d171.s5.p0" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p1" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p2" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p3" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p4" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p5" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p6" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p7" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p8" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p9" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p10" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p11" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p12" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p13" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p14" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p15" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p16" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p17" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p18" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p19" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p20" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p21" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p22" e1="DDI-MedLine.d171.s5.e4"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p23" e1="DDI-MedLine.d171.s5.e4"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p24" e1="DDI-MedLine.d171.s5.e4"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p25" e1="DDI-MedLine.d171.s5.e5"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p26" e1="DDI-MedLine.d171.s5.e5"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p27" e1="DDI-MedLine.d171.s5.e6"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s6" text="Before and during antiretroviral treatment, antiretroviral drug resistances, individual tolerance profiles and the needs of the individual patient, as well as several interactions with other drugs have to be considered. ">
+        <entity id="DDI-MedLine.d171.s6.e0" charOffset="18-31"
+            type="group" text="antiretroviral"/>
+        <entity id="DDI-MedLine.d171.s6.e1" charOffset="44-57"
+            type="group" text="antiretroviral"/>
+        <pair id="DDI-MedLine.d171.s6.p0" e1="DDI-MedLine.d171.s6.e0"
+            e2="DDI-MedLine.d171.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s7" text="Diagnostics of HIV infection is based upon the proof of specific antibodies."/>
+    <sentence id="DDI-MedLine.d192.s0" text="Identification of a dopamine receptor-mediated opiate reward memory switch in the basolateral amygdala-nucleus accumbens circuit.">
+        <entity id="DDI-MedLine.d192.s0.e0" charOffset="47-52"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s1" text="The basolateral amygdala (BLA), ventral tegmental area (VTA), and nucleus accumbens (NAc) play central roles in the processing of opiate-related associative reward learning and memory. ">
+        <entity id="DDI-MedLine.d192.s1.e0" charOffset="130-135"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s2" text="The BLA receives innervation from dopaminergic fibers originating in the VTA, and both dopamine (DA) D1 and D2 receptors are expressed in this region. "/>
+    <sentence id="DDI-MedLine.d192.s3" text="Using a combination of in vivo single-unit extracellular recording in the NAc combined with behavioral pharmacology studies, we have identified a double dissociation in the functional roles of DA D1 versus D2 receptor transmission in the BLA, which depends on opiate exposure state; ">
+        <entity id="DDI-MedLine.d192.s3.e0" charOffset="260-265"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s4" text="thus, in previously opiate-naive rats, blockade of intra-BLA D1, but not D2, receptor transmission blocked the acquisition of associative opiate reward memory, measured in an unbiased conditioned place preference procedure. ">
+        <entity id="DDI-MedLine.d192.s4.e0" charOffset="20-25"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s5" text="In direct contrast, in rats made opiate dependent and conditioned in a state of withdrawal, intra-BLA D2, but not D1, receptor blockade blocked opiate reward encoding. ">
+        <entity id="DDI-MedLine.d192.s5.e0" charOffset="33-38"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s5.e1" charOffset="144-149"
+            type="group" text="opiate"/>
+        <pair id="DDI-MedLine.d192.s5.p0" e1="DDI-MedLine.d192.s5.e0"
+            e2="DDI-MedLine.d192.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s6" text="This functional switch was dependent on cAMP signaling as comodulation of intra-BLA cAMP levels reversed or replicated the functional effects of intra-BLA D1 or D2 transmission during opiate reward processing. ">
+        <entity id="DDI-MedLine.d192.s6.e0" charOffset="184-189"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s7" text="Single-unit in vivo extracellular recordings performed in neurons of the NAc confirmed an opiate-state-dependent role for BLA D1/D2 transmission in NAc neuronal response patterns to morphine. ">
+        <entity id="DDI-MedLine.d192.s7.e0" charOffset="90-95"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s7.e1" charOffset="182-189"
+            type="drug" text="morphine"/>
+        <pair id="DDI-MedLine.d192.s7.p0" e1="DDI-MedLine.d192.s7.e0"
+            e2="DDI-MedLine.d192.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s8" text="Our results characterize and identify a novel opiate addiction switching mechanism directly in the BLA that can control the processing of opiate reward information as a direct function of opiate exposure state via D1 or D2 receptor signaling substrates.">
+        <entity id="DDI-MedLine.d192.s8.e0" charOffset="46-51"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s8.e1" charOffset="138-143"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s8.e2" charOffset="188-193"
+            type="group" text="opiate"/>
+        <pair id="DDI-MedLine.d192.s8.p0" e1="DDI-MedLine.d192.s8.e0"
+            e2="DDI-MedLine.d192.s8.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d192.s8.p1" e1="DDI-MedLine.d192.s8.e0"
+            e2="DDI-MedLine.d192.s8.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d192.s8.p2" e1="DDI-MedLine.d192.s8.e1"
+            e2="DDI-MedLine.d192.s8.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s0" text="Potential underuse, overuse, and inappropriate use of antidepressants in older veteran nursing home residents.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d203.s0.e0" charOffset="54-68"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s1" text="To examine prevalence and resident- and site-level factors associated with potential underuse, overuse, and inappropriate use of antidepressants in older Veterans Affairs (VA) Community Living Center (CLC) residents.">
+        <entity id="DDI-MedLine.d203.s1.e0" charOffset="129-143"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s2" text="Longitudinal study. "/>
+    <sentence id="DDI-MedLine.d203.s3" text="One hundred thirty-three VA CLCs. "/>
+    <sentence id="DDI-MedLine.d203.s4" text="Three thousand six hundred ninety-two veterans aged 65 and older admitted between January 1, 2004, and June 3, 2005, with long stays (    90 days). "/>
+    <sentence id="DDI-MedLine.d203.s5" text="Prevalence of potential underuse, inappropriate use, and overuse of antidepressants in residents with and without depression (as documented according to International Classification of Diseases, Ninth Revision, Clinical Modification, codes or Depression Rating Scale). ">
+        <entity id="DDI-MedLine.d203.s5.e0" charOffset="68-82"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s6" text="Selective serotonin reuptake inhibitors were the most commonly prescribed antidepressant. ">
+        <entity id="DDI-MedLine.d203.s6.e0" charOffset="0-38"
+            type="group" text="Selective serotonin reuptake inhibitors"/>
+        <entity id="DDI-MedLine.d203.s6.e1" charOffset="74-87"
+            type="group" text="antidepressant"/>
+        <pair id="DDI-MedLine.d203.s6.p0" e1="DDI-MedLine.d203.s6.e0"
+            e2="DDI-MedLine.d203.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s7" text="Of the 877 residents with depression, 25.4% did not receive an antidepressant, suggesting potential underuse. ">
+        <entity id="DDI-MedLine.d203.s7.e0" charOffset="63-76"
+            type="group" text="antidepressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s8" text="Of residents with depression who received antidepressants, 57.5% had potential inappropriate use due primarily to problems seen with drug-drug and drug-disease interactions. ">
+        <entity id="DDI-MedLine.d203.s8.e0" charOffset="42-56"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s9" text="Of the 2,815 residents who did not have depression, 1,190 (42.3%) were prescribed one or more antidepressants; ">
+        <entity id="DDI-MedLine.d203.s9.e0" charOffset="94-108"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s10" text="only 48 (4.0%) of these had a Food and Drug Administration-approved labeled indication, suggesting potential overuse. "/>
+    <sentence id="DDI-MedLine.d203.s11" text="Overall, only 17.6% of antidepressant use was appropriate (324/1,844). ">
+        <entity id="DDI-MedLine.d203.s11.e0" charOffset="23-36"
+            type="group" text="antidepressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s12" text="The only consistent resident factor associated with potential underuse and overuse use was taking an antipsychotic without evidence of schizophrenia (underuse: adjusted relative risk ratio (ARRR)=0.56, 95% confidence interval (CI)=0.33-0.94; overuse: adjusted odds ratio=1.52, 95% CI=1.21-1.91). ">
+        <entity id="DDI-MedLine.d203.s12.e0" charOffset="101-113"
+            type="group" text="antipsychotic"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s13" text="Having moderate to severe pain (ARRR=1.54, 95% CI=1.08-2.20) and the prescribing of an anxiolytic or hypnotic (ARRR=1.33, 95% CI=1.02-1.74) increased the risk of potential inappropriate antidepressant use. ">
+        <entity id="DDI-MedLine.d203.s13.e0" charOffset="87-96"
+            type="group" text="anxiolytic"/>
+        <entity id="DDI-MedLine.d203.s13.e1" charOffset="101-108"
+            type="group" text="hypnotic"/>
+        <entity id="DDI-MedLine.d203.s13.e2" charOffset="186-199"
+            type="group" text="antidepressant"/>
+        <pair id="DDI-MedLine.d203.s13.p0" e1="DDI-MedLine.d203.s13.e0"
+            e2="DDI-MedLine.d203.s13.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d203.s13.p1" e1="DDI-MedLine.d203.s13.e0"
+            e2="DDI-MedLine.d203.s13.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d203.s13.p2" e1="DDI-MedLine.d203.s13.e1"
+            e2="DDI-MedLine.d203.s13.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s14" text="Potential problems with the use of antidepressants were frequently observed in older U.S. ">
+        <entity id="DDI-MedLine.d203.s14.e0" charOffset="35-49"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s15" text="veteran CLC residents. "/>
+    <sentence id="DDI-MedLine.d203.s16" text="Future studies are needed to examine the true risks and benefits of antidepressant use in CLC and non-VA nursing homes.">
+        <entity id="DDI-MedLine.d203.s16.e0" charOffset="68-81"
+            type="group" text="antidepressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s0" text="Treatment of nicotine dependence with Chantix (varenicline).&#xd;&#xa;">
+        <entity id="DDI-MedLine.d222.s0.e0" charOffset="13-20"
+            type="drug" text="nicotine"/>
+        <entity id="DDI-MedLine.d222.s0.e1" charOffset="38-44"
+            type="brand" text="Chantix"/>
+        <entity id="DDI-MedLine.d222.s0.e2" charOffset="47-57"
+            type="drug" text="varenicline"/>
+        <pair id="DDI-MedLine.d222.s0.p0" e1="DDI-MedLine.d222.s0.e0"
+            e2="DDI-MedLine.d222.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s0.p1" e1="DDI-MedLine.d222.s0.e0"
+            e2="DDI-MedLine.d222.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s0.p2" e1="DDI-MedLine.d222.s0.e1"
+            e2="DDI-MedLine.d222.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s1" text="Varenicline is the generic name for Chantix, the newest drug available for the treatment of tobacco dependence. ">
+        <entity id="DDI-MedLine.d222.s1.e0" charOffset="0-10"
+            type="drug" text="Varenicline"/>
+        <entity id="DDI-MedLine.d222.s1.e1" charOffset="36-42"
+            type="brand" text="Chantix"/>
+        <pair id="DDI-MedLine.d222.s1.p0" e1="DDI-MedLine.d222.s1.e0"
+            e2="DDI-MedLine.d222.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s2" text="In a randomized controlled clinical trial, the abstinence rate at 1 year for patients using varencline was superior to that of patients in the group using bupropion SR (Zyban) and in the placebo group (11). ">
+        <entity id="DDI-MedLine.d222.s2.e0" charOffset="92-101"
+            type="drug" text="varencline"/>
+        <entity id="DDI-MedLine.d222.s2.e1" charOffset="155-166"
+            type="drug" text="bupropion SR"/>
+        <entity id="DDI-MedLine.d222.s2.e2" charOffset="169-173"
+            type="brand" text="Zyban"/>
+        <pair id="DDI-MedLine.d222.s2.p0" e1="DDI-MedLine.d222.s2.e0"
+            e2="DDI-MedLine.d222.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s2.p1" e1="DDI-MedLine.d222.s2.e0"
+            e2="DDI-MedLine.d222.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s2.p2" e1="DDI-MedLine.d222.s2.e1"
+            e2="DDI-MedLine.d222.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s3" text="Varenicline reduces nicotine withdrawal symptoms, cigarette craving and nicotine satisfaction. ">
+        <entity id="DDI-MedLine.d222.s3.e0" charOffset="0-10"
+            type="drug" text="Varenicline"/>
+        <entity id="DDI-MedLine.d222.s3.e1" charOffset="20-27"
+            type="drug" text="nicotine"/>
+        <entity id="DDI-MedLine.d222.s3.e2" charOffset="72-79"
+            type="drug" text="nicotine"/>
+        <pair id="DDI-MedLine.d222.s3.p0" e1="DDI-MedLine.d222.s3.e0"
+            e2="DDI-MedLine.d222.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s3.p1" e1="DDI-MedLine.d222.s3.e0"
+            e2="DDI-MedLine.d222.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s3.p2" e1="DDI-MedLine.d222.s3.e1"
+            e2="DDI-MedLine.d222.s3.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s4" text="Post-market reports prompted a warning of serious adverse neuropsychiatric events in patients taking varenicline. ">
+        <entity id="DDI-MedLine.d222.s4.e0" charOffset="101-111"
+            type="drug" text="varenicline"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s5" text="As is the case with any surgical procedure and/or prescription medication, full disclosure of the risks and benefits should be discussed with the patient. "/>
+    <sentence id="DDI-MedLine.d222.s6" text="The significant health benefits of quitting smoking should be weighed against the individual's risk of adverse events associated with the use of varenicline for smoking cessation.">
+        <entity id="DDI-MedLine.d222.s6.e0" charOffset="145-155"
+            type="drug" text="varenicline"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s0" text="[Study on synergic and decreasing toxic effects of mineral water and Chinese herbal compound preparation on cisplatin].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d191.s0.e0" charOffset="108-116"
+            type="drug" text="cisplatin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s1" text="The synergic and decreasing toxic effects of mineral water and Chinese herbal compound preparation (MWCHCP) on cisplatin were investigated in sarcoma 180 (S180) mice.">
+        <entity id="DDI-MedLine.d191.s1.e0" charOffset="111-119"
+            type="drug" text="cisplatin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s2" text="The S180 mice were treated for 5 days with intraperitoneal injection of cisplatin(7.33 mg x kg(-1)) and oral administration of MWCHCP(1 925, 3 850, 7 700 mg x kg(-1)). ">
+        <entity id="DDI-MedLine.d191.s2.e0" charOffset="72-80"
+            type="drug" text="cisplatin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s3" text="Then the mice were killed and the tumor growth inhibition rate, organ index, diarrhea index were determined. "/>
+    <sentence id="DDI-MedLine.d191.s4" text="Observe pathological sections of stomach to study the protective effect of MWCHCP. "/>
+    <sentence id="DDI-MedLine.d191.s5" text="Reverse transcription-polymerase chain reaction (RT-PCR) was applied to investigate the tumour necrosis factor-alpha (TNF-alpha) expression level of the intestine. "/>
+    <sentence id="DDI-MedLine.d191.s6" text="Combining with cisplatin and MWCHCP caused a tendency of increasing the tumor growth inhibition rate and significant attenution of cisplatin-induced diarrhea, visceral organ injury, gastric mucosal injury and decreased TNF-alpha mRNA level of intestine. ">
+        <entity id="DDI-MedLine.d191.s6.e0" charOffset="15-23"
+            type="drug" text="cisplatin"/>
+        <entity id="DDI-MedLine.d191.s6.e1" charOffset="131-139"
+            type="drug" text="cisplatin"/>
+        <pair id="DDI-MedLine.d191.s6.p0" e1="DDI-MedLine.d191.s6.e0"
+            e2="DDI-MedLine.d191.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s7" text="The present findings suggest that MWCHCP increases the inhibition rate of tumor growth of cisplatin and has a beneficial influence on gastrointestinal lesion induced by cisplatin.">
+        <entity id="DDI-MedLine.d191.s7.e0" charOffset="90-98"
+            type="drug" text="cisplatin"/>
+        <entity id="DDI-MedLine.d191.s7.e1" charOffset="169-177"
+            type="drug" text="cisplatin"/>
+        <pair id="DDI-MedLine.d191.s7.p0" e1="DDI-MedLine.d191.s7.e0"
+            e2="DDI-MedLine.d191.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s0" text="CPP-ACP complex as a new adjunctive agent for remineralisation: a review.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d165.s0.e0" charOffset="0-14"
+            type="drug_n" text="CPP-ACP complex"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s1" text="In addition to regular professional oral hygiene visits and the application of appropriate preventive medications, successful preventive strategies involve oral health promotion, patient education and patient compliance. "/>
+    <sentence id="DDI-MedLine.d165.s2" text="The Casein phosphopeptide-amorphous calcium phosphate (CPP-ACP) complex has been shown to remineralise tooth surfaces in situ when delivered in oral care products. ">
+        <entity id="DDI-MedLine.d165.s2.e0" charOffset="4-70"
+            type="drug_n" text="Casein phosphopeptide-amorphous calcium phosphate (CPP-ACP) complex"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s3" text="This complex has a unique ability to deliver bio-available calcium and phosphate when they are needed most. ">
+        <entity id="DDI-MedLine.d165.s3.e0" charOffset="59-65"
+            type="drug" text="calcium"/>
+        <entity id="DDI-MedLine.d165.s3.e1" charOffset="71-79"
+            type="drug" text="phosphate"/>
+        <pair id="DDI-MedLine.d165.s3.p0" e1="DDI-MedLine.d165.s3.e0"
+            e2="DDI-MedLine.d165.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s4" text="The effectiveness of casein derivatives, specifically CCP-ACP, in caries prevention and lesion reversal has been supported by many controlled clinical studies. ">
+        <entity id="DDI-MedLine.d165.s4.e0" charOffset="54-60"
+            type="drug_n" text="CCP-ACP"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s5" text="This review summarises the research on Casein phosphopeptide-amorphous calcium phosphate complex and provides information related to its benefit in dentistry. ">
+        <entity id="DDI-MedLine.d165.s5.e0" charOffset="39-95"
+            type="drug_n" text="Casein phosphopeptide-amorphous calcium phosphate complex"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s6" text="Further research is required to provide a scientifically supported recommendation for other clinical applications."/>
+    <sentence id="DDI-MedLine.d145.s0" text="IGF1R-targeted therapy and its enhancement of doxorubicin chemosensitivity in human osteosarcoma cell lines.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d145.s0.e0" charOffset="46-56"
+            type="drug" text="doxorubicin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d145.s1" text="Type-I insulin-like growth factor receptor (IGF1R) and its signaling play an important role in osteosarcomagenesis, tumor progression, and chemoresistance. "/>
+    <sentence id="DDI-MedLine.d145.s2" text="The purpose of this study was to investigate both the effect and mechanisms of IGF1R inhibition by tyrphostin AG1024 in the presence or absence of doxorubicin in a panel of six osteosarcoma cell lines and a self-established doxorubicin-resistant cell line. ">
+        <entity id="DDI-MedLine.d145.s2.e0" charOffset="99-115"
+            type="drug_n" text="tyrphostin AG1024"/>
+        <entity id="DDI-MedLine.d145.s2.e1" charOffset="147-157"
+            type="drug" text="doxorubicin"/>
+        <entity id="DDI-MedLine.d145.s2.e2" charOffset="224-234"
+            type="drug" text="doxorubicin"/>
+        <pair id="DDI-MedLine.d145.s2.p0" e1="DDI-MedLine.d145.s2.e0"
+            e2="DDI-MedLine.d145.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d145.s2.p1" e1="DDI-MedLine.d145.s2.e0"
+            e2="DDI-MedLine.d145.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d145.s2.p2" e1="DDI-MedLine.d145.s2.e1"
+            e2="DDI-MedLine.d145.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d145.s3" text="We are the first to indicate that targeting IGF1R together with doxorubicin achieved additive anti-osteosarcoma growth effect, accompanied with increased apoptosis, cytotoxicity, and dual cell cycle arrests. ">
+        <entity id="DDI-MedLine.d145.s3.e0" charOffset="64-74"
+            type="drug" text="doxorubicin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d145.s4" text="In conclusion, IGF1R inhibition can enhance doxorubicin chemotherapy in some osteosarcoma cell lines.">
+        <entity id="DDI-MedLine.d145.s4.e0" charOffset="44-54"
+            type="drug" text="doxorubicin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s0" text="[Variability of cannabinoid findings in blood].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d187.s0.e0" charOffset="16-26"
+            type="drug_n" text="cannabinoid"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s1" text="Cannabis products have been administered for many centuries; "/>
+    <sentence id="DDI-MedLine.d187.s2" text="today, cannabis is the most widely used illegal drug all over the world. "/>
+    <sentence id="DDI-MedLine.d187.s3" text="Nevertheless, the interpretation of cannabis findings in blood with regard to consumption behaviour and/or estimating the elapsed time since the last cannabis use is still a very challenging task. "/>
+    <sentence id="DDI-MedLine.d187.s4" text="A wide variation of pharmacokinetic parameters has been observed even in experimental studies. "/>
+    <sentence id="DDI-MedLine.d187.s5" text="Different chemical structures of precursors, smoking dynamics, pyrolysis of phytocannabinoids and frequency of drug use affect the amount of THC absorbed. ">
+        <entity id="DDI-MedLine.d187.s5.e0" charOffset="76-92"
+            type="drug_n" text="phytocannabinoids"/>
+        <entity id="DDI-MedLine.d187.s5.e1" charOffset="141-143"
+            type="drug_n" text="THC"/>
+        <pair id="DDI-MedLine.d187.s5.p0" e1="DDI-MedLine.d187.s5.e0"
+            e2="DDI-MedLine.d187.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s6" text="Polymorphic enzymes are involved in phase-I-metabolism of THC. ">
+        <entity id="DDI-MedLine.d187.s6.e0" charOffset="58-60"
+            type="drug_n" text="THC"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s7" text="Pharmacological effects of other cannabinoids or medication on the pharmacokinetics of THC have not yet been studied in detail. ">
+        <entity id="DDI-MedLine.d187.s7.e0" charOffset="33-44"
+            type="drug_n" text="cannabinoids"/>
+        <entity id="DDI-MedLine.d187.s7.e1" charOffset="87-89"
+            type="drug_n" text="THC"/>
+        <pair id="DDI-MedLine.d187.s7.p0" e1="DDI-MedLine.d187.s7.e0"
+            e2="DDI-MedLine.d187.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s8" text="Hydrolysis of cannabis conjugates may occur during storage of blood samples and processing of specimens for analysis; "/>
+    <sentence id="DDI-MedLine.d187.s9" text="knowledge on the stability of cannabinoids in forensic specimens is still poor. ">
+        <entity id="DDI-MedLine.d187.s9.e0" charOffset="30-41"
+            type="drug_n" text="cannabinoids"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s10" text="Whether determination of cannabinoid conjugates may be useful is a matter of further consideration. ">
+        <entity id="DDI-MedLine.d187.s10.e0" charOffset="25-35"
+            type="drug_n" text="cannabinoid"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s11" text="At present, the broad variation of pharmacokinetic parameters and the limiting factors discussed in the present paper should be taken into account when using data from experimental studies for interpretation of analytical results in forensic case work."/>
+    <sentence id="DDI-MedLine.d148.s0" text="A circadian clock in hippocampus is regulated by interaction between oligophrenin-1 and Rev-erb  .&#xd;&#xa;Oligophrenin-1 regulates dendritic spine morphology in the brain. "/>
+    <sentence id="DDI-MedLine.d148.s1" text="Mutations in the oligophrenin-1 gene (OPHN1) cause intellectual disability. "/>
+    <sentence id="DDI-MedLine.d148.s2" text="We discovered a previously unknown partner of oligophrenin-1, Rev-erb  , a nuclear receptor that represses the transcription of circadian oscillators. "/>
+    <sentence id="DDI-MedLine.d148.s3" text="We found that oligophrenin-1 interacts with Rev-erb   in the mouse brain, causing it to locate to dendrites, reducing its repressor activity and protecting it from degradation. "/>
+    <sentence id="DDI-MedLine.d148.s4" text="Our results indicate the presence of a circadian oscillator in the hippocampus, involving the clock gene Bmal1 (also known as Arntl), that is modulated by Rev-erb   and requires oligophrenin-1 for normal oscillation. "/>
+    <sentence id="DDI-MedLine.d148.s5" text="We also found that synaptic activity induced Rev-erb   localization to dendrites and spines, a process that is mediated by AMPA receptor activation and requires oligophrenin-1. "/>
+    <sentence id="DDI-MedLine.d148.s6" text="Our data reveal new interactions between synaptic activity and circadian oscillators, and delineate a new means of communication between nucleus and synapse that may provide insight into normal plasticity and the etiology of intellectual disability."/>
+    <sentence id="DDI-MedLine.d174.s0" text="[Cyclooxygenase inhibitors and antiplatelet effect of acetylsalicylic acid. selective approach to nonsteroidal anti-inflammatory drugs in cardiological practice].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d174.s0.e0" charOffset="1-25"
+            type="group" text="Cyclooxygenase inhibitors"/>
+        <entity id="DDI-MedLine.d174.s0.e1" charOffset="54-73"
+            type="drug" text="acetylsalicylic acid"/>
+        <entity id="DDI-MedLine.d174.s0.e2" charOffset="98-133"
+            type="group" text="nonsteroidal anti-inflammatory drugs"/>
+        <pair id="DDI-MedLine.d174.s0.p0" e1="DDI-MedLine.d174.s0.e0"
+            e2="DDI-MedLine.d174.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s0.p1" e1="DDI-MedLine.d174.s0.e0"
+            e2="DDI-MedLine.d174.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s0.p2" e1="DDI-MedLine.d174.s0.e1"
+            e2="DDI-MedLine.d174.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d174.s1" text="Nonsteroidal anti-inflammatory drugs (NSAIDs) represent class of medicines which is wide concerning chemical structure and mechanism of action. ">
+        <entity id="DDI-MedLine.d174.s1.e0" charOffset="0-35"
+            type="group" text="Nonsteroidal anti-inflammatory drugs"/>
+        <entity id="DDI-MedLine.d174.s1.e1" charOffset="38-43"
+            type="group" text="NSAIDs"/>
+        <pair id="DDI-MedLine.d174.s1.p0" e1="DDI-MedLine.d174.s1.e0"
+            e2="DDI-MedLine.d174.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d174.s2" text="In the light of contradictory data on efficacy and safety of NSAID in cardiovascular patients selection of most appropriate NSAID (basing on profile of efficacy and safety) in patients receiving continuous therapy with low dose aspirin appears to be a problem. ">
+        <entity id="DDI-MedLine.d174.s2.e0" charOffset="61-65"
+            type="group" text="NSAID"/>
+        <entity id="DDI-MedLine.d174.s2.e1" charOffset="124-128"
+            type="group" text="NSAID"/>
+        <entity id="DDI-MedLine.d174.s2.e2" charOffset="228-234"
+            type="brand" text="aspirin"/>
+        <pair id="DDI-MedLine.d174.s2.p0" e1="DDI-MedLine.d174.s2.e0"
+            e2="DDI-MedLine.d174.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s2.p1" e1="DDI-MedLine.d174.s2.e0"
+            e2="DDI-MedLine.d174.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s2.p2" e1="DDI-MedLine.d174.s2.e1"
+            e2="DDI-MedLine.d174.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d174.s3" text="In this paper we discuss peculiarities of drug interaction between cyclooxygenase inhibitors and acetylsalicylic acid, and principles of selection of adequate NSAI.">
+        <entity id="DDI-MedLine.d174.s3.e0" charOffset="67-91"
+            type="group" text="cyclooxygenase inhibitors"/>
+        <entity id="DDI-MedLine.d174.s3.e1" charOffset="97-116"
+            type="drug" text="acetylsalicylic acid"/>
+        <entity id="DDI-MedLine.d174.s3.e2" charOffset="159-162"
+            type="group" text="NSAI"/>
+        <pair id="DDI-MedLine.d174.s3.p0" e1="DDI-MedLine.d174.s3.e0"
+            e2="DDI-MedLine.d174.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s3.p1" e1="DDI-MedLine.d174.s3.e0"
+            e2="DDI-MedLine.d174.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s3.p2" e1="DDI-MedLine.d174.s3.e1"
+            e2="DDI-MedLine.d174.s3.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d157.s0" text="Tradition and toxicity: evidential cultures in the kava safety debate.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d157.s1" text="This paper examines the debate about the safety of kava (Piper methysticum Forst. f, Piperaceae), a plant native to Oceania, where it has a long history of traditional use. "/>
+    <sentence id="DDI-MedLine.d157.s2" text="Kava became popular as an anti-anxiety treatment in Western countries in the late 1990s, but it was subsequently banned in many places due to adverse reports of liver toxicity. "/>
+    <sentence id="DDI-MedLine.d157.s3" text="This paper focuses on the responses to the bans by scientists involved in kava research, contrasting their evidential culture with that employed by clinicians and regulatory officials. "/>
+    <sentence id="DDI-MedLine.d157.s4" text="Cultural constructions and social negotiations of risk are shown to be context-specific, and are shaped by professional, disciplinary, and organizational factors, among others. "/>
+    <sentence id="DDI-MedLine.d157.s5" text="Though the science of hepatotoxicity is uncertain enough to allow for multiple interpretations of the same data, the biomedical/clinical narrative about kava remains dominant. "/>
+    <sentence id="DDI-MedLine.d157.s6" text="This case study explores the influence of these cultural, social, and political factors on the production of scientific knowledge and the assessment of benefit/risk posed by comestibles."/>
+    <sentence id="DDI-MedLine.d221.s0" text="An autopsy case of multiple psychotropic drug poisoning.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d221.s0.e0" charOffset="28-44"
+            type="group" text="psychotropic drug"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d221.s1" text="A fatal poisoning case involving etizolam, phenobarbital, promethazine and chlorpromazine is presented. ">
+        <entity id="DDI-MedLine.d221.s1.e0" charOffset="33-40"
+            type="drug" text="etizolam"/>
+        <entity id="DDI-MedLine.d221.s1.e1" charOffset="43-55"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-MedLine.d221.s1.e2" charOffset="58-69"
+            type="drug" text="promethazine"/>
+        <entity id="DDI-MedLine.d221.s1.e3" charOffset="75-88"
+            type="drug" text="chlorpromazine"/>
+        <pair id="DDI-MedLine.d221.s1.p0" e1="DDI-MedLine.d221.s1.e0"
+            e2="DDI-MedLine.d221.s1.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p1" e1="DDI-MedLine.d221.s1.e0"
+            e2="DDI-MedLine.d221.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p2" e1="DDI-MedLine.d221.s1.e0"
+            e2="DDI-MedLine.d221.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p3" e1="DDI-MedLine.d221.s1.e1"
+            e2="DDI-MedLine.d221.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p4" e1="DDI-MedLine.d221.s1.e1"
+            e2="DDI-MedLine.d221.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p5" e1="DDI-MedLine.d221.s1.e2"
+            e2="DDI-MedLine.d221.s1.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d221.s2" text="Quantitative toxicological analysis showed that the concentrations of etizolam, phenobarbital, promethazine and chlorpromazine in the femoral blood were 86 ng/ml, 5082 microg/ml, 0.107 microg/ml and 0.144 microg/ml, respectively, and large amounts of drugs were also detected in the stomach contents. ">
+        <entity id="DDI-MedLine.d221.s2.e0" charOffset="70-77"
+            type="drug" text="etizolam"/>
+        <entity id="DDI-MedLine.d221.s2.e1" charOffset="80-92"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-MedLine.d221.s2.e2" charOffset="95-106"
+            type="drug" text="promethazine"/>
+        <entity id="DDI-MedLine.d221.s2.e3" charOffset="112-125"
+            type="drug" text="chlorpromazine"/>
+        <pair id="DDI-MedLine.d221.s2.p0" e1="DDI-MedLine.d221.s2.e0"
+            e2="DDI-MedLine.d221.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p1" e1="DDI-MedLine.d221.s2.e0"
+            e2="DDI-MedLine.d221.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p2" e1="DDI-MedLine.d221.s2.e0"
+            e2="DDI-MedLine.d221.s2.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p3" e1="DDI-MedLine.d221.s2.e1"
+            e2="DDI-MedLine.d221.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p4" e1="DDI-MedLine.d221.s2.e1"
+            e2="DDI-MedLine.d221.s2.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p5" e1="DDI-MedLine.d221.s2.e2"
+            e2="DDI-MedLine.d221.s2.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d221.s3" text="We conclude that the cause of death was due to the interaction of multiple psychotropic drugs.">
+        <entity id="DDI-MedLine.d221.s3.e0" charOffset="75-92"
+            type="group" text="psychotropic drugs"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d188.s0" text="It makes scents.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d188.s1" text="Aromatherapy, and the claims made for it, is the subject of the second article in our six-part series on alternative and complementary therapies."/>
+    <sentence id="DDI-MedLine.d228.s0" text="Pulmonary tuberculosis: clinical features and patient management.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d228.s1" text="Pulmonary tuberculosis (TB) is a common infectious disease and a major cause of illness and death throughout the world, particularly in developing countries. "/>
+    <sentence id="DDI-MedLine.d228.s2" text="This article explores the difference between latent TB infection and active TB disease, and discusses the pharmacological management of TB and issues around adherence to medication. "/>
+    <sentence id="DDI-MedLine.d228.s3" text="Although TB is usually managed by specialist teams it is essential that all practitioners have an understanding of the signs and symptoms of the disease to ensure early referral and accurate diagnosis."/>
+    <sentence id="DDI-MedLine.d215.s0" text="In-vitro antimicrobial activity and synergistic/antagonistic effect of interactions between antibiotics and some spice essential oils.">
+        <entity id="DDI-MedLine.d215.s0.e0" charOffset="92-102"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s1" text="Spices and herbs have been used for many years by different cultures. "/>
+    <sentence id="DDI-MedLine.d215.s2" text="The aim of the present study is (1) to investigate in-vitro antimicrobial effects of different spices and herbs (5 species: Rosmarinus officinalis (Rosemary), Coriandrum sativum (coriander), Micromeria fruticosa (L.) "/>
+    <sentence id="DDI-MedLine.d215.s3" text="Druce subsp. "/>
+    <sentence id="DDI-MedLine.d215.s4" text="Brachycalyx P.H. "/>
+    <sentence id="DDI-MedLine.d215.s5" text="Davis (White micromeria), Cumium cyminum (cumin), Mentha piperita (Peppermint) against different bacteria and fungi species, and (2) to discuss the in-vitro possible effects between the plants and antibiotics. ">
+        <entity id="DDI-MedLine.d215.s5.e0" charOffset="197-207"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s6" text="The microorganisms used were Micrococcus luteus LA 2971, Bacillus megaterium NRS, Bacillus brevis FMC 3, Enterococcus faecalis ATCC 15753, Pseudomonas pyocyaneus DC 127, Mycobacterium smegmatis CCM 2067, Escherichia coil DM, Aeromonas hydrophila ATCC 7966, Yersinia enterocolitica AU 19, Staphylococcus aureus Cowan 1, Streptococcus faecalis DC 74 bacteria, and Saccharomyces cerevisiae WET 136, Kluvyeromyces fragilis DC 98 fungi in this study. "/>
+    <sentence id="DDI-MedLine.d215.s7" text="The results indicated that essential oils of Rosmarinus officinalis, Coriandrum sativum L., Micromeria fruticosa (L.) "/>
+    <sentence id="DDI-MedLine.d215.s8" text="Druce subsp. "/>
+    <sentence id="DDI-MedLine.d215.s9" text="brachycalyx P.H. "/>
+    <sentence id="DDI-MedLine.d215.s10" text="Davis, Cumium cyminum L., Mentha piperita L. "/>
+    <sentence id="DDI-MedLine.d215.s11" text="were shown antimicrobial activity in the range of 7-60 mm 2 microl(-1) inhibition zone to the microorganisms tested, using disc diffusion method. "/>
+    <sentence id="DDI-MedLine.d215.s12" text="Standard antibiotic such as Gentamicin (10 microg), Cephalothin (30 microg), Ceftriaxone (10 microg), Nystatin (10 U) discs were used for comparison with the antimicrobial activities of essential oils of these plants. ">
+        <entity id="DDI-MedLine.d215.s12.e0" charOffset="9-18"
+            type="group" text="antibiotic"/>
+        <entity id="DDI-MedLine.d215.s12.e1" charOffset="28-37"
+            type="drug" text="Gentamicin"/>
+        <entity id="DDI-MedLine.d215.s12.e2" charOffset="52-62"
+            type="drug" text="Cephalothin"/>
+        <entity id="DDI-MedLine.d215.s12.e3" charOffset="77-87"
+            type="drug" text="Ceftriaxone"/>
+        <entity id="DDI-MedLine.d215.s12.e4" charOffset="102-109"
+            type="drug" text="Nystatin"/>
+        <pair id="DDI-MedLine.d215.s12.p0" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p1" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p2" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p3" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p4" e1="DDI-MedLine.d215.s12.e1"
+            e2="DDI-MedLine.d215.s12.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p5" e1="DDI-MedLine.d215.s12.e1"
+            e2="DDI-MedLine.d215.s12.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p6" e1="DDI-MedLine.d215.s12.e1"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p7" e1="DDI-MedLine.d215.s12.e2"
+            e2="DDI-MedLine.d215.s12.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p8" e1="DDI-MedLine.d215.s12.e2"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p9" e1="DDI-MedLine.d215.s12.e3"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s13" text="In addition, antibacterial activity of essential oils of these plants was researched by effects when it was used together with these standard antibiotics in vitro. ">
+        <entity id="DDI-MedLine.d215.s13.e0" charOffset="142-152"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s14" text="However, antibacterial activity changed also by in vitro interactions between these standard antibiotics and essential oils of these plants. ">
+        <entity id="DDI-MedLine.d215.s14.e0" charOffset="93-103"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s15" text="Synergic, additive or antagonist effects were observed in antibacterial activity."/>
+    <sentence id="DDI-MedLine.d170.s0" text="Positive shifts of the GABAA receptor reversal potential due to altered chloride homeostasis is widespread after status epilepticus.&#xd;&#xa;  "/>
+    <sentence id="DDI-MedLine.d170.s1" text="-Aminobutyric acid (GABA)ergic transmission plays an important role in the initiation of epileptic activity and the generation of ictal discharges."/>
+    <sentence id="DDI-MedLine.d170.s2" text="The functional alterations in the epileptiform hippocampus critically depend on GABAergic mechanisms and cation-chloride cotransporters."/>
+    <sentence id="DDI-MedLine.d170.s3" text="To understand the cellular basis of specific functional alterations in the epileptic hippocampus, we studied physiologic characteristics and pharmacologically isolated evoked GABA(A) receptor-mediated inhibitory postsynaptic currents (IPSCs) recorded from principal neurons in hippocampal slices from status epilepticus (SE) and control rats using whole-cell and gramicidin perforated patch-clamp recordings. "/>
+    <sentence id="DDI-MedLine.d170.s4" text="Whereas the resting membrane potential and input resistance were not significantly different between control and epileptic tissue, the reversal potential (E(GABA) ) of IPSCs was significantly shifted to more positive values in SE rats with regard to the resting membrane potential. "/>
+    <sentence id="DDI-MedLine.d170.s5" text="Pharmacologic experiments and quantitative reverse transcriptase polymerase chain reaction (RT-PCR) showed that the observed changes in the epileptic tissue were due to a decreased ratio of the main Cl(-) extrusion transporter (K(+) -Cl(-) cotransporter, KCC2) to the main Cl(-) uptake transporter (Na(+) -K(+) -2Cl(-) cotransporter, NKCC1). "/>
+    <sentence id="DDI-MedLine.d170.s6" text="Our results suggest that alterations of cation-chloride cotransporter functions, comprising a higher NKCC1 action, contribute to hyperexcitability within the hippocampus following SE."/>
+    <sentence id="DDI-MedLine.d220.s0" text="Evaluation of hepatic clearance and drug-drug interactions of luteolin and apigenin by using primary cultured rat hepatocytes.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d220.s0.e0" charOffset="62-69"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s0.e1" charOffset="75-82"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s0.p0" e1="DDI-MedLine.d220.s0.e0"
+            e2="DDI-MedLine.d220.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s1" text="The hepatic clearance and drug-drug interactions of luteolin and apigenin were studied by using primary cultured rat hepatocytes. ">
+        <entity id="DDI-MedLine.d220.s1.e0" charOffset="52-59"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s1.e1" charOffset="65-72"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s1.p0" e1="DDI-MedLine.d220.s1.e0"
+            e2="DDI-MedLine.d220.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s2" text="Luteolin and apigenin experienced extensive first-pass metabolism. ">
+        <entity id="DDI-MedLine.d220.s2.e0" charOffset="0-7"
+            type="drug_n" text="Luteolin"/>
+        <entity id="DDI-MedLine.d220.s2.e1" charOffset="13-20"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s2.p0" e1="DDI-MedLine.d220.s2.e0"
+            e2="DDI-MedLine.d220.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s3" text="The elimination percent of luteolin and apigenin was found to be 91.9% and 86.7% after 120 min of incubation. ">
+        <entity id="DDI-MedLine.d220.s3.e0" charOffset="27-34"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s3.e1" charOffset="40-47"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s3.p0" e1="DDI-MedLine.d220.s3.e0"
+            e2="DDI-MedLine.d220.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s4" text="The predicted % liver blood flow was 82.3% and 85.4% for luteolin and apigenin, respectively. ">
+        <entity id="DDI-MedLine.d220.s4.e0" charOffset="57-64"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s4.e1" charOffset="70-77"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s4.p0" e1="DDI-MedLine.d220.s4.e0"
+            e2="DDI-MedLine.d220.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s5" text="Total glucuronidated/sulfated conjugates of luteolin/apigenin were determined by an enzyme hydrolysis method. "/>
+    <sentence id="DDI-MedLine.d220.s6" text="Compared with the elimination of pure luteolin and apigenin, the elimination of luteolin and apigenin was much lower in hydrolyzed Flos Chrysanthemi extract (FCE) containing comparable amounts of luteolin and apigenin. ">
+        <entity id="DDI-MedLine.d220.s6.e0" charOffset="38-45"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s6.e1" charOffset="51-58"
+            type="drug_n" text="apigenin"/>
+        <entity id="DDI-MedLine.d220.s6.e2" charOffset="80-87"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s6.e3" charOffset="93-100"
+            type="drug_n" text="apigenin"/>
+        <entity id="DDI-MedLine.d220.s6.e4" charOffset="196-203"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s6.e5" charOffset="209-216"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s6.p0" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p1" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p2" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p3" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p4" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p5" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p6" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p7" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p8" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p9" e1="DDI-MedLine.d220.s6.e2"
+            e2="DDI-MedLine.d220.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p10" e1="DDI-MedLine.d220.s6.e2"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p11" e1="DDI-MedLine.d220.s6.e2"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p12" e1="DDI-MedLine.d220.s6.e3"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p13" e1="DDI-MedLine.d220.s6.e3"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p14" e1="DDI-MedLine.d220.s6.e4"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s7" text="The effect of a series of flavonoids, including flavonols, flavones, isoflavone, flavanone, flavanonols and catechins, on the elimination of luteolin and apigenin was studied. ">
+        <entity id="DDI-MedLine.d220.s7.e0" charOffset="26-35"
+            type="drug_n" text="flavonoids"/>
+        <entity id="DDI-MedLine.d220.s7.e1" charOffset="48-56"
+            type="drug_n" text="flavonols"/>
+        <entity id="DDI-MedLine.d220.s7.e2" charOffset="59-66"
+            type="drug_n" text="flavones"/>
+        <entity id="DDI-MedLine.d220.s7.e3" charOffset="69-78"
+            type="drug_n" text="isoflavone"/>
+        <entity id="DDI-MedLine.d220.s7.e4" charOffset="81-89"
+            type="drug_n" text="flavanone"/>
+        <entity id="DDI-MedLine.d220.s7.e5" charOffset="92-102"
+            type="drug_n" text="flavanonols"/>
+        <entity id="DDI-MedLine.d220.s7.e6" charOffset="108-116"
+            type="drug_n" text="catechins"/>
+        <entity id="DDI-MedLine.d220.s7.e7" charOffset="141-148"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s7.e8" charOffset="154-161"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s7.p0" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p1" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p2" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p3" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p4" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p5" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p6" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p7" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p8" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p9" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p10" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p11" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p12" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p13" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p14" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p15" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p16" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p17" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p18" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p19" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p20" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p21" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p22" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p23" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p24" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p25" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p26" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p27" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p28" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p29" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p30" e1="DDI-MedLine.d220.s7.e5"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p31" e1="DDI-MedLine.d220.s7.e5"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p32" e1="DDI-MedLine.d220.s7.e5"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p33" e1="DDI-MedLine.d220.s7.e6"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p34" e1="DDI-MedLine.d220.s7.e6"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p35" e1="DDI-MedLine.d220.s7.e7"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s8" text="At least four key determinants in the chemical structures of flavonoids are necessary for exerting the inhibitory effects on the conjugation: 1) catechol structure (3',4'-dihydroxylation) in the B-ring; ">
+        <entity id="DDI-MedLine.d220.s8.e0" charOffset="61-70"
+            type="drug_n" text="flavonoids"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s9" text="2) B-ring is attached to the C-2 position on the C-ring; "/>
+    <sentence id="DDI-MedLine.d220.s10" text="3) the C2-3 double bond in conjunction with the C4 carbonyl group on the C-ring; "/>
+    <sentence id="DDI-MedLine.d220.s11" text="4) no glycoside present. "/>
+    <sentence id="DDI-MedLine.d220.s12" text="Investigation of clearance and interaction among flavonoids could help us better understand their bioavailability and offer insight into the approaches to be taken to minimize competitive effects, and to design appropriate bioavailability studies in humans.">
+        <entity id="DDI-MedLine.d220.s12.e0" charOffset="49-58"
+            type="drug_n" text="flavonoids"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s0" text="Evaluation of antidepressant like activity of curcumin and its combination with fluoxetine and imipramine: an acute and chronic study.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d206.s0.e0" charOffset="46-53"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s0.e1" charOffset="80-89"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s0.e2" charOffset="95-104"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s0.p0" e1="DDI-MedLine.d206.s0.e0"
+            e2="DDI-MedLine.d206.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s0.p1" e1="DDI-MedLine.d206.s0.e0"
+            e2="DDI-MedLine.d206.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s0.p2" e1="DDI-MedLine.d206.s0.e1"
+            e2="DDI-MedLine.d206.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s1" text="Curcumin is the active ingredient of commonly used spice Curuma longa Linn. ">
+        <entity id="DDI-MedLine.d206.s1.e0" charOffset="0-7"
+            type="drug_n" text="Curcumin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s2" text="In the present study, the antidepressant like activity of curcumin and its combination with fluoxetine and imipramine was studied in acute model (three doses 24, 5 and 1 h before test) of forced swimming test (FST) in glass jar and tail suspension test (TST) in mice and in chronic model (14 day study) of FST with water wheel in rats. ">
+        <entity id="DDI-MedLine.d206.s2.e0" charOffset="58-65"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s2.e1" charOffset="92-101"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s2.e2" charOffset="107-116"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s2.p0" e1="DDI-MedLine.d206.s2.e0"
+            e2="DDI-MedLine.d206.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s2.p1" e1="DDI-MedLine.d206.s2.e0"
+            e2="DDI-MedLine.d206.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s2.p2" e1="DDI-MedLine.d206.s2.e1"
+            e2="DDI-MedLine.d206.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s3" text="All the tests were carried out in the following seven groups (n = 6 in each group), drugs being given orally (doses for mice): Group 1 (vehicle), group 2 (curcumin 50 mg/kg), group 3 (curcumin 100 mg/kg), group 4 (fluoxetine 20 mg/kg), group 5 (imipramine 15 mg/kg), group 6 (curcumin 100 mg/kg plus fluoxetine 20 mg/kg) and group 7 (curcumin 100 mg/kg plus imipramine 15 mg/kg). ">
+        <entity id="DDI-MedLine.d206.s3.e0" charOffset="155-162"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e1" charOffset="184-191"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e2" charOffset="214-223"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s3.e3" charOffset="245-254"
+            type="drug" text="imipramine"/>
+        <entity id="DDI-MedLine.d206.s3.e4" charOffset="276-283"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e5" charOffset="300-309"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s3.e6" charOffset="334-341"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e7" charOffset="358-367"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s3.p0" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p1" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p2" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p3" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p4" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p5" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p6" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p7" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p8" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p9" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p10" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p11" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p12" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p13" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p14" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p15" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p16" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p17" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p18" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p19" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p20" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p21" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p22" e1="DDI-MedLine.d206.s3.e4"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p23" e1="DDI-MedLine.d206.s3.e4"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p24" e1="DDI-MedLine.d206.s3.e4"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p25" e1="DDI-MedLine.d206.s3.e5"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p26" e1="DDI-MedLine.d206.s3.e5"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p27" e1="DDI-MedLine.d206.s3.e6"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s4" text="Equivalent doses for rats were used. "/>
+    <sentence id="DDI-MedLine.d206.s5" text="Both the acute model of FST and TST, and the chronic model of FST with water wheel showed significant antidepressant like activity of curcumin in 100 mg/kg dose as compared to vehicle control (p &lt; 0.05). ">
+        <entity id="DDI-MedLine.d206.s5.e0" charOffset="134-141"
+            type="drug_n" text="curcumin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s6" text="The effect of curcumin (100 mg/kg) was similar to that of fluoxetine and imipramine (p > 0.05) but its addition to fluoxetine and imipramine did not improve their antidepressant activity (p > 0.05). ">
+        <entity id="DDI-MedLine.d206.s6.e0" charOffset="14-21"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s6.e1" charOffset="58-67"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s6.e2" charOffset="73-82"
+            type="drug" text="imipramine"/>
+        <entity id="DDI-MedLine.d206.s6.e3" charOffset="115-124"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s6.e4" charOffset="130-139"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s6.p0" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p1" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p2" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p3" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p4" e1="DDI-MedLine.d206.s6.e1"
+            e2="DDI-MedLine.d206.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p5" e1="DDI-MedLine.d206.s6.e1"
+            e2="DDI-MedLine.d206.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p6" e1="DDI-MedLine.d206.s6.e1"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p7" e1="DDI-MedLine.d206.s6.e2"
+            e2="DDI-MedLine.d206.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p8" e1="DDI-MedLine.d206.s6.e2"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p9" e1="DDI-MedLine.d206.s6.e3"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s7" text="Curcumin increased both the swimming and climbing behavior in FST, thus its antidepressant like activity could be due to an increase in serotonin, norepinephrine and dopamine levels in the brain. ">
+        <entity id="DDI-MedLine.d206.s7.e0" charOffset="0-7"
+            type="drug_n" text="Curcumin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s8" text="Curcumin can be a useful antidepressant especially in cases which respond to drugs having mixed effects on serotonin and catecholamines levels in the brain.">
+        <entity id="DDI-MedLine.d206.s8.e0" charOffset="0-7"
+            type="drug_n" text="Curcumin"/>
+        <entity id="DDI-MedLine.d206.s8.e1" charOffset="25-38"
+            type="group" text="antidepressant"/>
+        <pair id="DDI-MedLine.d206.s8.p0" e1="DDI-MedLine.d206.s8.e0"
+            e2="DDI-MedLine.d206.s8.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d177.s0" text="[Polypharmacy and drug interactions].&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d177.s1" text="The growing consumption of drugs and other numerous factors relates to the increasing incidence of polypharmacy. "/>
+    <sentence id="DDI-MedLine.d177.s2" text="The proportion of patients currently treated with 5 or more medicines at the elderly population in particular is 30-60% of patients. "/>
+    <sentence id="DDI-MedLine.d177.s3" text="Repeatedly has been proven the dependence between the number of concomitant drugs and occurrence of adverse effects, patients requiring hospitalization, or incidence of moderate and serious drug interactions. "/>
+    <sentence id="DDI-MedLine.d177.s4" text="Some works show that it is possible to satisfactorily address the issues of polypharmacy, but it requires great courage and an interdisciplinary approach involving modern information technology."/>
+    <sentence id="DDI-MedLine.d197.s0" text="[Vitamin D and drugs].;">
+        <entity id="DDI-MedLine.d197.s0.e0" charOffset="1-9"
+            type="group" text="Vitamin D"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s1" text="Interactions between drugs and vitamin D have received only little or no attention in the medical and pharmaceutical world in the past. ">
+        <entity id="DDI-MedLine.d197.s1.e0" charOffset="31-39"
+            type="group" text="vitamin D"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s2" text="Since more and more drugs are used for the treatment of patients, this topic is increasingly relevant. "/>
+    <sentence id="DDI-MedLine.d197.s3" text="As such interactions impact the health of the patient and the action and side effects of the drug, physicians and pharmacists should pay more attention to such interactions in the future. "/>
+    <sentence id="DDI-MedLine.d197.s4" text="A number of drugs can interfere with the vitamin D and bone metabolism. ">
+        <entity id="DDI-MedLine.d197.s4.e0" charOffset="41-49"
+            type="group" text="vitamin D"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s5" text="The drug-induced activation of the pregnane X receptor (PXR) is likely to enhance CYP24 expression and the catabolism of 25(OH)D, leading to vitamin D deficiency. "/>
+    <sentence id="DDI-MedLine.d197.s6" text="PXR-ligands include a wide variety of pharmaceutical agents, such as antiepileptic drugs, taxol, rifampicin, and human immunodeficiency virus protease inhibitors such as ritonavir and saquinavir. ">
+        <entity id="DDI-MedLine.d197.s6.e0" charOffset="69-87"
+            type="group" text="antiepileptic drugs"/>
+        <entity id="DDI-MedLine.d197.s6.e1" charOffset="90-94"
+            type="brand" text="taxol"/>
+        <entity id="DDI-MedLine.d197.s6.e2" charOffset="97-106"
+            type="drug" text="rifampicin"/>
+        <entity id="DDI-MedLine.d197.s6.e3" charOffset="113-160"
+            type="group" text="human immunodeficiency virus protease inhibitors"/>
+        <entity id="DDI-MedLine.d197.s6.e4" charOffset="170-178"
+            type="drug" text="ritonavir"/>
+        <entity id="DDI-MedLine.d197.s6.e5" charOffset="184-193"
+            type="drug" text="saquinavir"/>
+        <pair id="DDI-MedLine.d197.s6.p0" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p1" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p2" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p3" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p4" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p5" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p6" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p7" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p8" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p9" e1="DDI-MedLine.d197.s6.e2"
+            e2="DDI-MedLine.d197.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p10" e1="DDI-MedLine.d197.s6.e2"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p11" e1="DDI-MedLine.d197.s6.e2"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p12" e1="DDI-MedLine.d197.s6.e3"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p13" e1="DDI-MedLine.d197.s6.e3"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p14" e1="DDI-MedLine.d197.s6.e4"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s7" text="Beside this, the medication oriented supplementation of vitamin D can also ameliorate the pharmacologic action of many drugs, such as bisphosphonates, statins and cytostatic drugs.">
+        <entity id="DDI-MedLine.d197.s7.e0" charOffset="56-64"
+            type="group" text="vitamin D"/>
+        <entity id="DDI-MedLine.d197.s7.e1" charOffset="134-148"
+            type="group" text="bisphosphonates"/>
+        <entity id="DDI-MedLine.d197.s7.e2" charOffset="151-157"
+            type="group" text="statins"/>
+        <entity id="DDI-MedLine.d197.s7.e3" charOffset="163-178"
+            type="group" text="cytostatic drugs"/>
+        <pair id="DDI-MedLine.d197.s7.p0" e1="DDI-MedLine.d197.s7.e0"
+            e2="DDI-MedLine.d197.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p1" e1="DDI-MedLine.d197.s7.e0"
+            e2="DDI-MedLine.d197.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p2" e1="DDI-MedLine.d197.s7.e0"
+            e2="DDI-MedLine.d197.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p3" e1="DDI-MedLine.d197.s7.e1"
+            e2="DDI-MedLine.d197.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p4" e1="DDI-MedLine.d197.s7.e1"
+            e2="DDI-MedLine.d197.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p5" e1="DDI-MedLine.d197.s7.e2"
+            e2="DDI-MedLine.d197.s7.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d210.s0" text="[Drug interactions on P-glycoprotein transport level and its application].&#xa;"/>
+    <sentence id="DDI-MedLine.d210.s1" text="Potential drug interactions on P-glycoprotein transport level were discussed in this article. "/>
+    <sentence id="DDI-MedLine.d210.s2" text="As an efflux transporter protein widely distributed in various tissues, P-glycoprotein plays an important role in many drugs interactions, via affecting the metabolic process to alter the concentration of drug in plasma and tissue. "/>
+    <sentence id="DDI-MedLine.d210.s3" text="Interactions between herb and western drug may occur by inducing or inhibiting P-glycoprotein, resulting in either efficacy enhancement or adverse effects. "/>
+    <sentence id="DDI-MedLine.d210.s4" text="So it is important for clinical drug use by rational utilization of the interaction between herb and western drug which medicated by P-glycoprotein."/>
+    <sentence id="DDI-MedLine.d160.s0" text="[Summary of revised contents of medical standards of preparation recorded in Chinese Pharmacopeia (I division, 2010 edition)].&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d160.s1" text="China pharmacopoeia is a civil code which is to ensure pharmaceutical quality and protect people's drug safety and effectiveness. "/>
+    <sentence id="DDI-MedLine.d160.s2" text="Drug standards are consist of two parts, the pharmaceutical standards and medical standards. "/>
+    <sentence id="DDI-MedLine.d160.s3" text="Medical standards include four contents, such as prescription, function and indications, usage and dosage and attentions. "/>
+    <sentence id="DDI-MedLine.d160.s4" text="This paper summarized the revised contents of medical standards and suggested some propositions."/>
+    <sentence id="DDI-MedLine.d153.s0" text="Determination of propiverine hydrochloride in human plasma by high performance liquid chromatography-tandem mass spectrometry: application to the pharmacokinetic study of a sustained release formulation.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d153.s0.e0" charOffset="17-41"
+            type="drug" text="propiverine hydrochloride"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s1" text="A rapid, sensitive and reliable high performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS) method was developed and validated for the determination of propiverine hydrochloride (CAS 54556-98-8) in human plasma using cetirizine di-hydrochloride as internal standard (IS, CAS 8388-51-0). ">
+        <entity id="DDI-MedLine.d153.s1.e0" charOffset="169-193"
+            type="drug" text="propiverine hydrochloride"/>
+        <entity id="DDI-MedLine.d153.s1.e1" charOffset="234-260"
+            type="drug" text="cetirizine di-hydrochloride"/>
+        <pair id="DDI-MedLine.d153.s1.p0" e1="DDI-MedLine.d153.s1.e0"
+            e2="DDI-MedLine.d153.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s2" text="Following liquid-liquid extraction with ethyl acetate, the separation was performed on a reverse phase C18 column with a mobile phase consisted of methanol-ammonium acetate (pH 4.0; 10 mM) (70:30, v/v). ">
+        <entity id="DDI-MedLine.d153.s2.e0" charOffset="40-52"
+            type="drug_n" text="ethyl acetate"/>
+        <entity id="DDI-MedLine.d153.s2.e1" charOffset="147-171"
+            type="drug_n" text="methanol-ammonium acetate"/>
+        <pair id="DDI-MedLine.d153.s2.p0" e1="DDI-MedLine.d153.s2.e0"
+            e2="DDI-MedLine.d153.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s3" text="The detection was performed by a triple-quadrupole mass spectrometer in the positive ion and multiple reaction monitoring (MRM) mode, m/z 368.3 --> "/>
+    <sentence id="DDI-MedLine.d153.s4" text="116.1 for propiverine and m/z 389.2 --> ">
+        <entity id="DDI-MedLine.d153.s4.e0" charOffset="10-20"
+            type="drug" text="propiverine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s5" text="201.0 for the IS. "/>
+    <sentence id="DDI-MedLine.d153.s6" text="The calibration curve fitted well over the concentration range of 0.2-200 ng/mL (all the concentration data in this study are related to salt (propiverine hydrochloride)). ">
+        <entity id="DDI-MedLine.d153.s6.e0" charOffset="143-167"
+            type="drug" text="propiverine hydrochloride"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s7" text="The limit of detection (LOD) and lower limit of quantification (LLOQ) in human plasma were 0.05 and 0.2 ng/mL, respectively. "/>
+    <sentence id="DDI-MedLine.d153.s8" text="The method was proved to be rapid, sensitive, specific, accurate and reproducible and has been successfully applied to a pharmacokinetic study of propiverine hydrochloride sustained release capsules (the 30 mg dose in this">
+        <entity id="DDI-MedLine.d153.s8.e0" charOffset="146-170"
+            type="drug" text="propiverine hydrochloride"/>
+    </sentence>
+</document>
