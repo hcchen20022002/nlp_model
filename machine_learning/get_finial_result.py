@@ -12,18 +12,21 @@ def get_sentence(file_name):
 class RelevantData(object):
     def __init__(self, expect_data = [], real_data = []):
         self.TP, self.FP, self.FN, self.TN = 0.0, 0.0, 0.0, 0.0
+        self.adviseT, self.effectT, self.intT, self.mechanismT = 0.0, 0.0, 0.0, 0.0
+        self.adviseN, self.effectN, self.intN, self.mechanismN = 0.0, 0.0, 0.0, 0.0
         amount_of_data = len(expect_data)
         if len(real_data) !=  amount_of_data :
             print('Amount of expect result and real result cannot match!')
             exit()
         for count in range(amount_of_data):
-            if expect_data[count] == '1\n':
-                if real_data[count] == '1\n':
+            if expect_data[count] in ['1\n', '2\n', '3\n', '4\n']:
+                #if real_data[count] == expect_data[count]:
+                if real_data[count]  in ['1\n', '2\n', '3\n', '4\n']:
                     self.TP = self.TP + 1
                 else:
                     self.FN = self.FN + 1
             elif expect_data[count] == '0\n':
-                if real_data[count] == '0\n':
+                if real_data[count] == expect_data[count]:
                     self.TN = self.TN + 1
                 else:
                     self.FP = self.FP + 1
@@ -31,12 +34,18 @@ class RelevantData(object):
         self.total = self.TP + self.FP + self.FN + self.TN
     def accuracy(self):
         return (self.TP + self.TN)/ self.total
-    def precision(self):
+    def pprecision(self):
         return self.TP / (self.TP + self.FP)
-    def recall(self):
+    def precall(self):
         return self.TP / (self.TP + self.FN)
-    def F1(self):
+    def pF1(self):
         return self.TP*2 / (self.TP*2 + self.FP + self.FN)
+    def nprecision(self):
+        return self.TN / (self.TN + self.FN)
+    def nrecall(self):
+        return self.TN / (self.TN + self.FP)
+    def nF1(self):
+        return self.TN*2 / (self.TN*2 + self.FP + self.FN)
     #def nF1(self):
     #    return self.TN*2 / (self.TN*2 + self.FP + self.FN)
 
@@ -53,13 +62,12 @@ if '__main__' == __name__ :
     expect_data = get_sentence(opt.expect)
     real_data = get_sentence(opt.real)
     relevant_data = RelevantData(expect_data, real_data)
-    print('_________________________________')
     print('TP : {0}'.format(relevant_data.TP))
     print('FP : {0}'.format(relevant_data.FP))
     print('FN : {0}'.format(relevant_data.FN))
     print('TN : {0}'.format(relevant_data.TN))
     print('Total : {0}'.format(relevant_data.total))
-    print('_________________________________')
+    print('')
 
     if 'accuracy' == opt.option:
         print(relevant_data.accuracy())
@@ -71,7 +79,14 @@ if '__main__' == __name__ :
         print(relevant_data.F1())
     elif 'all' == opt.option:
         print('Accuracy : {0}'.format(relevant_data.accuracy()))
-        print('Precision : {0}'.format(relevant_data.precision()))
-        print('Recall : {0}'.format(relevant_data.recall()))
-        print('F1 : {0}'.format(relevant_data.F1()))
+        print('')
+        print('Positive Precision : {0}'.format(relevant_data.pprecision()))
+        print('Negative Precision : {0}'.format(relevant_data.nprecision()))
+        print('')
+        print('Positive Recall : {0}'.format(relevant_data.precall()))
+        print('Negative Recall : {0}'.format(relevant_data.nrecall()))
+        print('')
+        print('Positve F1 : {0}'.format(relevant_data.pF1()))
+        print('Negative F1 : {0}'.format(relevant_data.nF1()))
+        print('')
     #    print('Negative F1 : {0}'.format(relevant_data.nF1()))
