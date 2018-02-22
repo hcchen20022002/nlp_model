@@ -18,19 +18,53 @@ class RelevantData(object):
         if len(real_data) !=  amount_of_data :
             print('Amount of expect result and real result cannot match!')
             exit()
+
+        #tp_dict = [{'11':0,'12':0,'13':0,'14':0},
+        #    {'21':0,'22':0,'23':0,'24':0},
+        #    {'31':0,'32':0,'33':0,'34':0},
+        #    {'41':0,'42':0,'43':0,'44':0}]
+        true_tp_dict = {}
+        false_tp_dict = {}
+        fn_dict = {}
+        fp_dict = {}
         for count in range(amount_of_data):
-            if expect_data[count] in ['1\n', '2\n', '3\n', '4\n']:
-                #if real_data[count] == expect_data[count]:
-                if real_data[count]  in ['1\n', '2\n', '3\n', '4\n']:
+            real = real_data[count][0]
+            expect = expect_data[count][0]
+            if expect in ['1', '2', '3', '4']:
+                #if real == expect:
+                if real in ['1', '2', '3', '4']:
                     self.TP = self.TP + 1
+                    if real == expect:
+                        if expect in true_tp_dict:
+                            true_tp_dict[expect] += 1
+                        else:
+                            true_tp_dict[expect] = 1
+                    else:
+                        if expect + real in false_tp_dict:
+                            false_tp_dict[expect + real] += 1
+                        else:
+                            false_tp_dict[expect + real] = 1
+
                 else:
                     self.FN = self.FN + 1
-            elif expect_data[count] == '0\n':
-                if real_data[count] == expect_data[count]:
+                    if expect in fn_dict:
+                        fn_dict[expect] += 1
+                    else:
+                        fn_dict[expect] = 1
+
+            elif expect == '0':
+                if real == expect:
                     self.TN = self.TN + 1
                 else:
+                    if real in fp_dict:
+                        fp_dict[real] += 1
+                    else:
+                        fp_dict[real] = 1
                     self.FP = self.FP + 1
-
+        print('True TP dict: {0}'.format(true_tp_dict))
+        print('False TP dict: {0}'.format(false_tp_dict))
+        print('FN dict: {0}'.format(fn_dict))
+        print('FP dict: {0}'.format(fp_dict))
         self.total = self.TP + self.FP + self.FN + self.TN
     def accuracy(self):
         return (self.TP + self.TN)/ self.total
