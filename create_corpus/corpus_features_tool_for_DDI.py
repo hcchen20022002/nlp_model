@@ -2,6 +2,7 @@
 # coding=UTF-8
 
 import sys, argparse, json, time, re
+from stemming.porter2 import stem
 
 def get_info(contents = []):
     positive_count = 0
@@ -9,14 +10,14 @@ def get_info(contents = []):
     max_re = 0
     polarity_dict = {}
     for _ in contents:
-        polarity = _['polarity']
-#        for _i in _['polarity']:
-#            polarity = _i
+     #   polarity = _['polarity']
+        for _i in _['polarity']:
+            polarity = _i
 
-        if polarity in polarity_dict:
-            polarity_dict[polarity] += 1
-        else:
-            polarity_dict[polarity] = 1
+            if polarity in polarity_dict:
+                polarity_dict[polarity] += 1
+            else:
+                polarity_dict[polarity] = 1
 
 
 #        print(_['drug1'])
@@ -42,7 +43,7 @@ def create_feature(contents = [], f_type = 'all'):
 #                error_list.append(sen)
 #                error_count += 1
 #                continue
-            word_features = _get_word_feature(item1, item2, sen['pos_tree'])
+            word_features, item1_index, item2_index = _get_word_feature(item1, item2, sen['pos_tree'])
             # transform polarity to level
             polarity = 'XXXXXXXXX'
             if sen['polarity'] == 'advise':
@@ -58,7 +59,7 @@ def create_feature(contents = [], f_type = 'all'):
             elif sen['polarity'] == 'false':
                 polarity = 0
 
-            feature = '{0} 1:{1} 2:{2} 3:{3} 4:{4} 5:{5} 6:{6} 7:{7} 8:{8} 9:{9} 10:{10} 11:{11} 12:{12} 13:{13} 14:{14} 15:{15} 16:{16} 17:{17} 18:{18} 19:{19} 20:{20} 21:{21} 22:{22} 23:{23} 24:{24} 25:{25}'.format(
+            feature = '{} 1:{} 2:{} 3:{} 4:{} 5:{} 6:{} 7:{} 8:{} 9:{} 10:{} 11:{} 12:{} 13:{} 14:{} 15:{} 16:{} 17:{} 18:{} 19:{} 20:{} 21:{} 22:{} 23:{} 24:{} 25:{} '.format(
                     polarity,
                     sen['pos_tree_height'],
                     len( sen['tree_sentence']),
@@ -86,6 +87,17 @@ def create_feature(contents = [], f_type = 'all'):
                     word_features['reverse_wd_count'],
                     sen['orig_sen'].count(' '))
 
+            ddi_feature_dict = _get_ddi_feature(item1_index, item2_index, sen['tree_sentence'])
+            ddi_feature = '26:{} 27:{} 28:{} 29:{} 30:{} 31:{} 32:{} 33:{}'.format(
+                    int(stem(sen['drug1'].lower()) == stem(sen['drug2'].lower())),
+                    ddi_feature_dict['period_plus_semicolon_count'],
+                    ddi_feature_dict['colon_count'],
+                    ddi_feature_dict['or_count'],
+                    ddi_feature_dict['and_count'],
+                    ddi_feature_dict['comma_count'],
+                    ddi_feature_dict['positive_word_count'],
+                    ddi_feature_dict['example_count'])
+            feature += ddi_feature
 
             feature_file = '{0}_type_data_set'.format(sen['polarity'])
             print(feature)
@@ -169,7 +181,34 @@ def _get_word_feature(item1, item2, pos_tree = []):
             'verb_list': verb_list,
             'noun_list': noun_list,
             'IN_list': IN_list}
-    return word_features
+    return word_features, item1_index, item2_index
+
+def _get_ddi_feature(item1_index, item2_index, sentence = []):
+    ddi_feature_dict = {
+            'period_plus_semicolon_count': 0,
+            'colon_count': 0,
+            'comma_count': 0,
+            'or_count': 0,
+            'and_count': 0,
+            'positive_word_count': len([x for x in sentence \
+                    if x in ['observed', 'shown', 'found', 'with']]),
+            'example_count': len([x for x in sentence \
+                    if x in ['such', 'like', 'example', 'e.g.']])}
+
+    print(sentence[item1_index:item2_index])
+    for wd in sentence[item1_index:item2_index]:
+        if wd == '.' or  wd == ';':
+            ddi_feature_dict['period_plus_semicolon_count'] += 1
+        elif wd == ':':
+            ddi_feature_dict['colon_count'] += 1
+        elif wd == ',':
+            ddi_feature_dict['comma_count'] += 1
+        elif wd == 'or':
+            ddi_feature_dict['or_count'] = 1
+        elif wd == 'and':
+            ddi_feature_dict['and_count'] = 1
+
+    return ddi_feature_dict
 
 def _get_ASCII(string = ''):
     ASCII_value = 0

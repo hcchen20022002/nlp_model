@@ -98,13 +98,14 @@ def get_parsing_tree(sentences_list = []):
             continue
 
         polarity_list = list(sen_info['polarity'])
+        '''
         if len(item_pair_list)*len(item_pair_list[0][1]) < len(polarity_list):
             error_dict['polarity_error'].append(sen_info)
             print(sen_info)
             print(item_pair_list)
             print('polarity error -----------------------------------------------------')
             continue
-
+        '''
         try:
             orig_tree = list(stanford_tool.get_parse(
                     [sentence_with_item_label])[0])
@@ -119,6 +120,7 @@ def get_parsing_tree(sentences_list = []):
         for pair_polarity in polarity_list:
             re_item1, re_item2 = 'NORMAN$', '!CAROLINE'
             check_data_correct, break_switch = 0, 0
+            '''
             try:
                 # item1, 2 have to be in right order in sentence
                 while not re.search('{0}.*{1}'.format(re_item1, re_item2),
@@ -145,9 +147,10 @@ def get_parsing_tree(sentences_list = []):
                 print(item_pair_list)
                 print(sentence_with_item_label)
                 exit()
+            '''
             # TODO work around for polarity error
-            #re_item1 = item_pair_list[item1_index][0]
-            #re_item2 = item_pair_list[item1_index][1][item2_index]
+            re_item1 = item_pair_list[item1_index][0]
+            re_item2 = item_pair_list[item1_index][1][item2_index]
             # TODO work around for polarity error
             print(pair_polarity)
             for h in range(0, orig_tree[0].height()):
@@ -269,7 +272,8 @@ if '__main__' == __name__ :
     elif 'get_tree' == opt.option:
         with open(opt.Input) as json_f:
             sen_list = json.load(json_f)
-        results = get_parsing_tree(sen_list)
+        results = get_parsing_tree(sen_list['polarity_error'])
+        #results = get_parsing_tree(sen_list)
         with open(opt.Output, 'w') as output_json:
             json.dump(results, output_json)
     elif 'compare' == opt.option:
