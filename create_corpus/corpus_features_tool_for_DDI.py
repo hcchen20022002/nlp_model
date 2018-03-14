@@ -89,12 +89,6 @@ def create_feature(contents = [], f_type = 'all'):
 
             ddi_feature_dict = _get_ddi_feature(item1_index, item2_index, sen['tree_sentence'])
             ddi_feature = '26:{} 27:{} 28:{} 29:{} 30:{} 31:{} 32:{} 33:{} 34:{} 35:{} 36:{} 37:{}'.format(
-                    ddi_feature_dict, ddi_feature_dict, ddi_feature_dict,
-                    ddi_feature_dict, ddi_feature_dict, ddi_feature_dict, 
-                    ddi_feature_dict, ddi_feature_dict, ddi_feature_dict, 
-                    ddi_feature_dict, ddi_feature_dict, ddi_feature_dict)
-            '''
-            ddi_feature = '26:{} 27:{} 28:{} 29:{} 30:{} 31:{} 32:{} 33:{}'.format(
                     int(stem(sen['drug1'].lower()) == stem(sen['drug2'].lower())),
                     ddi_feature_dict['period_plus_semicolon_count'],
                     ddi_feature_dict['colon_count'],
@@ -102,8 +96,11 @@ def create_feature(contents = [], f_type = 'all'):
                     ddi_feature_dict['and_count'],
                     ddi_feature_dict['comma_count'],
                     ddi_feature_dict['positive_word_count'],
-                    ddi_feature_dict['example_count'])
-            '''
+                    ddi_feature_dict['example_count'],
+                    ddi_feature_dict['advice_count'],
+                    ddi_feature_dict['effect_count'],
+                    ddi_feature_dict['int_count'],
+                    ddi_feature_dict['mechanism_count'])
             feature += ddi_feature
 
             feature_file = '{0}_type_data_set'.format(sen['polarity'])
@@ -191,7 +188,6 @@ def _get_word_feature(item1, item2, pos_tree = []):
     return word_features, item1_index, item2_index
 
 def _get_ddi_feature(item1_index, item2_index, sentence = []):
-    '''
     ddi_feature_dict = {
             'period_plus_semicolon_count': 0,
             'colon_count': 0,
@@ -201,7 +197,16 @@ def _get_ddi_feature(item1_index, item2_index, sentence = []):
             'positive_word_count': len([x for x in sentence \
                     if x in ['observed', 'shown', 'found', 'with']]),
             'example_count': len([x for x in sentence \
-                    if x in ['such', 'like', 'example', 'e.g.']])}
+                    if x in ['such', 'like', 'example', 'e.g.']]),
+            'advice_count': len([x for x in sentence \
+                    if x in ['suggest', 'should']]),
+            'effect_count': len([x for x in sentence \
+                    if x in ['increase', 'enhance', 'decrease', 'reduce', 'synergism', 'antagonism']]),
+            'int_count': len([x for x in sentence \
+                    if x in ['interact']]),
+            'mechanism_count': len([x for x in sentence \
+                    if x in ['distributed', 'excreted', 'absorption', 'concentrations']])
+            }
 
     print(sentence[item1_index:item2_index])
     for wd in sentence[item1_index:item2_index]:
@@ -216,60 +221,6 @@ def _get_ddi_feature(item1_index, item2_index, sentence = []):
         elif wd == 'and':
             ddi_feature_dict['and_count'] = 1
     return ddi_feature_dict
-    '''
-    ddi_feature = 9
-    if '.' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif ';' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'or' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif ',' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'observed' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'shown' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'found' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'such' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'like' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'example' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'e.g.' in sentence[item1_index:item2_index]:
-        ddi_feature = 0
-    elif 'suggest' in sentence[item1_index:item2_index]:
-        ddi_feature = 1
-    elif 'should' in sentence[item1_index:item2_index]:
-        ddi_feature = 1
-    elif 'interact' in sentence[item1_index:item2_index]:
-        ddi_feature = 3
-    elif 'increase' in sentence[item1_index:item2_index]:
-        ddi_feature = 2
-    elif 'enhance' in sentence[item1_index:item2_index]:
-        ddi_feature = 2
-    elif 'decrease' in sentence[item1_index:item2_index]:
-        ddi_feature = 2
-    elif 'reduce' in sentence[item1_index:item2_index]:
-        ddi_feature = 2
-    elif 'synergism' in sentence[item1_index:item2_index]:
-        ddi_feature = 2
-    elif 'antagonism' in sentence[item1_index:item2_index]:
-        ddi_feature = 2
-    elif 'distributed' in sentence[item1_index:item2_index]:
-        ddi_feature = 4
-    elif 'excreted' in sentence[item1_index:item2_index]:
-        ddi_feature = 4
-    elif 'absorption' in sentence[item1_index:item2_index]:
-        ddi_feature = 4
-    elif 'metabolism' in sentence[item1_index:item2_index]:
-        ddi_feature = 4
-    elif 'concentrations' in sentence[item1_index:item2_index]:
-        ddi_feature = 4
-
-    return ddi_feature
 
 def _get_ASCII(string = ''):
     ASCII_value = 0
