@@ -75,7 +75,7 @@ class feature_data_set(object):
             return False
         self.max_feature += 1
         for i in range(0,len(self.data_set)):
-            self.data_set[i][self.max_feature] = int(feature_set[i])
+            self.data_set[i][self.max_feature] = int(feature_set[i]) if int(feature_set[i]) != self.data_set[i][0] else -1
         return True
 
     def divide_data_set(self, divided_part = 10):
